@@ -4,6 +4,6 @@
 
 Unit introduction:
 
-* [Video lecture](https://web.microsoftstream.com/video/7eb56f58-8f54-49f9-a9e1-49600ff9d68c)
-* [Slides](https://web.microsoftstream.com/video/7eb56f58-8f54-49f9-a9e1-49600ff9d68c)
-* [Slides - print out 6up](https://web.microsoftstream.com/video/7eb56f58-8f54-49f9-a9e1-49600ff9d68c)
+* [Video lecture - Stream](https://web.microsoftstream.com/video/7eb56f58-8f54-49f9-a9e1-49600ff9d68c)
+* [Slides pdf](https://web.microsoftstream.com/video/7eb56f58-8f54-49f9-a9e1-49600ff9d68c)
+* [Slides - 6up print out pdf](https://web.microsoftstream.com/video/7eb56f58-8f54-49f9-a9e1-49600ff9d68c)
