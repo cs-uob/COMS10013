@@ -7,6 +7,6 @@ Everything will continue more or less as you were used to from Mathematics A, bu
 Please follow these links for:
 
   * [Topics on the unit](topics.html)
-  * [Unit organisation](organisation.html)
-  * [Schedule and unit materials](materials.html)
+  * [Unit organisation and schedule](organisation.html)
+  * [Unit materials](materials.html)
   
