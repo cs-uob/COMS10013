@@ -24,4 +24,4 @@ Lecture 2: Geometry and vectors
 * [Slides pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_geometry_slides.pdf?csf=1&web=1&e=r4GQ2X)
 * [Slides - 6up print out pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_geometry_slides_6up.pdf?csf=1&web=1&e=oJMyvr)
 * [Slides - with notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_geometry_slides_notes.pdf?csf=1&web=1&e=URh31a)
-* Course notes - to appear shortly .........
+* [Course notes](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_geometry_notes.pdf?csf=1&web=1&e=RvoMDa)
