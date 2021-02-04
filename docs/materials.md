@@ -17,3 +17,11 @@ Lecture 1: Introduction, vectors and the dot product
 * [Slides - 6up print out pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_intro_slides_6up.pdf?csf=1&web=1&e=4YS1Uo)
 * [Slides - with notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_vectors_slides_notes.pdf?csf=1&web=1&e=KFybLB)
 * [Course notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_vectors_notes.pdf?csf=1&web=1&e=3qSIUU)
+
+Lecture 2: Geometry and vectors
+
+* [Video lecture - Stream](https://web.microsoftstream.com/video/d2f9d829-90eb-4fed-a1ca-01097ac8379a)
+* [Slides pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_geometry_slides.pdf?csf=1&web=1&e=r4GQ2X)
+* [Slides - 6up print out pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_geometry_slides_6up.pdf?csf=1&web=1&e=oJMyvr)
+* [Slides - with notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_geometry_slides_notes.pdf?csf=1&web=1&e=URh31a)
+* Course notes - to appear shortly .........
