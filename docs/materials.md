@@ -28,7 +28,7 @@ Lecture 2: Geometry and Vectors
 * [Slides - with notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_geometry_slides_notes.pdf?csf=1&web=1&e=URh31a)
 * [Course notes](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_geometry_notes.pdf?csf=1&web=1&e=RvoMDa)
 * [Problem Sheet 2](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_geometry_probsheet.pdf?csf=1&web=1&e=b3pDAk)
-* [Problem Sheet 2 with Solutions](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_geometry_probsheet.pdf?csf=1&web=1&e=b3pDAk)
+* [Problem Sheet 2 with Solutions](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_geometry_probsheet_ans.pdf?csf=1&web=1&e=iwyErE)
 
 ### Week 14 (Monday 18th February)
 
