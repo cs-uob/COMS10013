@@ -17,6 +17,8 @@ Lecture 1: Introduction, Vectors and the Dot Product
 * [Slides - 6up print out pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_intro_slides_6up.pdf?csf=1&web=1&e=4YS1Uo)
 * [Slides - with notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_vectors_slides_notes.pdf?csf=1&web=1&e=KFybLB)
 * [Course notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_vectors_notes.pdf?csf=1&web=1&e=3qSIUU)
+* [Problem Sheet 1] (https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_vectors_probsheet.pdf?csf=1&web=1&e=Q6rWCf)
+* [Problem Sheet 1 with Solutions] (https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_vectors_probsheet_ans.pdf?csf=1&web=1&e=N1fehJ)
 
 Lecture 2: Geometry and Vectors
 
