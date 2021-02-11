@@ -39,3 +39,12 @@ Lecture 3: Vector Spaces, Span and Bases
 * [Slides - 6up print out pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_vecspaces_lec1_slides_6up.pdf?csf=1&web=1&e=ee9alN)
 * [Slides - with notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_vecspaces_lec1_slides_notes.pdf?csf=1&web=1&e=63KK2Z)
 * [Course notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_vecspaces_notes.pdf?csf=1&web=1&e=k5O68Y)
+
+Lecture 4: Orthonormal Bases and Subspace Projections
+
+* [Video lecture - Stream](https://web.microsoftstream.com/video/fc3440c2-e4c2-43cb-87be-38054fae176b)
+* [Slides pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_vecspaces_lec2_slides.pdf?csf=1&web=1&e=d2g6eH)
+* [Slides - 6up print out pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_vecspaces_lec2_slides_6up.pdf?csf=1&web=1&e=pmCBGz)
+* [Slides - with notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_vecspaces_lec2_slides_notes.pdf?csf=1&web=1&e=iOlTXs)
+* Course notes - see notes for Lecture 3.
+
