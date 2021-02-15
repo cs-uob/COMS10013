@@ -48,3 +48,12 @@ Lecture 4: Orthonormal Bases and Subspace Projections
 * [Slides - with notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_vecspaces_lec2_slides_notes.pdf?csf=1&web=1&e=iOlTXs)
 * Course notes - see notes for Lecture 3.
 
+### Week 15 (Monday 15th February)
+
+Lecture 5: Matrices
+
+* [Video lecture - Stream](https://web.microsoftstream.com/video/2d091ab9-8c61-41c3-ae52-0d63a0145251)
+* [Slides pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_mats_lec_slides.pdf?csf=1&web=1&e=wNgVQJ)
+* [Slides - 6up print out pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_mats_lec_slides_6up.pdf?csf=1&web=1&e=4wjfpY)
+* [Slides - with notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_mats_lec_slides_notes.pdf?csf=1&web=1&e=MgGIA6)
+* [Course notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_mats_notes.pdf?csf=1&web=1&e=s4JEnJ)
