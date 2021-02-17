@@ -60,7 +60,7 @@ Lecture 5: Matrices
 
 Lecture 6: Linear Systems and Matrices
 
-* [Video lecture - Stream](https://web.microsoftstream.com/video/0b9fcf63-22a2-41e0-93f7-59e2b45d2749)
+* [Video lecture - Stream](https://web.microsoftstream.com/video/70aa5141-7aab-43f9-bec1-3f7e88119606)
 * [Slides pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_linsys_lec_slides.pdf?csf=1&web=1&e=I0du18)
 * [Slides - 6up print out pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_linsys_lec_slides_6up.pdf?csf=1&web=1&e=9pGnDV)
 * [Slides - with notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_linsys_lec_slides_notes.pdf?csf=1&web=1&e=uJE1bf)
