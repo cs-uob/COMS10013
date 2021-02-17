@@ -57,3 +57,11 @@ Lecture 5: Matrices
 * [Slides - 6up print out pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_mats_lec_slides_6up.pdf?csf=1&web=1&e=4wjfpY)
 * [Slides - with notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_mats_lec_slides_notes.pdf?csf=1&web=1&e=MgGIA6)
 * [Course notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_mats_notes.pdf?csf=1&web=1&e=s4JEnJ)
+
+Lecture 6: Linear Systems and Matrices
+
+* [Video lecture - Stream](https://web.microsoftstream.com/video/0b9fcf63-22a2-41e0-93f7-59e2b45d2749)
+* [Slides pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_linsys_lec_slides.pdf?csf=1&web=1&e=I0du18)
+* [Slides - 6up print out pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_linsys_lec_slides_6up.pdf?csf=1&web=1&e=9pGnDV)
+* [Slides - with notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_linsys_lec_slides_notes.pdf?csf=1&web=1&e=uJE1bf)
+* [Course notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_linsys_notes.pdf?csf=1&web=1&e=KrH2Fr)
