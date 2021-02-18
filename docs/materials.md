@@ -65,3 +65,11 @@ Lecture 6: Linear Systems and Matrices
 * [Slides - 6up print out pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_linsys_lec_slides_6up.pdf?csf=1&web=1&e=9pGnDV)
 * [Slides - with notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_linsys_lec_slides_notes.pdf?csf=1&web=1&e=uJE1bf)
 * [Course notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_linsys_notes.pdf?csf=1&web=1&e=KrH2Fr)
+
+Lecture 7: Solving Linear Systems and Inverting Matrices
+
+* [Video lecture - Stream](https://web.microsoftstream.com/video/4a53e611-dc1e-4c11-a8b6-1ec0146f48e3)
+* [Slides pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_invm_lec_slides.pdf?csf=1&web=1&e=Tf1SpP)
+* [Slides - 6up print out pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_invm_lec_slides_6up.pdf?csf=1&web=1&e=Je1wjf)
+* Slides - with notes pdf - sorry, not available for this lecture - video transcription available on Stream
+* [Course notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_invm_notes.pdf?csf=1&web=1&e=cJYUba)
