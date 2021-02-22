@@ -77,3 +77,14 @@ Lecture 7: Solving Linear Systems and Inverting Matrices
 * [Slides - 6up print out pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_invm_lec_slides_6up.pdf?csf=1&web=1&e=Je1wjf)
 * Slides - with notes pdf - sorry, not available for this lecture - video transcription available on Stream
 * [Course notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_invm_notes.pdf?csf=1&web=1&e=cJYUba)
+
+### Week 15 (Monday 22nd February)
+
+Lecture 8: Matrices
+
+* [Video lecture - Stream](https://web.microsoftstream.com/video/9d2710ec-3c75-4d76-9cf1-11100e20e6b7)
+* [Slides pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_eig_lec1_slides.pdf?csf=1&web=1&e=X1dVEa)
+* [Slides - 6up print out pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_eig_lec1_slides_6up.pdf?csf=1&web=1&e=dEHsPd)
+* Slides - with notes pdf - sorry, not available for this lecture - video transcription available on Stream
+* [Course notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_eig_notes.pdf?csf=1&web=1&e=TeF2u1)
+
