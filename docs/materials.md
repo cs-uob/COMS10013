@@ -61,6 +61,8 @@ Lecture 5: Matrices
 * [Slides - 6up print out pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_mats_lec_slides_6up.pdf?csf=1&web=1&e=4wjfpY)
 * [Slides - with notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_mats_lec_slides_notes.pdf?csf=1&web=1&e=MgGIA6)
 * [Course notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_mats_notes.pdf?csf=1&web=1&e=s4JEnJ)
+* [Problem Sheet 5](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_mats_probsheet.pdf?csf=1&web=1&e=oyYM1A)
+* [Problem Sheet 5 with Solutions](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_mats_probsheet_ans.pdf?csf=1&web=1&e=maNh5R)
 
 Lecture 6: Linear Systems and Matrices
 
