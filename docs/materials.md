@@ -82,7 +82,7 @@ Lecture 7: Solving Linear Systems and Inverting Matrices
 
 ### Week 15 (Monday 22nd February)
 
-Lecture 8: Matrices
+Lecture 8: Eigenvalues and Eigenvectors I
 
 * [Video lecture - Stream](https://web.microsoftstream.com/video/9d2710ec-3c75-4d76-9cf1-11100e20e6b7)
 * [Slides pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_eig_lec1_slides.pdf?csf=1&web=1&e=X1dVEa)
@@ -90,3 +90,10 @@ Lecture 8: Matrices
 * Slides - with notes pdf - sorry, not available for this lecture - video transcription available on Stream
 * [Course notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_eig_notes.pdf?csf=1&web=1&e=TeF2u1)
 
+Lecture 9: Eigenvalues and Eigenvectors II
+
+* [Video lecture - Stream](https://web.microsoftstream.com/video/8669c553-bb9e-4a11-9c14-de28adf2d8e2)
+* [Slides pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_eig_lec2_slides.pdf?csf=1&web=1&e=mqnCfP)
+* [Slides - 6up print out pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_eig_lec2_slides_6up.pdf?csf=1&web=1&e=CCqT9C)
+* Slides - with notes pdf - sorry, not available for this lecture - video transcription available on Stream
+* Course notes - see notes for Lecture 8.
