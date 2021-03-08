@@ -104,7 +104,7 @@ Lecture 9: Eigenvalues and Eigenvectors II
 
 Lecture 10: Analysis I
 
-* [Video lecture (a)](https://uob-my.sharepoint.com/:v:/g/personal/ul19594_bristol_ac_uk/ETH-N_NZrfdMmxXhnqikLycBF-EIgogeKTUaFhZwaa2sKQ?e=RFfVTc)
+* [Video lecture (a)](https://uob-my.sharepoint.com/:v:/g/personal/ul19594_bristol_ac_uk/EbWZ8ZTw7fZOrFmZmL07OpwBFpWoIuJGn0HWZLmd3m36Bw?e=32Mzq4)
 * [Video lecture (b)](https://uob-my.sharepoint.com/:v:/g/personal/ul19594_bristol_ac_uk/ESg8gVBpW_ZGqst61GS63pkBizkzx67-N8KVXRrXjHwSig?e=V4GaBx)
 * [Course notes pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EfiTbl4ZO5VAg0cPs5UmuXYB0XOnbUL5-LloH6d-EXt8dw?e=IUThvX)
 * [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/ETZXW0xc8S9Ohd9f9EsP56ABMPWZUlis9WPTNOGrbmP7AA?e=jkNl9R)
