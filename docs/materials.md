@@ -98,11 +98,13 @@ Lecture 9: Eigenvalues and Eigenvectors II
 * Slides - with notes pdf - sorry, not available for this lecture - video transcription available on Stream
 * Course notes - see notes for Lecture 8.
 
+## Analysis
+
 ### Week 17 (Monday 8th March)
 
 Lecture 10: Analysis I
 
 * [Video lecture (a)](https://uob-my.sharepoint.com/:v:/g/personal/ul19594_bristol_ac_uk/ETH-N_NZrfdMmxXhnqikLycBF-EIgogeKTUaFhZwaa2sKQ?e=RFfVTc)
 * [Video lecture (b)](https://uob-my.sharepoint.com/:v:/g/personal/ul19594_bristol_ac_uk/ESg8gVBpW_ZGqst61GS63pkBizkzx67-N8KVXRrXjHwSig?e=V4GaBx)
-* [Notes pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EfiTbl4ZO5VAg0cPs5UmuXYB0XOnbUL5-LloH6d-EXt8dw?e=IUThvX)
+* [Course notes pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EfiTbl4ZO5VAg0cPs5UmuXYB0XOnbUL5-LloH6d-EXt8dw?e=IUThvX)
 * [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/ETZXW0xc8S9Ohd9f9EsP56ABMPWZUlis9WPTNOGrbmP7AA?e=jkNl9R)
