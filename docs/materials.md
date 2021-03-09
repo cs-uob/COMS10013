@@ -80,7 +80,7 @@ Lecture 7: Solving Linear Systems and Inverting Matrices
 * Slides - with notes pdf - sorry, not available for this lecture - video transcription available on Stream
 * [Course notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_invm_notes.pdf?csf=1&web=1&e=cJYUba)
 
-### Week 15 (Monday 22nd February)
+### Week 16 (Monday 22nd February)
 
 Lecture 8: Eigenvalues and Eigenvectors I
 
@@ -100,7 +100,7 @@ Lecture 9: Eigenvalues and Eigenvectors II
 
 ## Analysis
 
-### Week 17 (Monday 8th March)
+### Week 18 (Monday 8th March)
 
 Lecture 10: Analysis I
 
