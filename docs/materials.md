@@ -122,3 +122,12 @@ Lecture 11: Analysis II
 * [Course notes (a) pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/Ed3zSPHybzVGk30dAGeLiCQBlff7PLcnKX8BtWGBEZiwlg?e=QBaHmh)
 * [Course notes (b) pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EWN3qDpD5DBEndpen_vMHrwBaLB9gXUER76ogTZ6XpcJvA?e=Eeoeza)
 * [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EUpJBFKpRXlJqiPem2AjK9EBcBmS8agDh6HfGanTYQkvPw?e=rbpk4K)
+
+### Week 19 (Monday 15th March)
+
+Lecture 12: Complex numbers
+
+* [Video lecture - Stream](https://web.microsoftstream.com/video/9cf32823-2bbb-4ec9-87af-b9ebaf9157ca)
+* Pictures of the blackboard [1](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EXWR84rme3NIhz_buAsQ9JEBPR-jQQJluAQunJmmZlkgfA?e=usx4Ev), [2](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EYmfZJURpbtBuiVC0D0DiBcBp2YLjf_dRWgqP_LoldfuYA?e=nnks1R), [3](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/ERggWMX60dFKiXK7-apu5z4BWF9UaMd2YJaN6nP6QMacbA?e=VW4fQr)
+* [Course notes pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EUfoWtzCZqBJu1IUq_wIIoUBXZcKWU8-uJX_OrWf30wjgg?e=nxqiIU)
+* [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EeQSKjanfhRChFMaSZOnQ7wB1Ye6KHu2D1RSjpqU7RNxEw?e=BVnRPx)
