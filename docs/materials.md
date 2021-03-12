@@ -79,6 +79,8 @@ Lecture 7: Solving Linear Systems and Inverting Matrices
 * [Slides - 6up print out pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_invm_lec_slides_6up.pdf?csf=1&web=1&e=Je1wjf)
 * Slides - with notes pdf - sorry, not available for this lecture - video transcription available on Stream
 * [Course notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_invm_notes.pdf?csf=1&web=1&e=cJYUba)
+* [Problem Sheet 6](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_invm_probsheet.pdf?csf=1&web=1&e=UfY6uc)
+* [Problem Sheet 6 with Solutions](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_invm_probsheet_ans.pdf?csf=1&web=1&e=lDrsUp)
 
 ### Week 16 (Monday 22nd February)
 
@@ -89,6 +91,8 @@ Lecture 8: Eigenvalues and Eigenvectors I
 * [Slides - 6up print out pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_eig_lec1_slides_6up.pdf?csf=1&web=1&e=dEHsPd)
 * Slides - with notes pdf - sorry, not available for this lecture - video transcription available on Stream
 * [Course notes pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_eig_notes.pdf?csf=1&web=1&e=TeF2u1)
+* [Problem Sheet 7](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_eig_probsheet_1.pdf?csf=1&web=1&e=afJWlr)
+* [Problem Sheet 7 with Solutions](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_eig_probsheet_1_ans.pdf?csf=1&web=1&e=8FrlQN)
 
 Lecture 9: Eigenvalues and Eigenvectors II
 
@@ -97,6 +101,8 @@ Lecture 9: Eigenvalues and Eigenvectors II
 * [Slides - 6up print out pdf](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_eig_lec2_slides_6up.pdf?csf=1&web=1&e=CCqT9C)
 * Slides - with notes pdf - sorry, not available for this lecture - video transcription available on Stream
 * Course notes - see notes for Lecture 8.
+* [Problem Sheet 8](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_eig_probsheet_1_ans.pdf?csf=1&web=1&e=8FrlQN)
+* [Problem Sheet 8 with Solutions](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/materials-adc/mathsB_eig_probsheet_2_ans.pdf?csf=1&web=1&e=yK2HgX)
 
 ## Analysis
 
