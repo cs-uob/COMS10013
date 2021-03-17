@@ -130,5 +130,11 @@ Lecture 12: Complex numbers
 
 * [Video lecture - Stream](https://web.microsoftstream.com/video/9cf32823-2bbb-4ec9-87af-b9ebaf9157ca)
 * Pictures of the blackboard [1](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EXWR84rme3NIhz_buAsQ9JEBPR-jQQJluAQunJmmZlkgfA?e=usx4Ev), [2](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EYmfZJURpbtBuiVC0D0DiBcBp2YLjf_dRWgqP_LoldfuYA?e=nnks1R), [3](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/ERggWMX60dFKiXK7-apu5z4BWF9UaMd2YJaN6nP6QMacbA?e=VW4fQr)
-* [Course notes pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EcJEYv-Gog5KpgGxG5TALjwBneMgxrtWNZ-0DA80cqcllg?e=v8FG0Q)
+* [Course notes pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EZIrvoaa_ORNh8pGvOQlg20BBPpIjrZynYTdh7rGnivK-w?e=FhHzkf)
 * [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EeQSKjanfhRChFMaSZOnQ7wB1Ye6KHu2D1RSjpqU7RNxEw?e=BVnRPx)
+
+Lecture 13: Differential equations part 1
+
+* [Video lecture - Stream](https://web.microsoftstream.com/video/cb212590-9c93-44a3-9c32-fe0bfec689cc)
+* Pictures of the blackboard [1](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EeJE7DhEu3REicygOE12Q6YBYMMw4ipeNcV07geVbgMbpA?e=GbGOT5), [2](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/Ec92Td24iw5HlVFxzc37ohgBDXzEKLqgwxewOhh6BqvLdQ?e=vvGi2D), [3](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/Edfu2_5mroNJs2nbLA95jBABudDbCdpHFTTJ7pGUkVzFkg?e=a9UUbp). Missing first 5 minutes, sorry.
+* [Course notes pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/Efq15O-A9kBLvsuLVvWhd6YBVIZ7raW4FYHsCwAE1wSgew?e=YGnLtX) - these are also the notes for Lecture 14.
