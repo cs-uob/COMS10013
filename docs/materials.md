@@ -123,6 +123,7 @@ Lecture 11: Analysis II
 * [Course notes (a) pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/Ed3zSPHybzVGk30dAGeLiCQBlff7PLcnKX8BtWGBEZiwlg?e=QBaHmh)
 * [Course notes (b) pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EWN3qDpD5DBEndpen_vMHrwBaLB9gXUER76ogTZ6XpcJvA?e=Eeoeza)
 * [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EUpJBFKpRXlJqiPem2AjK9EBcBmS8agDh6HfGanTYQkvPw?e=rbpk4K)
+* [Solutions pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EVd6ERIndfJIjP-eDrrODcUBF1Zs0tJ6B5avJWS35DMJHw?e=dSDo8J)
 
 ### Week 19 (Monday 15th March)
 
