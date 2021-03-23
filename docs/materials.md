@@ -150,3 +150,84 @@ Lecture 14: DIfferential equations part 2
 * Pictures of the blackboard [1](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EfRXdBtN3WJEt-Gn30bjexIBPcmVRzAUt8VMnAVA-eZ0Fw?e=EMnKHd), [2](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EdCr4_4n7ORIu-7-etFoYGwBE2KVBLeBqCMcgCKCJIoOZA?e=9Vrufg), [3](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EQXasDwGLJRBlu1WG_YiPp8BZT1B29GGmK0_dp_Mso5qMQ?e=dZv4mg), [4](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/ET2mZaqGh5pHkCj8ccj3whUBPav4yOPHeECqRl8sW5YpZw?e=2LXXmR), [5](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EVq-M7uRP29IpgpRzhw45hwBd6lgPP6sb8VDFTu0oJVH5A?e=oSbdA7), [6](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EVtwdRQ_9RBPnYfSVBXt61QBx2a6pUyqTTsAg3ziSI_0lw?e=wFVMyJ)
 * Course notes, see Lecture 13.
 * [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EWdlrktqm7xPjKuXk3TYK7gBaQCBS7W6wL_RsVs3cZGlkg?e=b1Ab4m)
+
+## Statistics
+
+### Week 21 (after Easter)
+
+**Lecture 1: introduction and concepts**
+
+Please first watch the videos, then (skim) read the paper.
+
+Videos:
+  - [introduction](https://ams-hsta-ims-ond.mediasite.com/MediasiteDeliver/vol01/bristoluniversity/MP4Video/321c0be0-f9d6-46c2-a6cc-ae96105a376a.mp4/QualityLevels(698000)) (17 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/introduction.pdf)
+  - [concepts](https://ams-hsta-ims-ond.mediasite.com/MediasiteDeliver/vol01/bristoluniversity/MP4Video/cd9d5877-e4e2-4076-aa17-6b6c0c1159e7.mp4/QualityLevels(698000)) (30 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/concepts.pdf)
+
+Scientific Papers:
+  - [Dream investigation results](https://mcspeedrun.com/dream.pdf) (29 pages, but with graphs and code snippets)
+
+Exercises: 
+
+In this part of the course we will be using python/scipy to help us calculate with probability distributions. You might want to install this software as indicated before the workshop as described in the exercise sheet; there are also websites where you can write and run python code online, or you can use it via ssh into a lab machine. You can also use the Alpine VM from Software Tools, by installing the packages `python3` and `py3-scipy`. Note that on Alpine, you have to launch python with `python3` not just `python`.
+
+The exercises are partly a refresh of Maths A probability theory, but with a more statistical angle and as preparation for what's coming in the next few worksheets.
+
+  - [exercise sheet](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/Statistics%20Worksheet%201.pdf)
+
+**Lecture 2: Normal distributions**
+
+_Note: I use capital-N Normal to refer to the specific distribution also known as the Gaussian, whereas a lowercase-n "normal" has the regular English meaning of "usual"._
+
+_Warning: in the notation `N(x, y)`, the first parameter is always the mean, but the second one can be the variance or the standard deviation depending on which textbook you use. It's easy to convert from one to the other, but you do need to know which one you're working with. If someone uses a Greek letter sigma without a "squared", then that always means standard deviation, and sigma-squared always means variance, so you can usually tell by the notation which convention is being used._
+
+Videos:
+
+  - [Normal distribution](https://ams-hsta-ims-ond.mediasite.com/MediasiteDeliver/vol01/bristoluniversity/MP4Video/8314b743-6a03-4c76-91f7-c3f4607bb8c7.mp4/QualityLevels(698000)) (51 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/Normal%20Distribution.pdf)
+
+This is all one video as it's one continuous topic, but I trust that you can use the "pause" button to break it into chunks that are the right size for you.
+
+Exercises:
+  - [exercise sheet](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/Statistics%20Worksheet%202.pdf)
+
+A table of values for the Phi function (CDF of the Normal distribution) can be found on the last page of the exercise sheet.
+
+## Week 22
+
+**Lecture 3: hypothesis testing**
+
+Videos:
+
+  - [hypothesis testing](https://ams-hsta-ims-ond.mediasite.com/MediasiteDeliver/vol01/bristoluniversity/MP4Video/b27521a9-e713-45ac-8f6b-d71a7a3a6469.mp4/QualityLevels(698000)) (23 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/hypothesis%20testing.pdf)
+  - [one-sample tests](https://ams-hsta-ims-ond.mediasite.com/MediasiteDeliver/vol01/bristoluniversity/MP4Video/14e51aa5-3d28-4a14-bc6e-5f7f0fae3610.mp4/QualityLevels(698000)) (23 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/One-sample%20tests.pdf)
+  - [two-sample tests](https://ams-hsta-ims-ond.mediasite.com/MediasiteDeliver/vol01/bristoluniversity/MP4Video/f969947c-337f-46b1-8f11-ee31bfecf35e.mp4/QualityLevels(698000)) (18 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/Two-sample%20tests.pdf)
+
+Exercises:
+
+  - [exercise sheet](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/Statistics%20Worksheet%203.pdf)
+
+**Lecture 4: non-parametric tests**
+
+Videos:
+
+  - [regression](https://ams-hsta-ims-ond.mediasite.com/MediasiteDeliver/vol01/bristoluniversity/MP4Video/687b3e0c-6511-4157-b701-062fc5aa3883.mp4/QualityLevels(698000)) (19 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/regression.pdf)
+  - [non-parametric tests](https://ams-hsta-ims-ond.mediasite.com/MediasiteDeliver/vol01/bristoluniversity/MP4Video/bc4f67cf-492e-4256-97a9-6210de7f4ea2.mp4/QualityLevels(698000)) (30 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/non-parametric.pdf)
+
+Scientific Papers:
+
+   - [The Mann-Whitney U Test](https://www.tqmp.org/RegularArticles/vol04-1/p013/p013.pdf) (8 pages, about half of which are tables or figures)
+
+Skip section 3 on SPSS in the paper. Apart from a tutorial on how to use the test, this paper contains the tables to convert U-statistics to p-values for N up to 8.
+
+Exercises:
+
+  - [exercise sheet](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/Statistics%20Worksheet%204.pdf)
+
+Statistical tables:
+
+[statistical tables](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/tables.pdf)
+
+You can (and should) use these tables during the exam.
+
+### Week 23
+
+To be announced ...
