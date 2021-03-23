@@ -138,7 +138,7 @@ Lecture 13: Differential equations part 1
 
 * [Video lecture - Stream](https://web.microsoftstream.com/video/cb212590-9c93-44a3-9c32-fe0bfec689cc)
 * Pictures of the blackboard [1](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EeJE7DhEu3REicygOE12Q6YBYMMw4ipeNcV07geVbgMbpA?e=GbGOT5), [2](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/Ec92Td24iw5HlVFxzc37ohgBDXzEKLqgwxewOhh6BqvLdQ?e=vvGi2D), [3](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/Edfu2_5mroNJs2nbLA95jBABudDbCdpHFTTJ7pGUkVzFkg?e=a9UUbp). Missing first 5 minutes, sorry.
-* [Course notes pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/Efq15O-A9kBLvsuLVvWhd6YBVIZ7raW4FYHsCwAE1wSgew?e=YGnLtX) - these are also the notes for Lecture 14.
+* [Course notes pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/Efq15O-A9kBLvsuLVvWhd6YBVIZ7raW4FYHsCwAE1wSgew?e=hhEx8z) - these are also the notes for Lecture 14.
 * [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EXULvvOnAypLrYdYy8BEeccBphaK6lP703OW-yd_hkkAFQ?e=D9UxXV)
 
 ### Week 20 (Monday 22nd March)
