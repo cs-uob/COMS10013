@@ -157,6 +157,8 @@ Lecture 15: Analysis revision and a glimpse of the world beyond Maths B
 * [Video lecture part (a) - Stream](https://web.microsoftstream.com/video/39aef080-2166-4025-93d5-a86661194882) - revision/summary lecture
 * [Video lecture part (b) - Stream](https://web.microsoftstream.com/video/e45e17f3-16b2-4576-ab77-68938cf0c4c0) - other number systems beyond Maths B
 * Pictures of the blackboard [1](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EU_txY1iDTpGv5VSG2bMMr0BPf1rnjPouOF5MQpBacXjxg?e=4nib0z), [2](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/Edbllr6plDZCkZKBB0QnPesBaoorDajFrYNTb6E3KQY1Dg?e=JFa0f6), [3](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EQiGK0_Gz3RJoG_ioszsPasBEkTwdRkLQLPV8Yb5n7o9QA?e=MIk7MZ)
+* [Course notes pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EcaJ-RVK8-5GrAJUccnt3OEBV-n1L1lgxSlL7lZ1OaMfzA?e=1PXx7m)
+* [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EXCm-OPJBW1Ctj-ObRvpdTcBSx3ebwEilfeXIEKFpxA2Cw?e=xa5nnM) (Optional)
 
 ## Statistics
 
