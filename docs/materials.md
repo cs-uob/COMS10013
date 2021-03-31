@@ -230,4 +230,10 @@ You can (and should) use these tables during the exam.
 
 ### Week 23
 
-To be announced ...
+See the materials on a separate page for [the replication crisis](crisis.md).
+
+  * [Worksheet](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/Statistics%20Worksheet%205.pdf)
+
+### Week 24
+
+Week 24 is revision week - workshops become drop-ins, and are not mandatory and do not count for attendance.
