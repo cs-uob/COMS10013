@@ -133,6 +133,7 @@ Lecture 12: Complex numbers
 * Pictures of the blackboard [1](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EXWR84rme3NIhz_buAsQ9JEBPR-jQQJluAQunJmmZlkgfA?e=usx4Ev), [2](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EYmfZJURpbtBuiVC0D0DiBcBp2YLjf_dRWgqP_LoldfuYA?e=nnks1R), [3](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/ERggWMX60dFKiXK7-apu5z4BWF9UaMd2YJaN6nP6QMacbA?e=VW4fQr)
 * [Course notes pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EZIrvoaa_ORNh8pGvOQlg20BBPpIjrZynYTdh7rGnivK-w?e=FhHzkf)
 * [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EeQSKjanfhRChFMaSZOnQ7wB1Ye6KHu2D1RSjpqU7RNxEw?e=BVnRPx)
+* [Solutions pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EaM1XvSzY_NAqCG2pAfa1MIBHjpIgWKj7KmR2oVPYsytTA?e=G3tuVr)
 
 Lecture 13: Differential equations part 1
 
@@ -140,16 +141,27 @@ Lecture 13: Differential equations part 1
 * Pictures of the blackboard [1](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EeJE7DhEu3REicygOE12Q6YBYMMw4ipeNcV07geVbgMbpA?e=GbGOT5), [2](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/Ec92Td24iw5HlVFxzc37ohgBDXzEKLqgwxewOhh6BqvLdQ?e=vvGi2D), [3](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/Edfu2_5mroNJs2nbLA95jBABudDbCdpHFTTJ7pGUkVzFkg?e=a9UUbp). Missing first 5 minutes, sorry.
 * [Course notes pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/Efq15O-A9kBLvsuLVvWhd6YBVIZ7raW4FYHsCwAE1wSgew?e=hhEx8z) - these are also the notes for Lecture 14.
 * [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EXULvvOnAypLrYdYy8BEeccBphaK6lP703OW-yd_hkkAFQ?e=D9UxXV)
+* [Solutions pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EVXXM5xIUIhBsp_F7rSZre0BUV_xz8bszHGi14J_p7kFhw?e=AyfE4Y)
 
 ### Week 20 (Monday 22nd March)
 
-Lecture 14: DIfferential equations part 2
+Lecture 14: Differential equations part 2
 
 * [Video lecture part (a) - Stream](https://web.microsoftstream.com/video/09659896-900c-420d-8567-88baa515458f)
 * [Video lecture part (b) - Stream](https://web.microsoftstream.com/video/d266e30d-388d-4a32-9a12-65fcf8da8e40)
 * Pictures of the blackboard [1](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EfRXdBtN3WJEt-Gn30bjexIBPcmVRzAUt8VMnAVA-eZ0Fw?e=EMnKHd), [2](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EdCr4_4n7ORIu-7-etFoYGwBE2KVBLeBqCMcgCKCJIoOZA?e=9Vrufg), [3](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EQXasDwGLJRBlu1WG_YiPp8BZT1B29GGmK0_dp_Mso5qMQ?e=dZv4mg), [4](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/ET2mZaqGh5pHkCj8ccj3whUBPav4yOPHeECqRl8sW5YpZw?e=2LXXmR), [5](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EVq-M7uRP29IpgpRzhw45hwBd6lgPP6sb8VDFTu0oJVH5A?e=oSbdA7), [6](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EVtwdRQ_9RBPnYfSVBXt61QBx2a6pUyqTTsAg3ziSI_0lw?e=wFVMyJ)
 * Course notes, see Lecture 13.
 * [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EWdlrktqm7xPjKuXk3TYK7gBaQCBS7W6wL_RsVs3cZGlkg?e=b1Ab4m)
+* [Solutions pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EWUgkwrnphRMmth9KJb65kUBFb09xRJf08Pllmqmi88KFA?e=Y8gy1B)
+
+Lecture 15: Analysis revision and a glimpse of the world beyond Maths B
+
+* [Video lecture part (a) - Stream](https://web.microsoftstream.com/video/39aef080-2166-4025-93d5-a86661194882) - revision/summary lecture
+* [Video lecture part (b) - Stream](https://web.microsoftstream.com/video/e45e17f3-16b2-4576-ab77-68938cf0c4c0) - other number systems beyond Maths B
+* Pictures of the blackboard [1](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EU_txY1iDTpGv5VSG2bMMr0BPf1rnjPouOF5MQpBacXjxg?e=4nib0z), [2](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/Edbllr6plDZCkZKBB0QnPesBaoorDajFrYNTb6E3KQY1Dg?e=JFa0f6), [3](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EQiGK0_Gz3RJoG_ioszsPasBEkTwdRkLQLPV8Yb5n7o9QA?e=MIk7MZ)
+* [Course notes pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EcaJ-RVK8-5GrAJUccnt3OEBV-n1L1lgxSlL7lZ1OaMfzA?e=1PXx7m)
+* [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EXCm-OPJBW1Ctj-ObRvpdTcBSx3ebwEilfeXIEKFpxA2Cw?e=xa5nnM) (Optional)
+* [Solutions pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EVdyETyh1bNItwuQDQUcNRYBF_VDZRZw5OtWesnmNdjeyQ?e=gRuvUB)
 
 ## Statistics
 
@@ -237,3 +249,4 @@ See the materials on a separate page for [the replication crisis](crisis.md).
 ### Week 24
 
 Week 24 is revision week - workshops become drop-ins, and are not mandatory and do not count for attendance.
+
