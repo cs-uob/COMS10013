@@ -185,6 +185,7 @@ In this part of the course we will be using python/scipy to help us calculate wi
 The exercises are partly a refresh of Maths A probability theory, but with a more statistical angle and as preparation for what's coming in the next few worksheets.
 
   - [exercise sheet](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/Statistics%20Worksheet%201.pdf)
+  - [solutions](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/Statistics%20Worksheet%201%20SOLUTIONS.pdf)
 
 **Lecture 2: Normal distributions**
 
@@ -200,6 +201,7 @@ This is all one video as it's one continuous topic, but I trust that you can use
 
 Exercises:
   - [exercise sheet](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/Statistics%20Worksheet%202.pdf)
+  - [solutions](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/Statistics%20Worksheet%202%20SOLUTIONS.pdf)
 
 A table of values for the Phi function (CDF of the Normal distribution) can be found on the last page of the exercise sheet.
 
