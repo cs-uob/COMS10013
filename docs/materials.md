@@ -218,6 +218,7 @@ Videos:
 Exercises:
 
   - [exercise sheet](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/Statistics%20Worksheet%203.pdf)
+  - [solutions](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/Statistics%20Worksheet%203%20SOLUTIONS.pdf)
 
 **Lecture 4: non-parametric tests**
 
@@ -235,6 +236,7 @@ Skip section 3 on SPSS in the paper. Apart from a tutorial on how to use the tes
 Exercises:
 
   - [exercise sheet](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/Statistics%20Worksheet%204.pdf)
+  - [solutions](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/Statistics%20Worksheet%204%20SOLUTIONS.pdf)
 
 Statistical tables:
 
