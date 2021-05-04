@@ -250,6 +250,8 @@ See the materials on a separate page for [the replication crisis](crisis.md).
 
   * [Worksheet](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/Statistics%20Worksheet%205.pdf)
 
+The Friday workshop is a drop-in, and is not mandatory. However, if you are still one sign-in short of the attendance hurdle, you can turn up on Friday and ask the TA to sign you in one last time - this offer counts only for Friday Week 23, not in Week 24.
+
 ### Week 24
 
 Week 24 is revision week - workshops become drop-ins, and are not mandatory and do not count for attendance.
