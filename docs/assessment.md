@@ -48,11 +48,10 @@ There will be no long answer or essay type questions.
 ## Number format
 
 <style>
-.numberformat code {
+code {
   border: 1px solid #000;
 }
 </style>
-<div class="numberformat">
 
 There will be lots of questions where you need to enter one or more numbers, because maths. 
 It is important that you enter them as described in the question to keep the Blackboard marking code happy. 
@@ -69,8 +68,6 @@ On the blackboard page for Mathematics B, there is a "demo exam"
 menu item on the left where you can practice the type of questions that
 could come up, as well as get a feel for using the blackboard exam
 interface.
-
-</div>
 
 ## Pre-assessment Materials
 
