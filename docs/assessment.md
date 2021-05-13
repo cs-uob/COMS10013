@@ -45,15 +45,32 @@ manually check the answers as well. Question types can include:
 
 There will be no long answer or essay type questions.
 
-In the questions where you have to enter a number, please make sure
-you follow exactly the instructions given along with the question. For
-example, if I ask for a number with two decimal digits and you get one
-third, then you type `0.33` in the box, not `1/3`.
+## Number format
+
+<style>
+.numberformat code {
+  border: 1px solid #000;
+}
+</style>
+<div class="numberformat">
+
+There will be lots of questions where you need to enter one or more numbers, because maths. 
+It is important that you enter them as described in the question to keep the Blackboard marking code happy. 
+For example, if you are asked to enter a number "with up to two decimal places" (hint: you will be asked this on the exam),
+
+  - If you get 2.5671, enter `2.57`. Depending on the question, the correct answer might be defined as a range e.g. "accept [2.56, 2.58]". 
+	- Do not round to two d.p. in your own calculations until the point where you enter the result. If you want to, you can work to two more d.p. than the question asks for in your intermediate results (so four in this case, e.g. for sin(15) in degrees write 0.2588 in your notes as you're working out), this should be sufficient to deal with rounding errors.
+	- If you get an integer result, enter it without a decimal point e.g. `0` not `0.0`. 
+	- Add a zero before the decimal point if needed, but not after, e.g. for 1/2 enter `0.5` not `.5` or `0.50`.
+	- For a fraction, express as a decimal e.g. `0.33` not `1/3`.
+	- If you get a negative number, add a leading minus sign with no spaces or brackets e.g. `-2` not `- 2` or `(-2)`. Maths doesn't care, but blackboard does.
 
 On the blackboard page for Mathematics B, there is a "demo exam"
 menu item on the left where you can practice the type of questions that
 could come up, as well as get a feel for using the blackboard exam
 interface.
+
+</div>
 
 ## Pre-assessment Materials
 
