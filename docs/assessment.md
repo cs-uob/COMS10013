@@ -75,6 +75,16 @@ There is no mock exam for this unit. For revision, we recommend you
 use the problem sheets (and their solutions) as your main source of
 exercises to solve and revise.
 
+## Allowed Materials in the Exam
+
+You are allowed to use a calculator, this is in fact highly recommended. Your calculator needs to be able to do roots, powers, and trigonometry; you do not need a calculator that can do statistics, vector/matrix algebra or integrating and differentiating as you're supposed to work that out by yourself.
+
+You are allowed and may be required to use the [PDF of statistical tables](https://uob.sharepoint.com/:b:/r/teams/grp-COMS10013/Shared%20Documents/statistics/tables.pdf) distributed along with the unit, and some statistics questions may ask you to enter the closest value in the table for something that you have worked out.
+
+You are allowed to use notes that you have written yourself, whether by hand or digitally.
+
+You are not allowed to use Wolfram Alpha, python, or any other calculating software or programming language.
+
 ## Academic Integrity
 
 From the university information:
