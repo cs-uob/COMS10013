@@ -2,12 +2,6 @@
 
 Welcome to the unit website for COMS10013 Mathematics for Computer Science B.
 
-Everything will continue more or less as you were used to from Mathematics A, but the new topics will be Linear Algebra, Analysis and Statistics.
+This unit runs in Teaching Block 2 (starting January 2022), and the website will go live before then.
 
-Please follow these links for:
-
-  * [Topics on the unit](topics.html)
-  * [Unit organisation and schedule](organisation.html)
-  * [Unit materials](materials.html)
-  * [Assessment](assessment.html)
-  
+_If you are a student from a previous year and want to see the old site, please check out the tag `final-2020-2021` from the git repository._
