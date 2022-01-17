@@ -1,7 +1,5 @@
 # Unit Materials
 
-_We are still working on the links to the lecture videos._
-
 The idea behind the workshops is that you watch the videos and read the lecture notes before coming to the indicated workshop, and during the workshop you work on the problem sheet. Of course you can have a look at the problem sheet before the workshop too. After the workshop, you check your own solutions against the sample solutions handed out.
 
 ## Linear Algebra (Weeks 13-17)
@@ -12,7 +10,7 @@ _For this year and for the linear algebra part only, we are experimenting with p
 
 ### Week 13, Thursday 27 January: Vectors and the Dot Product
 
-  * video lecture (coming soon)
+  * [Video lecture - Stream](https://web.microsoftstream.com/video/7056809a-5e34-40e4-bd79-0a82a140f203)
   * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides.pdf)
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_intro_slides_6up.pdf)
   * [Slides - with notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides_notes.pdf)
@@ -22,7 +20,7 @@ _For this year and for the linear algebra part only, we are experimenting with p
 
 ### Week 14, Monday 31 January: Geometry and Vectors
 
-  * video lecture (coming soon)
+  * [Video lecture - Stream](https://web.microsoftstream.com/video/d2f9d829-90eb-4fed-a1ca-01097ac8379a)
   * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides.pdf)
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides_6up.pdf)
   * [Slides - with notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides_notes.pdf)
@@ -32,7 +30,7 @@ _For this year and for the linear algebra part only, we are experimenting with p
 
 ### Week 14, Thursday 3 February: Vector Spaces, Span and Bases
 
-  * video lecture (coming soon)
+  * [Video lecture - Stream](https://web.microsoftstream.com/video/8d926032-b718-48e1-bb8c-d98a70dd75d5)
   * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec1_slides.pdf)
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec1_slides_6up.pdf)
   * [Slides - with notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec1_slides_notes.pdf)
@@ -42,7 +40,7 @@ _For this year and for the linear algebra part only, we are experimenting with p
 
 ### Week 15, Monday 7 February: Orthonormal Bases and Subspace Projections
 
-  * video lecture (coming soon)
+  * [Video lecture - Stream](https://web.microsoftstream.com/video/fc3440c2-e4c2-43cb-87be-38054fae176b)
   * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec2_slides.pdf)
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec2_slides_6up.pdf)
   * [Slides - with notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec2_slides_notes.pdf)
@@ -52,7 +50,7 @@ _For this year and for the linear algebra part only, we are experimenting with p
 
 ### Week 15, Thursday 10 February: Matrices
 
-  * video lecture (coming soon)
+  * [Video lecture - Stream](https://web.microsoftstream.com/video/2d091ab9-8c61-41c3-ae52-0d63a0145251)
   * [Video lecture - Stream](https://web.microsoftstream.com/video/2d091ab9-8c61-41c3-ae52-0d63a0145251)
   * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_lec_slides.pdf)
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_lec_slides_6up.pdf)
@@ -63,7 +61,7 @@ _For this year and for the linear algebra part only, we are experimenting with p
 
 ### Week 16, Monday 14 February: Linear Systems and Matrices
 
-  * video lecture (coming soon)
+  * [Video lecture - Stream](https://web.microsoftstream.com/video/70aa5141-7aab-43f9-bec1-3f7e88119606)
   * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_lec_slides.pdf)
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_lec_slides_6up.pdf)
   * [Slides - with notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_lec_slides_notes.pdf)
@@ -71,7 +69,7 @@ _For this year and for the linear algebra part only, we are experimenting with p
 
 ### Week 16, Monday 17 February: Solving Linear Systems and Inverting Matrices
 
-  * video lecture (coming soon)
+  * [Video lecture - Stream](https://web.microsoftstream.com/video/4a53e611-dc1e-4c11-a8b6-1ec0146f48e3)
   * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_lec_slides.pdf)
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_lec_slides_6up.pdf)
   * Slides - with notes pdf - sorry, not available for this lecture - video transcription available on Stream
@@ -81,7 +79,7 @@ _For this year and for the linear algebra part only, we are experimenting with p
 
 ### Week 17, Monday 21 February: Eigenvalues and Eigenvectors I
 
-  * video lecture (coming soon)
+  * [Video lecture - Stream](https://web.microsoftstream.com/video/9d2710ec-3c75-4d76-9cf1-11100e20e6b7)
   * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec1_slides.pdf)
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec1_slides_6up.pdf)
   * Slides - with notes pdf - sorry, not available for this lecture - video transcription available on Stream
@@ -91,7 +89,7 @@ _For this year and for the linear algebra part only, we are experimenting with p
 
 ### Week 17, Thursday 24 February: Eigenvalues and Eigenvectors II
 
-  * video lecture (coming soon)
+  * [Video lecture - Stream](https://web.microsoftstream.com/video/8669c553-bb9e-4a11-9c14-de28adf2d8e2)
   * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec2_slides.pdf)
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec2_slides_6up.pdf)
   * Slides - with notes pdf - sorry, not available for this lecture - video transcription available on Stream
