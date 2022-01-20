@@ -6,9 +6,11 @@ The idea behind the workshops is that you watch the videos and read the lecture 
 
 _For this year and for the linear algebra part only, we are experimenting with putting up the solutions as well as the worksheets at the start of term. We still recommend that you try each problem sheet in the workshops without looking at the solutions first, and even if you've already solved a worksheet and checked your solutions that does not excuse you from coming to the workshop itself for attendance purposes._
 
+<!---
 ### Week 13, Monday 24 January: Introduction
 
   * _coming soon_
+--->
   
 ### Week 13, Thursday 27 January: Vectors and the Dot Product
 
