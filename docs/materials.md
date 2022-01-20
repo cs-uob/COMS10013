@@ -48,7 +48,6 @@ _For this year and for the linear algebra part only, we are experimenting with p
   * [Problem Sheet 4](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet2.pdf)
   * [Problem Sheet 4 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet2_ans.pdf)
 
-<!---
 ### Week 15, Thursday 10 February: Matrices
 
   * [Video lecture - Stream](https://web.microsoftstream.com/video/2d091ab9-8c61-41c3-ae52-0d63a0145251)
@@ -59,6 +58,7 @@ _For this year and for the linear algebra part only, we are experimenting with p
   * [Problem Sheet 5](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_probsheet.pdf)
   * [Problem Sheet 5 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_probsheet_ans.pdf)
 
+<!---
 ### Week 16, Monday 14 February: Linear Systems and Matrices
 
   * [Video lecture - Stream](https://web.microsoftstream.com/video/70aa5141-7aab-43f9-bec1-3f7e88119606)
