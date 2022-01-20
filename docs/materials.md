@@ -21,7 +21,6 @@ _For this year and for the linear algebra part only, we are experimenting with p
   * [Problem Sheet 1](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet.pdf)
   * [Problem Sheet 1 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet_ans.pdf)
 
-<!---
 ### Week 14, Monday 31 January: Geometry and Vectors
 
   * [Video lecture - Stream](https://web.microsoftstream.com/video/d2f9d829-90eb-4fed-a1ca-01097ac8379a)
@@ -105,6 +104,7 @@ _For this year and for the linear algebra part only, we are experimenting with p
 
 Week 18 is reading week. There are no workshops and no new materials.
 
+<!--
 ## Analysis
 
 _coming soon_
