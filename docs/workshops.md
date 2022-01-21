@@ -28,3 +28,11 @@ We will take attendance as follows:
 
   - In the in-person workshops, by a combination of paper sign-in sheets and UCard readers, so make sure you bring your UCard along.
   - In the online workshops, the TAs will take attendance. They may ask you each a maths question before signing you in, and you must turn both microphone and camera on and attempt the question to get the attendance. You will still get attendance if you make a mistake, but you do need to make a reasonable attempt.
+
+## Updates
+
+  - The workshop on Monday 24 January (Week 13) is cancelled as per the e-mail you received. For attendance purposes, this counts as if everyone had _attended_ the workshop, so you are all already on +1 attendance.
+
+    Please read the e-mail you got to learn more about the unit, and prepare for Thursday's workshop. You might want to revise your A-level vectors content too.
+
+
