@@ -20,6 +20,7 @@ _For this year and for the linear algebra part only, we are experimenting with p
   * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_notes.pdf)
   * [Problem Sheet 1](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet.pdf)
   * [Problem Sheet 1 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet_ans.pdf)
+  * [Live problem class recording - Stream](https://web.microsoftstream.com/video/e5e1d7c9-01e8-413b-845b-1e06cda594aa)
 
 ### Week 14, Monday 31 January: Geometry and Vectors
 
