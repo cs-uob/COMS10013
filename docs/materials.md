@@ -39,6 +39,7 @@ _For this year and for the linear algebra part only, we are experimenting with p
   * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_notes.pdf)
   * [Problem Sheet 3](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet1.pdf)
   * [Problem Sheet 3 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet1_ans.pdf)
+  * [Live problem class week 14 recording - Stream](https://web.microsoftstream.com/video/e63f27ce-4acb-4dae-8709-f60bf877c480)
 
 ### Week 15, Monday 7 February: Orthonormal Bases and Subspace Projections
 
