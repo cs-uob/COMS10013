@@ -99,7 +99,6 @@ _For this year and for the linear algebra part only, we are experimenting with p
 ## Reading Week
 
 Week 18 is reading week. There are no workshops and no new materials.
---->
 
 <!--
 ## Analysis
