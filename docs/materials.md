@@ -59,7 +59,8 @@ _For this year and for the linear algebra part only, we are experimenting with p
   * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_notes.pdf)
   * [Problem Sheet 5](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_probsheet.pdf)
   * [Problem Sheet 5 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_probsheet_ans.pdf)
-
+ * [Live problem class week 15 recording - Stream](https://web.microsoftstream.com/video/e4dad0bc-46cb-4040-b85c-94ae17d20478)
+ 
 ### Week 16, Monday 14 February: Linear Systems and Matrices
 
   * [Video lecture - Stream](https://web.microsoftstream.com/video/70aa5141-7aab-43f9-bec1-3f7e88119606)
