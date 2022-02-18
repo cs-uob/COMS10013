@@ -78,6 +78,7 @@ _For this year and for the linear algebra part only, we are experimenting with p
   * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_notes.pdf)
   * [Problem Sheet 7](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_probsheet.pdf)
   * [Problem Sheet 7 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_probsheet_ans.pdf)
+  * [Live problem class week 16 recording - Stream](https://web.microsoftstream.com/video/310a048d-5f43-4e20-b91f-ee9f796dcbc2)
 
 ### Week 17, Monday 21 February: Eigenvalues and Eigenvectors I
 
