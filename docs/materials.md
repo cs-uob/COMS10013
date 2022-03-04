@@ -103,8 +103,41 @@ _For this year and for the linear algebra part only, we are experimenting with p
 
 Week 18 is reading week. There are no workshops and no new materials.
 
-<!--
-## Analysis
+## Analysis (Weeks 19 - 21)
 
-_coming soon_
---->
+### Week 19, Monday 7 March: Analysis I
+
+* [Video Lecture (a) - Stream](https://web.microsoftstream.com/video/4b38d7fb-6794-406d-b98a-433b9b0d8e37)
+* [Video Lecture (b) - Stream](https://web.microsoftstream.com/video/d4757347-fdb6-42f6-ad4c-cf7eab7a6985)
+* [Course Notes pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EfiTbl4ZO5VAg0cPs5UmuXYB0XOnbUL5-LloH6d-EXt8dw?e=IUThvX)
+* [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EeNOw0iHcc9DmZIksflqFnABf8BMoyaCYV_S7hOzXuQpoQ?e=EuA8c5)
+
+### Week 19, Thursday 10 March: Analysis II
+
+* [Video Lecture (a) - Stream](https://web.microsoftstream.com/video/c9a216ee-2ee2-496c-9819-ccd67172b959)
+* [Video Lecture (b) - Stream](https://web.microsoftstream.com/video/68a8a4f9-edcc-411a-b29c-edbec2e54078)
+* [Course Notes (a) pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/Ed3zSPHybzVGk30dAGeLiCQBlff7PLcnKX8BtWGBEZiwlg?e=QBaHmh)
+* [Course Notes (b) pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EWN3qDpD5DBEndpen_vMHrwBaLB9gXUER76ogTZ6XpcJvA?e=Eeoeza)
+* [Worksheet pdf](https://uob-my.sharepoint.com/:b:/r/personal/ul19594_bristol_ac_uk/Documents/COMS10013-Analysis/Analysis-2-worksheet.pdf?csf=1&web=1&e=aWE7vM)
+
+### Week 20, Monday 14 March: Complex Numbers
+
+* [Video Lecture - Stream](https://web.microsoftstream.com/video/9cf32823-2bbb-4ec9-87af-b9ebaf9157ca)
+* Pictures of the blackboard [1](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EXWR84rme3NIhz_buAsQ9JEBPR-jQQJluAQunJmmZlkgfA?e=usx4Ev), [2](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EYmfZJURpbtBuiVC0D0DiBcBp2YLjf_dRWgqP_LoldfuYA?e=nnks1R), [3](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/ERggWMX60dFKiXK7-apu5z4BWF9UaMd2YJaN6nP6QMacbA?e=VW4fQr)
+* [Course Notes pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EZIrvoaa_ORNh8pGvOQlg20BBPpIjrZynYTdh7rGnivK-w?e=FhHzkf)
+* [Worksheet pdf](https://uob-my.sharepoint.com/:b:/r/personal/ul19594_bristol_ac_uk/Documents/COMS10013-Analysis/Analysis-3-worksheet.pdf?csf=1&web=1&e=0F1Zl5)
+
+### Week 20, Thursday 17 March: Differential Equations I
+
+* [Video Lecture - Stream](https://web.microsoftstream.com/video/cb212590-9c93-44a3-9c32-fe0bfec689cc)
+* Pictures of the blackboard [1](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EeJE7DhEu3REicygOE12Q6YBYMMw4ipeNcV07geVbgMbpA?e=GbGOT5), [2](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/Ec92Td24iw5HlVFxzc37ohgBDXzEKLqgwxewOhh6BqvLdQ?e=vvGi2D), [3](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/Edfu2_5mroNJs2nbLA95jBABudDbCdpHFTTJ7pGUkVzFkg?e=a9UUbp).
+* [Course Notes pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/Efq15O-A9kBLvsuLVvWhd6YBVIZ7raW4FYHsCwAE1wSgew?e=hhEx8z) - these notes also cover the content in week 21.
+* [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EXULvvOnAypLrYdYy8BEeccBphaK6lP703OW-yd_hkkAFQ?e=IpFb2h)
+
+### Week 21, Monday 21 March: Differential Equations II
+
+* [Video Lecture part (a) - Stream](https://web.microsoftstream.com/video/09659896-900c-420d-8567-88baa515458f)
+* [Video Lecture part (b) - Stream](https://web.microsoftstream.com/video/d266e30d-388d-4a32-9a12-65fcf8da8e40)
+* Pictures of the blackboard [1](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EfRXdBtN3WJEt-Gn30bjexIBPcmVRzAUt8VMnAVA-eZ0Fw?e=EMnKHd), [2](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EdCr4_4n7ORIu-7-etFoYGwBE2KVBLeBqCMcgCKCJIoOZA?e=9Vrufg), [3](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EQXasDwGLJRBlu1WG_YiPp8BZT1B29GGmK0_dp_Mso5qMQ?e=dZv4mg), [4](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/ET2mZaqGh5pHkCj8ccj3whUBPav4yOPHeECqRl8sW5YpZw?e=2LXXmR), [5](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EVq-M7uRP29IpgpRzhw45hwBd6lgPP6sb8VDFTu0oJVH5A?e=oSbdA7), [6](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EVtwdRQ_9RBPnYfSVBXt61QBx2a6pUyqTTsAg3ziSI_0lw?e=wFVMyJ)
+* [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EWdlrktqm7xPjKuXk3TYK7gBaQCBS7W6wL_RsVs3cZGlkg?e=M7XgBH)
+* [Video lecture (c) - Stream](https://web.microsoftstream.com/video/39aef080-2166-4025-93d5-a86661194882) - revision/summary lecture
