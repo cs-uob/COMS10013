@@ -111,6 +111,7 @@ Week 18 is reading week. There are no workshops and no new materials.
 * [Video Lecture (b) - Stream](https://web.microsoftstream.com/video/d4757347-fdb6-42f6-ad4c-cf7eab7a6985)
 * [Course Notes pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EfiTbl4ZO5VAg0cPs5UmuXYB0XOnbUL5-LloH6d-EXt8dw?e=IUThvX)
 * [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EeNOw0iHcc9DmZIksflqFnABf8BMoyaCYV_S7hOzXuQpoQ?e=EuA8c5)
+* [Worksheet solutions pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EZZ5bpOizuxMslvIHV65BU8B0R2JfdMt1HcXGLcE3o7mvw?e=x3bC0I)
 
 ### Week 19, Thursday 10 March: Analysis II
 
@@ -119,6 +120,7 @@ Week 18 is reading week. There are no workshops and no new materials.
 * [Course Notes (a) pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/Ed3zSPHybzVGk30dAGeLiCQBlff7PLcnKX8BtWGBEZiwlg)
 * [Course Notes (b) pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EWN3qDpD5DBEndpen_vMHrwBaLB9gXUER76ogTZ6XpcJvA)
 * [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EUpJBFKpRXlJqiPem2AjK9EBcBmS8agDh6HfGanTYQkvPw)
+* [Worksheet solutions pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EVd6ERIndfJIjP-eDrrODcUBF1Zs0tJ6B5avJWS35DMJHw)
 
 ### Week 20, Monday 14 March: Complex Numbers
 
