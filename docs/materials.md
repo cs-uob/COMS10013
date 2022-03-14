@@ -142,3 +142,49 @@ Week 18 is reading week. There are no workshops and no new materials.
 * [Video Lecture part (b) - Stream](https://web.microsoftstream.com/video/d266e30d-388d-4a32-9a12-65fcf8da8e40)
 * Pictures of the blackboard [1](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EfRXdBtN3WJEt-Gn30bjexIBPcmVRzAUt8VMnAVA-eZ0Fw), [2](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EdCr4_4n7ORIu-7-etFoYGwBE2KVBLeBqCMcgCKCJIoOZA), [3](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EQXasDwGLJRBlu1WG_YiPp8BZT1B29GGmK0_dp_Mso5qMQ), [4](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/ET2mZaqGh5pHkCj8ccj3whUBPav4yOPHeECqRl8sW5YpZw), [5](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EVq-M7uRP29IpgpRzhw45hwBd6lgPP6sb8VDFTu0oJVH5A), [6](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EVtwdRQ_9RBPnYfSVBXt61QBx2a6pUyqTTsAg3ziSI_0lw)
 * [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EWdlrktqm7xPjKuXk3TYK7gBaQCBS7W6wL_RsVs3cZGlkg)
+
+## Statistics
+
+The Teams folder with slides and worksheets for this part is [here](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/). Videos themselves will be hosted on [Microsoft Streams in a separate channel](https://web.microsoftstream.com/channel/ae255b3b-663f-464a-9397-15a3f59c16b6). 
+
+### Week 21, Thursday 24 March: Introduction and Concepts
+
+Please watch the videos then (skim) read the paper.
+
+  * [Video: Introduction - how to catch a Minecraft cheater](https://web.microsoftstream.com/video/9554a2ac-0c1e-453e-8828-1ce494067541?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (17 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/introduction.pdf)
+  * [Video: Concepts](https://web.microsoftstream.com/video/4b97c2da-6c11-4ba7-b456-0fe9187555b8?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (30 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/concepts.pdf)
+  * [Paper: Dream investigation results](https://mcspeedrun.com/dream.pdf) (29 pages but full of graphs and code snippets - skim reading is enough)
+
+In this part of the course we will be using python/scipy to help us calculate with probability distributions. You might want to install this software as indicated before the workshop as described in the exercise sheet; there are also websites where you can write and run python code online, or you can use it via ssh into a lab machine. You can also use the Alpine VM from Software Tools, by installing the packages python3 and py3-scipy. Note that on Alpine, you have to launch python with python3 not just python.
+
+The exercises are partly a refresh of Maths A probability theory, but with a more statistical angle and as preparation for what's coming in the next few worksheets.
+
+  - [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%201.pdf)
+
+### Week 22, Monday 28 March: Normal Distributions
+
+  * [Video: Normal Distribution](https://web.microsoftstream.com/video/75de5128-517b-483c-9415-b647dacce6f5?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (51 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Normal%20Distribution.pdf)
+
+This content is all in one video, so feel free to use the "pause" button or drag the time slider if you want to watch it in several segments. I imagine that different students might want to split up how they watch it in different ways, depending on how much they know about the topic already.
+
+I use capital-N Normal to refer to the specific distribution also known as the Gaussian, whereas a lowercase-n "normal" has the regular English meaning of "usual".
+
+_Warning:_ in the notation `N(x, y)`, the first parameter is always the mean, but the second one can be the variance or the standard deviation depending on which textbook you use. It's easy to convert from one to the other, but you do need to know which one you're working with. If someone uses a Greek letter sigma without a "squared", then that always means standard deviation, and sigma-squared always means variance, so you can usually tell by the notation which convention is being used.
+
+  * [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%202.pdf)
+
+A table of values for the Phi function (CDF of the Normal distribution) can be found on the last page of the exercise sheet.
+
+### Week 22, Thursday 31 March: Hypothesis Testing
+
+  * [Video: Hypothesis Testing](https://web.microsoftstream.com/video/27865b77-f5f6-49e5-896c-fb7526b9fd14?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (23 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/hypothesis%20testing.pdf)
+  * [Video: One-Sample Tests](https://web.microsoftstream.com/video/d4a494b6-dc21-41bf-a9f5-41a4ae1e06aa?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (23 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/One-sample%20tests.pdf)
+  * [Video: Two-Sample Tests](https://web.microsoftstream.com/video/695b083e-19c4-4d95-9c29-e0e348dd266c?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (18 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Two-sample%20tests.pdf)
+
+Exercises:
+
+  * [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%203.pdf)
+
+### Week 23
+
+_There are UCU strikes announced for Week 23. More information coming soon._
