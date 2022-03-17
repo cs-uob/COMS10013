@@ -136,6 +136,7 @@ Week 18 is reading week. There are no workshops and no new materials.
 * Pictures of the blackboard [1](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EeJE7DhEu3REicygOE12Q6YBYMMw4ipeNcV07geVbgMbpA), [2](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/Ec92Td24iw5HlVFxzc37ohgBDXzEKLqgwxewOhh6BqvLdQ), [3](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/Edfu2_5mroNJs2nbLA95jBABudDbCdpHFTTJ7pGUkVzFkg).
 * [Course Notes pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/Efq15O-A9kBLvsuLVvWhd6YBVIZ7raW4FYHsCwAE1wSgew) - these notes also cover the content in week 21.
 * [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EXULvvOnAypLrYdYy8BEeccBphaK6lP703OW-yd_hkkAFQ)
+* [Worksheet solutions pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EVXXM5xIUIhBsp_F7rSZre0BUV_xz8bszHGi14J_p7kFhw)
 
 ### Week 21, Monday 21 March: Differential Equations II
 
