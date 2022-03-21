@@ -165,6 +165,8 @@ The exercises are partly a refresh of Maths A probability theory, but with a mor
 
 ### Week 22, Monday 28 March: Normal Distributions
 
+_UCU members will be on strike in Week 22, but the unit is planned to go ahead as normal including attendance taking and attendance hurdles. Possibly there will be fewer TAs and staff around to support you, but the material remains examinable._
+
   * [Video: Normal Distribution](https://web.microsoftstream.com/video/75de5128-517b-483c-9415-b647dacce6f5?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (51 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Normal%20Distribution.pdf)
 
 This content is all in one video, so feel free to use the "pause" button or drag the time slider if you want to watch it in several segments. I imagine that different students might want to split up how they watch it in different ways, depending on how much they know about the topic already.
@@ -187,6 +189,63 @@ Exercises:
 
   * [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%203.pdf)
 
-### Week 23
+### Week 23, Monday 25 April (after Easter): Non-Parametric Tests
 
-_There are UCU strikes announced for Week 23. More information coming soon._
+  * [Video: Regression](https://web.microsoftstream.com/video/f4ab6672-ecdb-46d7-86f4-9489bb45272a?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (19 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/regression.pdf)
+  * [Video: Non-Parametric Tests](https://web.microsoftstream.com/video/9497e7b1-0435-4275-a9df-60efe7514d48?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (30 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/non-parametric.pdf)
+  * [Paper: The Mann-Whitney U Test](https://www.tqmp.org/RegularArticles/vol04-1/p013/p013.pdf) 8 pages, about half of which are figures and tables. Skip section 3 on SPSS, as we will be using python and statistical tables.
+
+Exercises:
+
+  * [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%204.pdf)
+
+Statistical tables:
+
+  * [Statistical tables](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/tables.pdf)
+
+You can, and should, use this tables file during the exam. Make sure you download or print a copy.
+
+### Week 23, Thursday 28 April: The Replication Crisis
+
+  * [Online textbook article: The Replication Crisis in Psychology](https://nobaproject.com/modules/the-replication-crisis-in-psychology)
+  * [Paper: Why Most Published Research Findings Are False](https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.0020124&type=printable) PDF, 6 pages.
+  * [Paper: Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://link.springer.com/content/pdf/10.1007/s10654-016-0149-3.pdf) PDF, 14 pages. Read the introduction and conclusions, but skim the rest.
+
+Exercise sheet
+
+  * [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%205.pdf)
+
+The learning outcome for this workshop is to understand some of the limitations of the scientific/statistical method, both for when you do your own experiements (e.g. in your final project) and for when you read scientific papers (e.g. for the background section of your final project).
+
+Psychology was the first field to come under scrutiny for results that do not replicate, but the problem has since been found in many other fields from medical research to social sciences. A more detailed explanation from the online textbook for psychology undergradutes linked above discusses the replication crisis and suggests that, depending on the journal, only 23%-53% of studies will replicate along with possible reasons for this.
+
+Ioannidis' paper (linked above) was published in 2005 and provided a mathematical explanation for why a replication crisis was almost guaranteed to happen, even if most researchers are honest but respond to incentives - such as being judged for promotion on their number of publications and citations.
+
+After reading the psychology textbook article, answer the following questions for yourself - and discuss them in your group in the workshop, if possible:
+
+  - What is replication (of a scientific paper) and why is it important?
+  - What is the difference between exact and conceptual replications, and what different things do the two tell us?
+  - What is priming (in psychology) and what are some examples of studies that have failed to replicate, which was one of the causes of the replication crisis?
+  - What are some reasons why an experiment might not replicate, even if the scientists are being honest?
+  - What are some possible solutions to the replication problem?
+
+After reading Ioannidis' paper, answer the following questions for yourself - and discuss them in your group in the workshop, if possible:
+
+  - What is the definition and meaning of the quantity denoted beta in a hypothesis test?
+  - What, in terms of simple probability theory, is the PPV of a study?
+  - What influence does the typical effect size in a field of study have on the likelihood that published results are true?
+  - What effect on the reliability of research does it have when a field becomes "hot", and why?
+  - What does Ioannidis mean by "What matters is the totality of the evidence." on pages 5-6?
+
+Warning: the point of this paper is not that science is generally useless, or at least no better than any other method - on matters such as whether Covid-19, climate change, AIDS etc. are real and what their causes are, science does have very firm answers and I do not think Ioannidis would dispute this. But the paper is a warning against someone claiming something is an absolute truth and not up for debate, just because there are one or two published studies somewhere that support the view.
+
+  - After reading the Greenland et al. paper, you should be able to correctly define and explain a *p-value*, and be aware of some common mis-interpretations.
+
+_Why does this matter for me?_
+
+In later years, you will be reading research literature as part of your units and maybe also as part of your final project. Some of the papers you read will use statistics, and you will need to be able to read them critically and understand what a statistical claim does, or does not mean. Published and peer reviewed is not the same thing as definitely true!
+
+If you take units in areas that use statistics directly - particularly Machine Learning and Data Science, but also Human-Computer Interaction - then you will need to understand the limits as well as the features of different methods. (Machine Learning actually comes off quite well, both due to large data sets and replication being eaiser compared to e.g. psychology. The coursework in our 4th year unit Applied Deep Learning in 2020-21 was in fact to replicate the work in a particular paper.)
+
+If you run your own research and report statistics (e.g. in the evaluation section of your thesis), then you have an ethical responsibility to apply a certain amount of critical thinking to your own results too, as well as using best practice in your research area (such as publishing your code and datasets for other researchers to study and replicate, and not misinterpreting your own p-values). Your thesis markers are likely to be looking for this too.
+
