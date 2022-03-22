@@ -144,6 +144,7 @@ Week 18 is reading week. There are no workshops and no new materials.
 * [Video Lecture part (b) - Stream](https://web.microsoftstream.com/video/d266e30d-388d-4a32-9a12-65fcf8da8e40)
 * Pictures of the blackboard [1](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EfRXdBtN3WJEt-Gn30bjexIBPcmVRzAUt8VMnAVA-eZ0Fw), [2](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EdCr4_4n7ORIu-7-etFoYGwBE2KVBLeBqCMcgCKCJIoOZA), [3](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EQXasDwGLJRBlu1WG_YiPp8BZT1B29GGmK0_dp_Mso5qMQ), [4](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/ET2mZaqGh5pHkCj8ccj3whUBPav4yOPHeECqRl8sW5YpZw), [5](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EVq-M7uRP29IpgpRzhw45hwBd6lgPP6sb8VDFTu0oJVH5A), [6](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EVtwdRQ_9RBPnYfSVBXt61QBx2a6pUyqTTsAg3ziSI_0lw)
 * [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EWdlrktqm7xPjKuXk3TYK7gBaQCBS7W6wL_RsVs3cZGlkg)
+* [Worksheet solutions pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EWUgkwrnphRMmth9KJb65kUBFb09xRJf08Pllmqmi88KFA)
 
 ## Statistics
 
