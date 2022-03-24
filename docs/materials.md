@@ -162,7 +162,7 @@ In this part of the course we will be using python/scipy to help us calculate wi
 
 The exercises are partly a refresh of Maths A probability theory, but with a more statistical angle and as preparation for what's coming in the next few worksheets.
 
-  - [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%201.pdf)
+  - [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%201.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%201%20SOLUTIONS.pdf)
 
 ### Week 22, Monday 28 March: Normal Distributions
 
