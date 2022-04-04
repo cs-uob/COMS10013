@@ -176,7 +176,7 @@ I use capital-N Normal to refer to the specific distribution also known as the G
 
 _Warning:_ in the notation `N(x, y)`, the first parameter is always the mean, but the second one can be the variance or the standard deviation depending on which textbook you use. It's easy to convert from one to the other, but you do need to know which one you're working with. If someone uses a Greek letter sigma without a "squared", then that always means standard deviation, and sigma-squared always means variance, so you can usually tell by the notation which convention is being used.
 
-  * [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%202.pdf)
+  * [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%202.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%202%20SOLUTIONS.pdf)
 
 A table of values for the Phi function (CDF of the Normal distribution) can be found on the last page of the exercise sheet.
 
@@ -188,7 +188,7 @@ A table of values for the Phi function (CDF of the Normal distribution) can be f
 
 Exercises:
 
-  * [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%203.pdf)
+  * [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%203.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%203%20SOLUTIONS.pdf)
 
 ### Week 23, Monday 25 April (after Easter): Non-Parametric Tests
 
