@@ -198,7 +198,7 @@ Exercises:
 
 Exercises:
 
-  * [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%204.pdf)
+  * [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%204.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%204%20SOLUTIONS.pdf)
 
 Statistical tables:
 
@@ -214,7 +214,7 @@ You can, and should, use this tables file during the exam. Make sure you downloa
 
 Exercise sheet
 
-  * [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%205.pdf)
+  * [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%205.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%205%20SOLUTIONS.pdf)
 
 The learning outcome for this workshop is to understand some of the limitations of the scientific/statistical method, both for when you do your own experiements (e.g. in your final project) and for when you read scientific papers (e.g. for the background section of your final project).
 
