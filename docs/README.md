@@ -2,7 +2,7 @@
 
 Welcome to the unit website for COMS10013 Mathematics for Computer Science B.
 
-This unit, in Teaching Block 2 (spring 2022), continues your first-year maths education with three new topics: linear algebra, analysis, and statistics.
+This unit, in Teaching Block 2, continues your first-year maths education with three new topics: linear algebra, analysis, and statistics.
 
 Please follow these links for:
 
