@@ -1,6 +1,10 @@
-# Unit Materials
+# Unit Organisation and Materials
 
 As for Maths A, the unit consists of video lectures, in-person workshops and problem sheets, supplemented by lecture slides and in some cases, lecture notes. Taking the unit involves watching the video lectures and reading the associated lecture notes (if available) before coming to the workshops to work on problem sheets. You can also prepare by looking at the problem sheets before coming to the workshop. After the workshops, you check your solutions against the sample solutions made available on this web page.
+
+The aim of the workshops is for you to work on problem sheets with your peers and with help from the Lecturer and Teaching Assistants. You will gain a lot by discussing problems, explaining solutions to others and asking questions when you don't understand something. The more proactive you are in workshops, the more you are likely to gain. Some of the workshops will begin with a summary of the material relevant to the workshop, highlighting the key concepts and techniques. You will get the most out of this and the workshop as a whole if you have first watched the relevant video and studied any associated course notes. 
+
+Please try to come to the workshops prepared - having good access to lecture slides and notes is essential, either on a laptop or printed out. Viewing on phones tends not to be particularly effective given the size of the screen. Also, don't forget a pencil/pen and paper.
 
 There is one video and one problem sheet for each workshop, although lecture notes (if available) may span two lectures and two workshops in some cases. Apart from Week 13, there are two workshops per week (these are labelled A and B below) - please see your timetable for times. In Week 13 there is only one workshop and this will be the second one in the timetable for that week. There is also a help desk available each week - see your timetable for times - and please make good use of this if you are struggling with understanding the material and/or completing the problem sheets.
 
