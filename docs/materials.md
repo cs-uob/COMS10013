@@ -13,7 +13,7 @@ There is one video and one problem sheet for each workshop, although lecture not
 ### Week 13: Vectors and the Dot Product
 
   * [Video lecture - Stream](https://web.microsoftstream.com/video/7056809a-5e34-40e4-bd79-0a82a140f203)
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides.pdf)
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides.pdf)
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides_6up.pdf)
   * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_notes.pdf)
   * [Problem Sheet 1](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2021-22-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet.pdf)
