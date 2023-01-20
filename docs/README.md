@@ -8,5 +8,5 @@ Please follow these links for:
 
   * [Topics on the unit](topics.html)
   * [Workshops and attendance rules](workshops.html)
-  * [Unit organisation, assessment and grades](organisation.html)
-  * [Unit materials](materials.html)
+  * [Unit assessment](organisation.html)
+  * [Unit organisation and materials](materials.html)
