@@ -6,7 +6,8 @@ This unit, in Teaching Block 2, continues your first-year maths education with t
 
 Please follow these links for:
 
-  * [Topics on the unit](topics.html)
-  * [Workshops and attendance rules](workshops.html)
-  * [Unit assessment](organisation.html)
+  * [Unit topics](topics.html)
   * [Unit organisation and materials](materials.html)
+  * [Workshop attendance](workshops.html)
+  * [Unit assessment](assessment.html)
+  
