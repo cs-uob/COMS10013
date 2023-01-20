@@ -14,112 +14,112 @@ There is one video and one problem sheet for each workshop, although lecture not
 
   * [Video lecture - Stream](https://web.microsoftstream.com/video/7056809a-5e34-40e4-bd79-0a82a140f203)
   * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides.pdf)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides_6up.pdf)
-  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_notes.pdf)
-  * [Problem Sheet 1](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet.pdf)
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides_6up.pdf)
+  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_notes.pdf)
+  * [Problem Sheet 1](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet.pdf)
 
 <!--
-  * [Problem Sheet 1 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet_ans.pdf) - updated
+  * [Problem Sheet 1 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet_ans.pdf) - updated
   * [Live problem class week 13 recording - Stream](https://web.microsoftstream.com/video/e5e1d7c9-01e8-413b-845b-1e06cda594aa)
 -->
 
 ### Week 14 - A: Geometry and Vectors
 
   * [Video lecture - Stream](https://web.microsoftstream.com/video/d2f9d829-90eb-4fed-a1ca-01097ac8379a)
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides.pdf)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides_6up.pdf)
-  * [Course notes](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_notes.pdf)
-  * [Problem Sheet 2](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet.pdf)
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides.pdf)
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides_6up.pdf)
+  * [Course notes](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_notes.pdf)
+  * [Problem Sheet 2](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet.pdf)
 
 <!--
-  * [Problem Sheet 2 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet_ans.pdf)
+  * [Problem Sheet 2 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet_ans.pdf)
 -->
 
 ### Week 14 - B: Vector Spaces, Span and Bases
 
   * [Video lecture - Stream](https://web.microsoftstream.com/video/8d926032-b718-48e1-bb8c-d98a70dd75d5)
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec1_slides.pdf)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec1_slides_6up.pdf)
-  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_notes.pdf)
-  * [Problem Sheet 3](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet1.pdf)
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec1_slides.pdf)
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec1_slides_6up.pdf)
+  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_notes.pdf)
+  * [Problem Sheet 3](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet1.pdf)
 
 <!--
-  * [Problem Sheet 3 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet1_ans.pdf)
+  * [Problem Sheet 3 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet1_ans.pdf)
   * [Live problem class week 14 recording - Stream](https://web.microsoftstream.com/video/e63f27ce-4acb-4dae-8709-f60bf877c480)
 -->
 
 ### Week 15 - A: Orthonormal Bases and Subspace Projections
 
   * [Video lecture - Stream](https://web.microsoftstream.com/video/fc3440c2-e4c2-43cb-87be-38054fae176b)
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec2_slides.pdf)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec2_slides_6up.pdf)
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec2_slides.pdf)
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec2_slides_6up.pdf)
   * Course notes - see notes for previous workshop.
-  * [Problem Sheet 4](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet2.pdf)
+  * [Problem Sheet 4](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet2.pdf)
 
 <!--
-  * [Problem Sheet 4 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet2_ans.pdf)
+  * [Problem Sheet 4 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet2_ans.pdf)
 -->
 
 ### Week 15 - B: Matrices
 
   * [Video lecture - Stream](https://web.microsoftstream.com/video/2d091ab9-8c61-41c3-ae52-0d63a0145251)
   * [Video lecture - Stream](https://web.microsoftstream.com/video/2d091ab9-8c61-41c3-ae52-0d63a0145251)
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_lec_slides.pdf)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_lec_slides_6up.pdf)
-  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_notes.pdf)
-  * [Problem Sheet 5](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_probsheet.pdf)
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_lec_slides.pdf)
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_lec_slides_6up.pdf)
+  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_notes.pdf)
+  * [Problem Sheet 5](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_probsheet.pdf)
 
 <!--
-  * [Problem Sheet 5 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_probsheet_ans.pdf)
+  * [Problem Sheet 5 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_probsheet_ans.pdf)
  * [Live problem class week 15 recording - Stream](https://web.microsoftstream.com/video/e4dad0bc-46cb-4040-b85c-94ae17d20478)
 -->
 ### Week 16 - A: Linear Systems and Matrices
 
   * [Video lecture - Stream](https://web.microsoftstream.com/video/70aa5141-7aab-43f9-bec1-3f7e88119606)
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_lec_slides.pdf)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_lec_slides_6up.pdf)
-  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_notes.pdf)
-  * [Problem Sheet 6](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_probsheet.pdf)
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_lec_slides.pdf)
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_lec_slides_6up.pdf)
+  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_notes.pdf)
+  * [Problem Sheet 6](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_probsheet.pdf)
 
 <!--
-  * [Problem Sheet 6 with Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_probsheet_ans.pdf)
+  * [Problem Sheet 6 with Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_probsheet_ans.pdf)
 -->
 
 ### Week 16 - B: Solving Linear Systems and Inverting Matrices
 
   * [Video lecture - Stream](https://web.microsoftstream.com/video/4a53e611-dc1e-4c11-a8b6-1ec0146f48e3)
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_lec_slides.pdf)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_lec_slides_6up.pdf)
-  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_notes.pdf)
-  * [Problem Sheet 7](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_probsheet.pdf)
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_lec_slides.pdf)
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_lec_slides_6up.pdf)
+  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_notes.pdf)
+  * [Problem Sheet 7](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_probsheet.pdf)
 
 <!--
-  * [Problem Sheet 7 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_probsheet_ans.pdf)
+  * [Problem Sheet 7 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_probsheet_ans.pdf)
   * [Live problem class week 16 recording - Stream](https://web.microsoftstream.com/video/310a048d-5f43-4e20-b91f-ee9f796dcbc2)
 -->
 
 ### Week 17 - A: Eigenvalues and Eigenvectors I
 
   * [Video lecture - Stream](https://web.microsoftstream.com/video/9d2710ec-3c75-4d76-9cf1-11100e20e6b7)
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec1_slides.pdf)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec1_slides_6up.pdf)
-  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_notes.pdf)
-  * [Problem Sheet 8](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_1.pdf)
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec1_slides.pdf)
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec1_slides_6up.pdf)
+  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_notes.pdf)
+  * [Problem Sheet 8](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_1.pdf)
 
 <!--
-  * [Problem Sheet 8 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_1_ans.pdf)
+  * [Problem Sheet 8 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_1_ans.pdf)
 -->
 
 ### Week 17 - B: Eigenvalues and Eigenvectors II
 
   * [Video lecture - Stream](https://web.microsoftstream.com/video/8669c553-bb9e-4a11-9c14-de28adf2d8e2)
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec2_slides.pdf)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec2_slides_6up.pdf)
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec2_slides.pdf)
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec2_slides_6up.pdf)
   * Course notes - see notes for previous workshop.
-  * [Problem Sheet 9](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_2.pdf)
+  * [Problem Sheet 9](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_2.pdf)
 
 <!--
-  * [Problem Sheet 9 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_2_ans.pdf)
+  * [Problem Sheet 9 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_2_ans.pdf)
   * [Live problem class week 17 recording - Stream](https://web.microsoftstream.com/video/4aad87d7-8ed7-49c1-8aa9-c119a1d13707)
 -->
 
@@ -177,27 +177,27 @@ Week 18 is reading week. There are no workshops and no new materials.
 
 <!--
 
-The Teams folder with slides and worksheets for this part is [here](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/statistics/). Videos themselves will be hosted on [Microsoft Streams in a separate channel](https://web.microsoftstream.com/channel/ae255b3b-663f-464a-9397-15a3f59c16b6). 
+The Teams folder with slides and worksheets for this part is [here](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/). Videos themselves will be hosted on [Microsoft Streams in a separate channel](https://web.microsoftstream.com/channel/ae255b3b-663f-464a-9397-15a3f59c16b6). 
 
 ### Week 21, Thursday 24 March: Introduction and Concepts
 
 Please watch the videos then (skim) read the paper.
 
-  * [Video: Introduction - how to catch a Minecraft cheater](https://web.microsoftstream.com/video/9554a2ac-0c1e-453e-8828-1ce494067541?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (17 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/statistics/introduction.pdf)
-  * [Video: Concepts](https://web.microsoftstream.com/video/4b97c2da-6c11-4ba7-b456-0fe9187555b8?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (30 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/statistics/concepts.pdf)
+  * [Video: Introduction - how to catch a Minecraft cheater](https://web.microsoftstream.com/video/9554a2ac-0c1e-453e-8828-1ce494067541?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (17 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/introduction.pdf)
+  * [Video: Concepts](https://web.microsoftstream.com/video/4b97c2da-6c11-4ba7-b456-0fe9187555b8?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (30 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/concepts.pdf)
   * [Paper: Dream investigation results](https://mcspeedrun.com/dream.pdf) (29 pages but full of graphs and code snippets - skim reading is enough)
 
 In this part of the course we will be using python/scipy to help us calculate with probability distributions. You might want to install this software as indicated before the workshop as described in the exercise sheet; there are also websites where you can write and run python code online, or you can use it via ssh into a lab machine. You can also use the Alpine VM from Software Tools, by installing the packages python3 and py3-scipy. Note that on Alpine, you have to launch python with python3 not just python.
 
 The exercises are partly a refresh of Maths A probability theory, but with a more statistical angle and as preparation for what's coming in the next few worksheets.
 
-  - [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%201.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%201%20SOLUTIONS.pdf)
+  - [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%201.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%201%20SOLUTIONS.pdf)
 
 ### Week 22, Monday 28 March: Normal Distributions
 
 _UCU members will be on strike in Week 22, but the unit is planned to go ahead as normal including attendance taking and attendance hurdles. Possibly there will be fewer TAs and staff around to support you, but the material remains examinable._
 
-  * [Video: Normal Distribution](https://web.microsoftstream.com/video/75de5128-517b-483c-9415-b647dacce6f5?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (51 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/statistics/Normal%20Distribution.pdf)
+  * [Video: Normal Distribution](https://web.microsoftstream.com/video/75de5128-517b-483c-9415-b647dacce6f5?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (51 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/Normal%20Distribution.pdf)
 
 This content is all in one video, so feel free to use the "pause" button or drag the time slider if you want to watch it in several segments. I imagine that different students might want to split up how they watch it in different ways, depending on how much they know about the topic already.
 
@@ -205,33 +205,33 @@ I use capital-N Normal to refer to the specific distribution also known as the G
 
 _Warning:_ in the notation `N(x, y)`, the first parameter is always the mean, but the second one can be the variance or the standard deviation depending on which textbook you use. It's easy to convert from one to the other, but you do need to know which one you're working with. If someone uses a Greek letter sigma without a "squared", then that always means standard deviation, and sigma-squared always means variance, so you can usually tell by the notation which convention is being used.
 
-  * [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%202.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%202%20SOLUTIONS.pdf)
+  * [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%202.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%202%20SOLUTIONS.pdf)
 
 A table of values for the Phi function (CDF of the Normal distribution) can be found on the last page of the exercise sheet.
 
 ### Week 22, Thursday 31 March: Hypothesis Testing
 
-  * [Video: Hypothesis Testing](https://web.microsoftstream.com/video/27865b77-f5f6-49e5-896c-fb7526b9fd14?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (23 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/statistics/hypothesis%20testing.pdf)
-  * [Video: One-Sample Tests](https://web.microsoftstream.com/video/d4a494b6-dc21-41bf-a9f5-41a4ae1e06aa?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (23 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/statistics/One-sample%20tests.pdf)
-  * [Video: Two-Sample Tests](https://web.microsoftstream.com/video/695b083e-19c4-4d95-9c29-e0e348dd266c?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (18 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/statistics/Two-sample%20tests.pdf)
+  * [Video: Hypothesis Testing](https://web.microsoftstream.com/video/27865b77-f5f6-49e5-896c-fb7526b9fd14?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (23 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/hypothesis%20testing.pdf)
+  * [Video: One-Sample Tests](https://web.microsoftstream.com/video/d4a494b6-dc21-41bf-a9f5-41a4ae1e06aa?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (23 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/One-sample%20tests.pdf)
+  * [Video: Two-Sample Tests](https://web.microsoftstream.com/video/695b083e-19c4-4d95-9c29-e0e348dd266c?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (18 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/Two-sample%20tests.pdf)
 
 Exercises:
 
-  * [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%203.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%203%20SOLUTIONS.pdf)
+  * [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%203.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%203%20SOLUTIONS.pdf)
 
 ### Week 23, Monday 25 April (after Easter): Non-Parametric Tests
 
-  * [Video: Regression](https://web.microsoftstream.com/video/f4ab6672-ecdb-46d7-86f4-9489bb45272a?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (19 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/statistics/regression.pdf)
-  * [Video: Non-Parametric Tests](https://web.microsoftstream.com/video/9497e7b1-0435-4275-a9df-60efe7514d48?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (30 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/statistics/non-parametric.pdf)
+  * [Video: Regression](https://web.microsoftstream.com/video/f4ab6672-ecdb-46d7-86f4-9489bb45272a?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (19 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/regression.pdf)
+  * [Video: Non-Parametric Tests](https://web.microsoftstream.com/video/9497e7b1-0435-4275-a9df-60efe7514d48?channelId=ae255b3b-663f-464a-9397-15a3f59c16b6) (30 minutes) [slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/non-parametric.pdf)
   * [Paper: The Mann-Whitney U Test](https://www.tqmp.org/RegularArticles/vol04-1/p013/p013.pdf) 8 pages, about half of which are figures and tables. Skip section 3 on SPSS, as we will be using python and statistical tables.
 
 Exercises:
 
-  * [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%204.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%204%20SOLUTIONS.pdf)
+  * [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%204.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%204%20SOLUTIONS.pdf)
 
 Statistical tables:
 
-  * [Statistical tables](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/statistics/tables.pdf)
+  * [Statistical tables](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/tables.pdf)
 
 You can, and should, use this tables file during the exam. Make sure you download or print a copy.
 
@@ -243,7 +243,7 @@ You can, and should, use this tables file during the exam. Make sure you downloa
 
 Exercise sheet
 
-  * [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%205.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022--23-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%205%20SOLUTIONS.pdf)
+  * [Exercise sheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%205.pdf) and [solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/Statistics%20Worksheet%205%20SOLUTIONS.pdf)
 
 The learning outcome for this workshop is to understand some of the limitations of the scientific/statistical method, both for when you do your own experiements (e.g. in your final project) and for when you read scientific papers (e.g. for the background section of your final project).
 
