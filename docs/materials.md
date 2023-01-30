@@ -17,10 +17,9 @@ There is one video and one problem sheet for each workshop, although lecture not
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides_6up.pdf)
   * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_notes.pdf)
   * [Problem Sheet 1](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet.pdf)
-
-<!--
   * [Problem Sheet 1 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet_ans.pdf) - updated
-  * [Live problem class week 13 recording - Stream](https://web.microsoftstream.com/video/e5e1d7c9-01e8-413b-845b-1e06cda594aa)
+ <!--
+ * [Live problem class week 13 recording - Stream](https://web.microsoftstream.com/video/e5e1d7c9-01e8-413b-845b-1e06cda594aa)
 -->
 
 ### Week 14 - A: Geometry and Vectors
@@ -30,10 +29,7 @@ There is one video and one problem sheet for each workshop, although lecture not
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides_6up.pdf)
   * [Course notes](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_notes.pdf)
   * [Problem Sheet 2](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet.pdf)
-
-<!--
   * [Problem Sheet 2 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet_ans.pdf)
--->
 
 ### Week 14 - B: Vector Spaces, Span and Bases
 
