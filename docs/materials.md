@@ -18,7 +18,8 @@ There is one video and one problem sheet for each workshop, although lecture not
   * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_notes.pdf)
   * [Problem Sheet 1](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet.pdf)
   * [Problem Sheet 1 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet_ans.pdf) - updated
- <!--
+
+<!--
  * [Live problem class week 13 recording - Stream](https://web.microsoftstream.com/video/e5e1d7c9-01e8-413b-845b-1e06cda594aa)
 -->
 
