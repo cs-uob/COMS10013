@@ -39,9 +39,8 @@ There is one video and one problem sheet for each workshop, although lecture not
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec1_slides_6up.pdf)
   * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_notes.pdf)
   * [Problem Sheet 3](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet1.pdf)
-
-<!--
   * [Problem Sheet 3 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet1_ans.pdf)
+<!--
   * [Live problem class week 14 recording - Stream](https://web.microsoftstream.com/video/e63f27ce-4acb-4dae-8709-f60bf877c480)
 -->
 
@@ -52,10 +51,7 @@ There is one video and one problem sheet for each workshop, although lecture not
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec2_slides_6up.pdf)
   * Course notes - see notes for previous workshop.
   * [Problem Sheet 4](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet2.pdf)
-
-<!--
   * [Problem Sheet 4 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet2_ans.pdf)
--->
 
 ### Week 15 - B: Matrices
 
