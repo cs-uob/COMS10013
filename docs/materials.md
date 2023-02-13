@@ -62,9 +62,9 @@ There is one video and one problem sheet for each workshop, although lecture not
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_lec_slides_6up.pdf)
   * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_notes.pdf)
   * [Problem Sheet 5](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_probsheet.pdf)
+  * [Problem Sheet 5 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_probsheet_ans.pdf)
 
 <!--
-  * [Problem Sheet 5 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_probsheet_ans.pdf)
  * [Live problem class week 15 recording - Stream](https://web.microsoftstream.com/video/e4dad0bc-46cb-4040-b85c-94ae17d20478)
 -->
 ### Week 16 - A: Linear Systems and Matrices
