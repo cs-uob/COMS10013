@@ -112,6 +112,13 @@ There is one video and one problem sheet for each workshop, although lecture not
   * [Live problem class week 17 recording - Stream](https://web.microsoftstream.com/video/4aad87d7-8ed7-49c1-8aa9-c119a1d13707)
 -->
 
+### Past exam questions and solutions for Linear Algebra
+
+  * [2021 - exam questions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2021.pdf?csf=1&web=1&e=EfhnZd)
+  * [2021 - exam solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2021-solutions.pdf?csf=1&web=1&e=GHjMLE)
+  * [2022 - exam questions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2022.pdf?csf=1&web=1&e=3lvHT8)
+  * [2022 - exam solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2022-solutions.pdf?csf=1&web=1&e=yiqMOO)
+ 
 ## Reading Week
 
 Week 18 is reading week. There are no workshops and no new materials.
