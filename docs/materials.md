@@ -10,7 +10,7 @@ There is one video and one problem sheet for each workshop, although lecture not
 
 ## Linear Algebra (Weeks 13-17)
 
-  * [full set of notes, exercsies and solutions pdf](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_linalg_full_notes.pdf)
+  * [Full set of notes, exercsies and solutions pdf](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_linalg_full_notes.pdf)
   
 ### Week 13: Vectors and the Dot Product
 
