@@ -9,6 +9,8 @@ Please try to come to the workshops prepared - having good access to lecture sli
 There is one video and one problem sheet for each workshop, although lecture notes (if available) may span two lectures and two workshops in some cases. Apart from Week 13, there are two workshops per week (these are labelled A and B below) - please see your timetable for times. In Week 13 there is only one workshop and this will be the second one in the timetable for that week. There is also a help desk available each week - see your timetable for times - and please make good use of this if you are struggling with understanding the material and/or completing the problem sheets.
 
 ## Linear Algebra (Weeks 13-17)
+
+  * [full set of notes, exercsies and solutions pdf](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_linalg_full_notes.pdf)
   
 ### Week 13: Vectors and the Dot Product
 
