@@ -1,17 +1,11 @@
 # Workshops
 
-This unit continues in the same style as Mathematics A.
+The workshops for this unit continue in the same style as Mathematics A.
 
-The workshops take place in MVB 1.11 and for 2022-23 they will take place
+For AY 2023/24, the workshops take place in QB F101a (Bill Brown suite) at the following times:
 
-  - Mondays, 1-3pm
-  - Thursdays, 10am-12pm
-
-At the time of writing, we do not yet know what forms of in-person teaching will be possible and what social distancing rules will be in place. If possible, we will allow every student in Bristol to come to all in-person sessions (twice a week), as long as everyone complies with mask-wearing rules.
-
-There will be an online drop-in session Fridays from 4-5pm on Teams for questions. Outside of this time, please ask your questions on the General channel in the unit Teams.
-
-Teaching weeks are Weeks 13-17 and 19-23; Week 18 is reading week (no new material and no workshops) and Week 24 is revision week (no new material, workshops replaced with drop-ins).
+  - Mondays, 13:00-14:50
+  - Thursdays, 13:00am-14:50
 
 ## Attendance
 
