@@ -1,39 +1,47 @@
 # Unit Organisation and Materials
 
-As for Maths A, the unit consists of video lectures, in-person workshops and problem sheets, supplemented by lecture slides and in some cases, lecture notes. Taking the unit involves watching the video lectures and reading the associated lecture notes (if available) before coming to the workshops to work on problem sheets. You can also prepare by looking at the problem sheets before coming to the workshop. After the workshops, you check your solutions against the sample solutions made available on this web page.
+As for Maths A, the unit consists of in-person lectures, in-person workshops and problem sheets, supplemented by lecture slides and in some cases, lecture notes. Taking the unit involves atending the in-person lectures and reading the associated lecture notes (if available) before coming to the workshops to work on problem sheets. You can also prepare by looking at the problem sheets before coming to the workshop. After the workshops, you check your solutions against the sample solutions made available on this web page.
 
-The aim of the workshops is for you to work on problem sheets with your peers and with help from the Lecturer and Teaching Assistants. You will gain a lot by discussing problems, explaining solutions to others and asking questions when you don't understand something. The more proactive you are in workshops, the more you are likely to gain. Some of the workshops will begin with a summary of the material relevant to the workshop, highlighting the key concepts and techniques. You will get the most out of this and the workshop as a whole if you have first watched the relevant video and studied any associated course notes. 
+The aim of the workshops is for you to work on problem sheets with your peers and with help from the Lecturer and Teaching Assistants. You will gain a lot by discussing problems, explaining solutions to others and asking questions when you don't understand something. The more proactive you are in workshops, the more you are likely to gain. Some of the workshops will begin with a summary of the material relevant to the workshop, highlighting the key concepts and techniques. You will get the most out of this and the workshop as a whole if you have first prepared by studying lecture slides and notes if available. 
 
 Please try to come to the workshops prepared - having good access to lecture slides and notes is essential, either on a laptop or printed out. Viewing on phones tends not to be particularly effective given the size of the screen. Also, don't forget a pencil/pen and paper.
 
-There is one video and one problem sheet for each workshop, although lecture notes (if available) may span two lectures and two workshops in some cases. Apart from Week 13, there are two workshops per week (these are labelled A and B below) - please see your timetable for times. In Week 13 there is only one workshop and this will be the second one in the timetable for that week. There is also a help desk available each week - see your timetable for times - and please make good use of this if you are struggling with understanding the material and/or completing the problem sheets.
+There is also a help desk available each week - see your timetable for times - and please make good use of this if you are struggling with understanding the material and/or completing the problem sheets.
 
 ## Linear Algebra (Weeks 13-17)
 
+For Linear Algebra, there are two topics per week, labelled A and B below. For each topic there is one lecture, one problem sheet and one workshop. There are also course notes, although these may span two topics in some cases. Apart from Week 13, there are two workshops per week (labelled 1 and 2 below) - please see your timetable for times of lectures and workshops. Note that there is a gap between lectures and workshops to allow you to digest the material and prepare for the workshop, ie the topic in a lecture will be covered in the next but one workshop. This means that in Week 13 there is only one workshop and this will be the second one in the timetable for that week. 
+<!--
   * [Full set of notes, exercsies and solutions pdf](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_linalg_full_notes.pdf)
-  
-### Week 13: Vectors and the Dot Product
+-->
 
+### Week 13 - A: Vectors and the Dot Product
+<!--
   * [Video lecture - Stream](https://web.microsoftstream.com/video/7056809a-5e34-40e4-bd79-0a82a140f203)
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides.pdf)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides_6up.pdf)
-  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_notes.pdf)
-  * [Problem Sheet 1](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet.pdf)
-  * [Problem Sheet 1 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet_ans.pdf) - updated
-
+-->
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides.pdf)
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides_6up.pdf)
+  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_notes.pdf)
+  * [Problem Sheet 1](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet.pdf) - workshop 2, week 13.
+<!--
+  * [Problem Sheet 1 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet_ans.pdf) - updated
+-->
 <!--
  * [Live problem class week 13 recording - Stream](https://web.microsoftstream.com/video/e5e1d7c9-01e8-413b-845b-1e06cda594aa)
 -->
 
-### Week 14 - A: Geometry and Vectors
-
+### Week 13 - B: Geometry and Vectors
+<!--
   * [Video lecture - Stream](https://web.microsoftstream.com/video/d2f9d829-90eb-4fed-a1ca-01097ac8379a)
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides.pdf)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides_6up.pdf)
-  * [Course notes](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_notes.pdf)
-  * [Problem Sheet 2](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet.pdf)
-  * [Problem Sheet 2 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet_ans.pdf)
-
+-->
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides.pdf)
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides_6up.pdf)
+  * [Course notes](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_notes.pdf)
+  * [Problem Sheet 2](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet.pdf) - workshop 1, week 14.
+<!--
+  * [Problem Sheet 2 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet_ans.pdf)
+-->
+<!--
 ### Week 14 - B: Vector Spaces, Span and Bases
 
   * [Video lecture - Stream](https://web.microsoftstream.com/video/8d926032-b718-48e1-bb8c-d98a70dd75d5)
@@ -47,6 +55,7 @@ There is one video and one problem sheet for each workshop, although lecture not
   * [Live problem class week 14 recording - Stream](https://web.microsoftstream.com/video/e63f27ce-4acb-4dae-8709-f60bf877c480)
 -->
 
+<!--
 ### Week 15 - A: Orthonormal Bases and Subspace Projections
 
   * [Video lecture - Stream](https://web.microsoftstream.com/video/fc3440c2-e4c2-43cb-87be-38054fae176b)
@@ -55,7 +64,8 @@ There is one video and one problem sheet for each workshop, although lecture not
   * Course notes - see notes for previous workshop.
   * [Problem Sheet 4](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet2.pdf)
   * [Problem Sheet 4 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet2_ans.pdf)
-
+-->
+<!--
 ### Week 15 - B: Matrices
 
   * [Video lecture - Stream](https://web.microsoftstream.com/video/2d091ab9-8c61-41c3-ae52-0d63a0145251)
@@ -69,6 +79,7 @@ There is one video and one problem sheet for each workshop, although lecture not
 <!--
  * [Live problem class week 15 recording - Stream](https://web.microsoftstream.com/video/e4dad0bc-46cb-4040-b85c-94ae17d20478)
 -->
+<!--
 ### Week 16 - A: Linear Systems and Matrices
 
   * [Video lecture - Stream](https://web.microsoftstream.com/video/70aa5141-7aab-43f9-bec1-3f7e88119606)
@@ -90,7 +101,7 @@ There is one video and one problem sheet for each workshop, although lecture not
 <!--
   * [Live problem class week 16 recording - Stream](https://web.microsoftstream.com/video/310a048d-5f43-4e20-b91f-ee9f796dcbc2)
 -->
-
+<!--
 ### Week 17 - A: Eigenvalues and Eigenvectors I
 
   * [Video lecture - Stream](https://web.microsoftstream.com/video/9d2710ec-3c75-4d76-9cf1-11100e20e6b7)
@@ -113,14 +124,16 @@ There is one video and one problem sheet for each workshop, although lecture not
 <!--
   * [Live problem class week 17 recording - Stream](https://web.microsoftstream.com/video/4aad87d7-8ed7-49c1-8aa9-c119a1d13707)
 -->
-
+<!--
 ### Past exam questions and solutions for Linear Algebra
 
   * [2021 - exam questions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2021.pdf?csf=1&web=1&e=EfhnZd)
   * [2021 - exam solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2021-solutions.pdf?csf=1&web=1&e=GHjMLE)
   * [2022 - exam questions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2022.pdf?csf=1&web=1&e=3lvHT8)
   * [2022 - exam solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2022-solutions.pdf?csf=1&web=1&e=yiqMOO)
- 
+
+ -->
+ <!--
 ## Reading Week
 
 Week 18 is reading week. There are no workshops and no new materials.
@@ -170,7 +183,7 @@ Week 18 is reading week. There are no workshops and no new materials.
 * [Worksheet solutions pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EWUgkwrnphRMmth9KJb65kUBFb09xRJf08Pllmqmi88KFA)
 
 -->
-
+<!--
 ## Statistics (Week 21-23)
 
 <!--
