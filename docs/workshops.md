@@ -1,6 +1,6 @@
 # Workshops and Attendance Hurdles
 
-Your main learning on this unit will happen in twice-weekly workshops where you will solve problem sheets in groups with other students. There will be 20 workshops in total, two each in weeks 1-5 and 7-11. Week 6 is reading week where there are no timetabled activities, and in Week 12 the workshops are replaced by support sessions for revision week.
+Your main learning on this unit will happen in twice-weekly workshops where you will solve problem sheets in groups with other students. There will be 20 workshops in total, two each in weeks 13-17 and 19-23. Week 18 is reading week where there are no timetabled activities, and in Week 24 the workshops are replaced by support sessions for revision week.
 
 We expect you to prepare for each workshop by attending the lectures and reading the lecture notes (in any order you prefer). In the workshop itself, you will work on a problem sheet, and sample solutions will usually be provided a few days later.
 
