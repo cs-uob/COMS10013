@@ -24,9 +24,11 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides_6up.pdf)
   * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_notes.pdf)
   * [Problem Sheet 1](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet.pdf) - workshop 2, week 13.
+
 <!--
   * [Problem Sheet 1 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet_ans.pdf) - updated
 -->
+
 <!--
  * [Live problem class week 13 recording - Stream](https://web.microsoftstream.com/video/e5e1d7c9-01e8-413b-845b-1e06cda594aa)
 -->
@@ -39,9 +41,11 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides_6up.pdf)
   * [Course notes](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_notes.pdf)
   * [Problem Sheet 2](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet.pdf) - workshop 1, week 14.
+
 <!--
   * [Problem Sheet 2 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet_ans.pdf)
 -->
+
 <!--
 ### Week 14 - B: Vector Spaces, Span and Bases
 
@@ -134,7 +138,9 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [2022 - exam solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2022-solutions.pdf?csf=1&web=1&e=yiqMOO)
 
  -->
- <!--
+ 
+ 
+<!--
 ## Reading Week
 
 Week 18 is reading week. There are no workshops and no new materials.
