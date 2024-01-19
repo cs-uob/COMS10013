@@ -8,7 +8,7 @@ This unit teaches three topics:
 | Analysis | 19-21 | 25% |
 | Statistics | 21-23 | 25% |
 
-The unit will be assessed by a 3-hour final exam just like Mathematics A, with the number of questions determined by the topic weights (for example, half the questions will be on linear algebra).
+The unit will be assessed by a final exam, with the number of questions determined by the topic weights (for example, half the questions will be on linear algebra).
 
 <!--
 We do not yet have a final answer on how the summer assessment period will run, but it is possible that exams will return to being held in person in Bristol, in which case all students must have returned to Bristol before the start of the exam period (including any quarantine).
