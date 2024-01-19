@@ -14,6 +14,7 @@ Lecture 1: Monday 13:00-13:50 QB 1.4<br>
 Workshop 1: Tuesday 13:00-14:50 QB F101a<br>
 Lecture 2: Thursday 10:00-10:50 QB 1.4<br>
 Workshop 2: Thursday 13:00-14:50 QB F101a<br>
+Help desk: Thursday 16:00-16:50 QB 1.69<br>
 <br>
 
 ## Linear Algebra (Weeks 13-17)
