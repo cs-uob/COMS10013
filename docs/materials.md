@@ -11,6 +11,7 @@ There is also a help desk available each week - see your timetable for times - a
 ## Linear Algebra (Weeks 13-17)
 
 For Linear Algebra, there are two topics per week, labelled A and B below. For each topic there is one lecture, one problem sheet and one workshop. There are also course notes, although these may span two topics in some cases. Apart from Week 13, there are two workshops per week (labelled 1 and 2 below) - please see your timetable for times of lectures and workshops. Note that there is a gap between lectures and workshops to allow you to digest the material and prepare for the workshop, ie the topic in a lecture will be covered in the next but one workshop. This means that in Week 13 there is only one workshop and this will be the second one in the timetable for that week. 
+
 <!--
   * [Full set of notes, exercsies and solutions pdf](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_linalg_full_notes.pdf)
 -->
