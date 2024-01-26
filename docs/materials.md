@@ -53,30 +53,34 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [Problem Sheet 2 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet_ans.pdf)
 -->
 
+### Week 14 - A: Vector Spaces, Span and Bases
+
 <!--
-### Week 14 - B: Vector Spaces, Span and Bases
-
   * [Video lecture - Stream](https://web.microsoftstream.com/video/8d926032-b718-48e1-bb8c-d98a70dd75d5)
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec1_slides.pdf)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec1_slides_6up.pdf)
-  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_notes.pdf)
-  * [Problem Sheet 3](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet1.pdf)
+-->
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec1_slides.pdf)
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec1_slides_6up.pdf)
+  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_notes.pdf)
+  * [Problem Sheet 3](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet1.pdf) - workshop 2, week 14
+<!--
   * [Problem Sheet 3 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet1_ans.pdf)
-
+-->
 <!--
   * [Live problem class week 14 recording - Stream](https://web.microsoftstream.com/video/e63f27ce-4acb-4dae-8709-f60bf877c480)
 -->
 
+### Week 14 - B: Orthonormal Bases and Subspace Projections
 <!--
-### Week 15 - A: Orthonormal Bases and Subspace Projections
-
   * [Video lecture - Stream](https://web.microsoftstream.com/video/fc3440c2-e4c2-43cb-87be-38054fae176b)
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec2_slides.pdf)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec2_slides_6up.pdf)
-  * Course notes - see notes for previous workshop.
-  * [Problem Sheet 4](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet2.pdf)
+-->
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec2_slides.pdf)
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec2_slides_6up.pdf)
+  * Course notes - see notes for previous topic.
+  * [Problem Sheet 4](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet2.pdf) - workshop 1, week 15
+<!--
   * [Problem Sheet 4 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet2_ans.pdf)
 -->
+
 <!--
 ### Week 15 - B: Matrices
 
