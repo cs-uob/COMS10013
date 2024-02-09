@@ -85,10 +85,7 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_lec_slides_6up.pdf)
   * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_notes.pdf)
   * [Problem Sheet 5](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_probsheet.pdf) - workshop 2, week 15
-
-<!--
-  * [Problem Sheet 5 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_probsheet_ans.pdf)
--->
+  * [Problem Sheet 5 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_probsheet_ans.pdf)
 
 <!--
  * [Live problem class week 15 recording - Stream](https://web.microsoftstream.com/video/e4dad0bc-46cb-4040-b85c-94ae17d20478)
@@ -109,30 +106,37 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [Problem Sheet 6 with Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_probsheet_ans.pdf)
 -->
 
+### Week 16 - A: Solving Linear Systems and Inverting Matrices
+
 <!--
-### Week 16 - B: Solving Linear Systems and Inverting Matrices
-
   * [Video lecture - Stream](https://web.microsoftstream.com/video/4a53e611-dc1e-4c11-a8b6-1ec0146f48e3)
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_lec_slides.pdf)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_lec_slides_6up.pdf)
-  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_notes.pdf)
-  * [Problem Sheet 7](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_probsheet.pdf)
-  * [Problem Sheet 7 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_probsheet_ans.pdf)
+-->
 
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_lec_slides.pdf)
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_lec_slides_6up.pdf)
+  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_notes.pdf)
+  * [Problem Sheet 7](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_probsheet.pdf) - workshop 2, week 16
+
+<!--
+  * [Problem Sheet 7 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_probsheet_ans.pdf)
 -->
 <!--
   * [Live problem class week 16 recording - Stream](https://web.microsoftstream.com/video/310a048d-5f43-4e20-b91f-ee9f796dcbc2)
 -->
+
+### Week 16 - B: Eigenvalues and Eigenvectors I
+
 <!--
-### Week 17 - A: Eigenvalues and Eigenvectors I
-
   * [Video lecture - Stream](https://web.microsoftstream.com/video/9d2710ec-3c75-4d76-9cf1-11100e20e6b7)
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec1_slides.pdf)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec1_slides_6up.pdf)
-  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_notes.pdf)
-  * [Problem Sheet 8](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_1.pdf)
-  * [Problem Sheet 8 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_1_ans.pdf)
+-->
 
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec1_slides.pdf)
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec1_slides_6up.pdf)
+  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_notes.pdf)
+  * [Problem Sheet 8](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_1.pdf) - workshop 1, week 17
+
+<!--
+  * [Problem Sheet 8 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_1_ans.pdf)
 -->
 
 <!--
