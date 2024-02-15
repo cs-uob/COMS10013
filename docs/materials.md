@@ -101,10 +101,7 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_lec_slides_6up.pdf)
   * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_notes.pdf)
   * [Problem Sheet 6](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_probsheet.pdf) - workshop 1, week 16
-
-<!--
-  * [Problem Sheet 6 with Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_probsheet_ans.pdf)
--->
+  * [Problem Sheet 6 with Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_probsheet_ans.pdf)
 
 ### Week 16 - A: Solving Linear Systems and Inverting Matrices
 
