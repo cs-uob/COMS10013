@@ -113,10 +113,8 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_lec_slides_6up.pdf)
   * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_notes.pdf)
   * [Problem Sheet 7](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_probsheet.pdf) - workshop 2, week 16
-
-<!--
   * [Problem Sheet 7 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_probsheet_ans.pdf)
--->
+
 <!--
   * [Live problem class week 16 recording - Stream](https://web.microsoftstream.com/video/310a048d-5f43-4e20-b91f-ee9f796dcbc2)
 -->
@@ -136,17 +134,18 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [Problem Sheet 8 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_1_ans.pdf)
 -->
 
+### Week 17 - A: Eigenvalues and Eigenvectors II
+
 <!--
-
-### Week 17 - B: Eigenvalues and Eigenvectors II
-
   * [Video lecture - Stream](https://web.microsoftstream.com/video/8669c553-bb9e-4a11-9c14-de28adf2d8e2)
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec2_slides.pdf)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec2_slides_6up.pdf)
-  * Course notes - see notes for previous workshop.
-  * [Problem Sheet 9](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_2.pdf)
-  * [Problem Sheet 9 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_2_ans.pdf)
+-->
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec2_slides.pdf)
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec2_slides_6up.pdf)
+  * Course notes - see above notes for Eigenvalues and Eigenvectors I.
+  * [Problem Sheet 9](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_2.pdf) - workshop 2, week 17
 
+<!--
+  * [Problem Sheet 9 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_2_ans.pdf)
 -->
 <!--
   * [Live problem class week 17 recording - Stream](https://web.microsoftstream.com/video/4aad87d7-8ed7-49c1-8aa9-c119a1d13707)
