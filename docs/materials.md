@@ -151,23 +151,23 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [Live problem class week 17 recording - Stream](https://web.microsoftstream.com/video/4aad87d7-8ed7-49c1-8aa9-c119a1d13707)
 -->
 
-<!--
 ### Past exam questions and solutions for Linear Algebra
 
-  * [2021 - exam questions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2021.pdf?csf=1&web=1&e=EfhnZd)
-  * [2021 - exam solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2021-solutions.pdf?csf=1&web=1&e=GHjMLE)
-  * [2022 - exam questions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2022.pdf?csf=1&web=1&e=3lvHT8)
-  * [2022 - exam solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2022-solutions.pdf?csf=1&web=1&e=yiqMOO)
-
- -->
+  * [2021 - exam questions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2021.pdf?csf=1&web=1&e=EfhnZd)
+  * [2021 - exam solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2021-solutions.pdf?csf=1&web=1&e=GHjMLE)
+  * [2022 - exam questions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2022.pdf?csf=1&web=1&e=3lvHT8)
+  * [2022 - exam solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2022-solutions.pdf?csf=1&web=1&e=yiqMOO)
+  * [2023 - exam questions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2023.pdf?csf=1&web=1&e=3lvHT8)
+  * [2023 - exam solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2023-solutions.pdf?csf=1&web=1&e=yiqMOO)
  
- 
-<!--
 ## Reading Week
 
 Week 18 is reading week. There are no workshops and no new materials.
 
 ## Analysis (Weeks 19 - 21)
+
+## Statistics (Weeks 22 - 23)
+
 
 <!--
 ### Week 19, Monday 7 March: Analysis I
