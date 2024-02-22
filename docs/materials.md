@@ -129,10 +129,8 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec1_slides_6up.pdf)
   * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_notes.pdf)
   * [Problem Sheet 8](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_1.pdf) - workshop 1, week 17
-
-<!--
   * [Problem Sheet 8 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_1_ans.pdf)
--->
+
 
 ### Week 17 - A: Eigenvalues and Eigenvectors II
 
