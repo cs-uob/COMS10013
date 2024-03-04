@@ -2,7 +2,7 @@
 
 As for Maths A, the unit consists of in-person lectures, in-person workshops and problem sheets, supplemented by lecture slides and in some cases, lecture notes. Taking the unit involves atending the in-person lectures and reading the associated lecture notes (if available) before coming to the workshops to work on problem sheets. You can also prepare by looking at the problem sheets before coming to the workshop. After the workshops, you check your solutions against the sample solutions made available on this web page.
 
-The aim of the workshops is for you to work on problem sheets with your peers and with help from the Lecturer and Teaching Assistants. You will gain a lot by discussing problems, explaining solutions to others and asking questions when you don't understand something. The more proactive you are in workshops, the more you are likely to gain. Some of the workshops will begin with a summary of the material relevant to the workshop, highlighting the key concepts and techniques. You will get the most out of this and the workshop as a whole if you have first prepared by studying lecture slides and notes if available. 
+The aim of the workshops is for you to work on problem sheets with your peers and with help from the Lecturer and Teaching Assistants. You will gain a lot by discussing problems, explaining solutions to others and asking questions when you don't understand something. The more proactive you are in workshops, the more you are likely to gain. Some of the workshops will begin with a summary of the material relevant to the workshop, highlighting the key concepts and techniques. You will get the most out of this and the workshop as a whole if you have first prepared by studying lecture slides and notes if available.
 
 Please try to come to the workshops prepared - having good access to lecture slides and notes is essential, either on a laptop or printed out. Viewing on phones tends not to be particularly effective given the size of the screen. Also, don't forget a pencil/pen and paper.
 
@@ -19,7 +19,7 @@ Help desk: Thursday 16:00-16:50 QB 1.69<br>
 
 ## Linear Algebra (Weeks 13-17)
 
-For Linear Algebra, there are two topics per week, labelled A and B below. For each topic there is one lecture, one problem sheet and one workshop. There are also course notes, although these may span two topics in some cases. Apart from Week 13, there are two workshops per week (labelled 1 and 2 below) - please see your timetable for times of lectures and workshops. Note that there is a gap between lectures and workshops to allow you to digest the material and prepare for the workshop, ie the topic in a lecture will be covered in the next but one workshop. This means that in Week 13 there is only one workshop and this will be the second one in the timetable for that week. 
+For Linear Algebra, there are two topics per week, labelled A and B below. For each topic there is one lecture, one problem sheet and one workshop. There are also course notes, although these may span two topics in some cases. Apart from Week 13, there are two workshops per week (labelled 1 and 2 below) - please see your timetable for times of lectures and workshops. Note that there is a gap between lectures and workshops to allow you to digest the material and prepare for the workshop, ie the topic in a lecture will be covered in the next but one workshop. This means that in Week 13 there is only one workshop and this will be the second one in the timetable for that week.
 <br>
 
 <!--
@@ -155,12 +155,26 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [2022 - exam solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2022-solutions.pdf?csf=1&web=1&e=yiqMOO)
   * [2023 - exam questions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2023.pdf?csf=1&web=1&e=3lvHT8)
   * [2023 - exam solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2023-solutions.pdf?csf=1&web=1&e=yiqMOO)
- 
+
 ## Reading Week
 
 Week 18 is reading week. There are no workshops and no new materials.
 
 ## Analysis (Weeks 19 - 21)
+
+### Week 19 - Infinitessimals, limits and extrema,
+This week we will learn some of the foundations of calculus in one and many dimensions.
+<!--
+  * [Video lecture - Stream](https://web.microsoftstream.com/video/7056809a-5e34-40e4-bd79-0a82a140f203)
+-->
+  * [Notes 1.1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture1/lecture1.1.pdf)
+  * [Notes 1.2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture1/lecture1.2.pdf)
+  * [Notes 2.1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture2/lecture1.1.pdf)
+  * [Notes 2.2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture2/lecture1.2.pdf)
+  * [Worksheet 1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet1/worksheet1.pdf)
+<!--
+ * [Live problem class week 13 recording - Stream](https://web.microsoftstream.com/video/e5e1d7c9-01e8-413b-845b-1e06cda594aa)
+-->
 
 ## Statistics (Weeks 22 - 23)
 
@@ -213,7 +227,7 @@ Week 18 is reading week. There are no workshops and no new materials.
 
 <!--
 
-The Teams folder with slides and worksheets for this part is [here](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/). Videos themselves will be hosted on [Microsoft Streams in a separate channel](https://web.microsoftstream.com/channel/ae255b3b-663f-464a-9397-15a3f59c16b6). 
+The Teams folder with slides and worksheets for this part is [here](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/). Videos themselves will be hosted on [Microsoft Streams in a separate channel](https://web.microsoftstream.com/channel/ae255b3b-663f-464a-9397-15a3f59c16b6).
 
 ### Week 21, Thursday 24 March: Introduction and Concepts
 
