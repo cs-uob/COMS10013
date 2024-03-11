@@ -172,7 +172,7 @@ This week we will learn some of the foundations of calculus in one and many dime
   * [Notes 2.1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture2/lecture2.1.pdf)
   * [Notes 2.2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture2/lecture2.2.pdf)
   * [Worksheet 1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet1/worksheet1.pdf)
-  * [Worksheet 1 Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet1/solutions.pdf)
+  * [Worksheet 1 Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet1/solutions1.pdf)
   * [Worksheet 1 more Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet1/moreSolutions1.pdf)
   * [Worksheet 2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet2/worksheet2.pdf)
 
