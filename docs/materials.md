@@ -162,17 +162,30 @@ Week 18 is reading week. There are no workshops and no new materials.
 
 ## Analysis (Weeks 19 - 21)
 
-### Week 19 - Infinitessimals, limits and extrema,
+### Week 19 - Infinitessimals, limits and extrema
 This week we will learn some of the foundations of calculus in one and many dimensions.
 <!--
   * [Video lecture - Stream](https://web.microsoftstream.com/video/7056809a-5e34-40e4-bd79-0a82a140f203)
 -->
   * [Notes 1.1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture1/lecture1.1.pdf)
   * [Notes 1.2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture1/lecture1.2.pdf)
-  * [Notes 2.1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture2/lecture1.1.pdf)
-  * [Notes 2.2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture2/lecture1.2.pdf)
+  * [Notes 2.1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture2/lecture2.1.pdf)
+  * [Notes 2.2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture2/lecture2.2.pdf)
   * [Worksheet 1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet1/worksheet1.pdf)
+  * [Worksheet 1 Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet1/solutions.pdf)
+  * [Worksheet 1 more Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet1/moreSolutions1.pdf)
   * [Worksheet 2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet2/worksheet2.pdf)
+
+### Week 20 - Taylor series and Differential equations
+This week we will learn about Taylor series and solve some differential equations.
+<!--
+    * [Video lecture - Stream](https://web.microsoftstream.com/video/7056809a-5e34-40e4-bd79-0a82a140f203)
+  -->
+  * [Notes 3.1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture3/lecture3.1.pdf)
+  * [Notes 3.2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture3/lecture3.2.pdf)
+  * [Notes 4.1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture4/lecture4.1.pdf)
+  * [Notes 4.2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture4/lecture4.2.pdf)
+  * [Worksheet 3 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet3/worksheet3.pdf)
 <!--
  * [Live problem class week 13 recording - Stream](https://web.microsoftstream.com/video/e5e1d7c9-01e8-413b-845b-1e06cda594aa)
 -->
