@@ -183,8 +183,7 @@ This week we will learn about Taylor series and solve some differential equation
   -->
   * [Notes 3.1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture3/lecture3.1.pdf)
   * [Notes 3.2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture3/lecture3.2.pdf)
-  * [Notes 4.1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture4/lecture4.1.pdf)
-  * [Notes 4.2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture4/lecture4.2.pdf)
+  * [Notes 4 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture4/lecture4.pdf)
   * [Worksheet 3 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet3/worksheet3.pdf)
 <!--
  * [Live problem class week 13 recording - Stream](https://web.microsoftstream.com/video/e5e1d7c9-01e8-413b-845b-1e06cda594aa)
