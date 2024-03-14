@@ -176,7 +176,7 @@ This week we will learn some of the foundations of calculus in one and many dime
   * [Worksheet 1 more Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet1/moreSolutions1.pdf)
   * [Worksheet 2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet2/worksheet2.pdf)
 
-### Week 20 - Taylor series and Differential equations
+### Week 20 - Taylor series, complex numbers and Differential equations
 This week we will learn about Taylor series and solve some differential equations.
 <!--
     * [Video lecture - Stream](https://web.microsoftstream.com/video/7056809a-5e34-40e4-bd79-0a82a140f203)
@@ -185,6 +185,8 @@ This week we will learn about Taylor series and solve some differential equation
   * [Notes 3.2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture3/lecture3.2.pdf)
   * [Notes 4 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture4/lecture4.pdf)
   * [Worksheet 3 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet3/worksheet3.pdf)
+  * [Worksheet 3 Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet3/solutions3.pdf)
+  * [Worksheet 4 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet4/worksheet4.pdf)
 <!--
  * [Live problem class week 13 recording - Stream](https://web.microsoftstream.com/video/e5e1d7c9-01e8-413b-845b-1e06cda594aa)
 -->
