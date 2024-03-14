@@ -175,6 +175,7 @@ This week we will learn some of the foundations of calculus in one and many dime
   * [Worksheet 1 Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet1/solutions1.pdf)
   * [Worksheet 1 more Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet1/moreSolutions1.pdf)
   * [Worksheet 2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet2/worksheet2.pdf)
+  * [Worksheet 2 Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet2/solutions2.pdf)
 
 ### Week 20 - Taylor series, complex numbers and Differential equations
 This week we will learn about Taylor series and solve some differential equations.
