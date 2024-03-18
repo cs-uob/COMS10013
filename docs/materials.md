@@ -188,6 +188,20 @@ This week we will learn about Taylor series and solve some differential equation
   * [Worksheet 3 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet3/worksheet3.pdf)
   * [Worksheet 3 Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet3/solutions3.pdf)
   * [Worksheet 4 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet4/worksheet4.pdf)
+  * [Worksheet 4 Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet4/solutions4.pdf)
+  * [Worksheet 4 more Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet4/moreSolutions4.pdf)
+
+### Week 21 - More Differential equations and Optimisation
+This week we will learn more about differential equations and look at some optimisation problems
+<!--
+      * [Video lecture - Stream](https://web.microsoftstream.com/video/7056809a-5e34-40e4-bd79-0a82a140f203)
+    -->
+  * [Notes 5.1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture5/lecture5.1.pdf)
+  * [Notes 5.2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture5/lecture5.2.pdf)
+  * [Notes 5.3 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture5/lecture5.3.pdf)
+  * [Notes 6 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture6/lecture6.pdf)
+  * [Worksheet 5 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet5/worksheet5.pdf)
+  * [Worksheet 6 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet6/worksheet6.pdf)
 <!--
  * [Live problem class week 13 recording - Stream](https://web.microsoftstream.com/video/e5e1d7c9-01e8-413b-845b-1e06cda594aa)
 -->
