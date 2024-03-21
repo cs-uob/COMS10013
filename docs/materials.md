@@ -201,6 +201,7 @@ This week we will learn more about differential equations and look at some optim
   * [Notes 5.3 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture5/lecture5.3.pdf)
   * [Notes 6 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture6/lecture6.pdf)
   * [Worksheet 5 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet5/worksheet5.pdf)
+  * [Worksheet 5 Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet5/solutions5.pdf)
   * [Worksheet 6 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet6/worksheet6.pdf)
 <!--
  * [Live problem class week 13 recording - Stream](https://web.microsoftstream.com/video/e5e1d7c9-01e8-413b-845b-1e06cda594aa)
