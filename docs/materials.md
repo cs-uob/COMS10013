@@ -207,6 +207,12 @@ This week we will learn more about differential equations and look at some optim
  * [Live problem class week 13 recording - Stream](https://web.microsoftstream.com/video/e5e1d7c9-01e8-413b-845b-1e06cda594aa)
 -->
 
+### Past exam questions and solutions for Analysis
+A selection of example exam questions with solutions.
+* [Mock pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/mock/mock.pdf)
+* [Mock solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/mock/mock_solutions.pdf)
+* [COMS10013 Past analysis paper](https://github.com/cs-uob/COMS10013/blob/master/resources/mock/COMS10013_analysis21.pdf)
+
 ## Statistics (Weeks 22 - 23)
 
 
