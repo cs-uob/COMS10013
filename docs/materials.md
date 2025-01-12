@@ -262,11 +262,10 @@ A selection of example exam questions with solutions.
 * [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EWdlrktqm7xPjKuXk3TYK7gBaQCBS7W6wL_RsVs3cZGlkg)
 * [Worksheet solutions pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EWUgkwrnphRMmth9KJb65kUBFb09xRJf08Pllmqmi88KFA)
 
--->
-<!--
+
 ## Statistics (Week 21-23)
 
-<!--
+
 
 The Teams folder with slides and worksheets for this part is [here](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/). Videos themselves will be hosted on [Microsoft Streams in a separate channel](https://web.microsoftstream.com/channel/ae255b3b-663f-464a-9397-15a3f59c16b6).
 
