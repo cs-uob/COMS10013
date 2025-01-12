@@ -166,9 +166,9 @@ Week 18 is reading week. There are no workshops and no new materials.
 
 ### Week 19 - Infinitessimals, limits and extrema
 This week we will learn some of the foundations of calculus in one and many dimensions.
-<!--
+
   * [Video lecture - Stream](https://web.microsoftstream.com/video/7056809a-5e34-40e4-bd79-0a82a140f203)
--->
+
   * [Notes 1.1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture1/lecture1.1.pdf)
   * [Notes 1.2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture1/lecture1.2.pdf)
   * [Notes 2.1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture2/lecture2.1.pdf)
@@ -181,9 +181,9 @@ This week we will learn some of the foundations of calculus in one and many dime
 
 ### Week 20 - Taylor series, complex numbers and Differential equations
 This week we will learn about Taylor series and solve some differential equations.
-<!--
+
     * [Video lecture - Stream](https://web.microsoftstream.com/video/7056809a-5e34-40e4-bd79-0a82a140f203)
-  -->
+
   * [Notes 3.1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture3/lecture3.1.pdf)
   * [Notes 3.2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture3/lecture3.2.pdf)
   * [Notes 4 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture4/lecture4.pdf)
@@ -195,9 +195,9 @@ This week we will learn about Taylor series and solve some differential equation
 
 ### Week 21 - More Differential equations and Optimisation
 This week we will learn more about differential equations and look at some optimisation problems
-<!--
+
       * [Video lecture - Stream](https://web.microsoftstream.com/video/7056809a-5e34-40e4-bd79-0a82a140f203)
-    -->
+
   * [Notes 5.1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture5/lecture5.1.pdf)
   * [Notes 5.2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture5/lecture5.2.pdf)
   * [Notes 5.3 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture5/lecture5.3.pdf)
@@ -205,9 +205,9 @@ This week we will learn more about differential equations and look at some optim
   * [Worksheet 5 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet5/worksheet5.pdf)
   * [Worksheet 5 Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet5/solutions5.pdf)
   * [Worksheet 6 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet6/worksheet6.pdf)
-<!--
+
  * [Live problem class week 13 recording - Stream](https://web.microsoftstream.com/video/e5e1d7c9-01e8-413b-845b-1e06cda594aa)
--->
+
 
 ### Past exam questions and solutions for Analysis
 A selection of example exam questions with solutions.
