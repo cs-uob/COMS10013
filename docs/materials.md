@@ -162,6 +162,8 @@ Week 18 is reading week. There are no workshops and no new materials.
 
 ## Analysis (Weeks 19 - 21)
 
+<!--
+
 ### Week 19 - Infinitessimals, limits and extrema
 This week we will learn some of the foundations of calculus in one and many dimensions.
 <!--
@@ -212,6 +214,8 @@ A selection of example exam questions with solutions.
 * [Mock pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/mock/mock.pdf)
 * [Mock solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/mock/mock_solutions.pdf)
 * [COMS10013 Past analysis paper](https://github.com/cs-uob/COMS10013/blob/master/resources/mock/COMS10013_analysis21.pdf)
+
+-->
 
 ## Statistics (Weeks 22 - 23)
 
