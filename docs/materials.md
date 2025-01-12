@@ -1,25 +1,25 @@
 # Unit Organisation and Materials
 
-As for Maths A, the unit consists of in-person lectures, in-person workshops and problem sheets, supplemented by lecture slides and in some cases, lecture notes. Taking the unit involves atending the in-person lectures and reading the associated lecture notes (if available) before coming to the workshops to work on problem sheets. You can also prepare by looking at the problem sheets before coming to the workshop. After the workshops, you check your solutions against the sample solutions made available on this web page.
+As for Maths A, the unit consists of in-person lectures, in-person workshops and problem sheets, supplemented by lecture slides and in some cases, lecture notes. Taking the unit involves attending the in-person lectures and reading the associated lecture notes (if available) before coming to the workshops to work on problem sheets. You can also prepare by looking at the problem sheets before coming to the workshop. After the workshops, you can check your solutions against the sample solutions made available on this web page.
 
-The aim of the workshops is for you to work on problem sheets with your peers and with help from the Lecturer and Teaching Assistants. You will gain a lot by discussing problems, explaining solutions to others and asking questions when you don't understand something. The more proactive you are in workshops, the more you are likely to gain. Some of the workshops will begin with a summary of the material relevant to the workshop, highlighting the key concepts and techniques. You will get the most out of this and the workshop as a whole if you have first prepared by studying lecture slides and notes if available.
+The aim of the workshops is for you to gain a better understanding on the material covered in lectures by using it to tackle problems. During each workshop you will work on a problem sheet relevant to the previous lecture. Your objective should be to either complete the problem sheet or gain sufficient understanding to complete it in your won time, working with your peers and with help from the Lecturer and Teaching Assistants. You will gain a lot by discussing problems, explaining solutions to others and asking questions when you don't understand something. The more proactive you are in workshops, the more you are likely to gain. Some of the workshops will begin with a summary of the material relevant to the workshop, highlighting the key concepts and techniques. You will get the most out of this and the workshop as a whole if you have first prepared by studying lecture slides and notes if available.
 
 Please try to come to the workshops prepared - having good access to lecture slides and notes is essential, either on a laptop or printed out. Viewing on phones tends not to be particularly effective given the size of the screen. Also, don't forget a pencil/pen and paper.
 
 There is also a help desk available each week - see your timetable for times - and please make good use of this if you are struggling with understanding the material and/or completing the problem sheets.
 
-For AY 2023/24, the lectures, workshops and help desk are as follows:
+For AY 2024/25, the lectures, workshops and help desk are as follows:
 
-Lecture 1: Monday 13:00-13:50 QB 1.4<br>
-Workshop 1: Tuesday 13:00-14:50 QB F101a<br>
-Lecture 2: Thursday 10:00-10:50 QB 1.4<br>
-Workshop 2: Thursday 13:00-14:50 QB F101a<br>
-Help desk: Thursday 16:00-16:50 QB 1.69<br>
+Lecture 1: Monday 12:00-13:00 QB 1.40 Pugsley<br>
+Workshop 1: Tuesday 13:00-15:00 QB F101a Bill Brown<br>
+Lecture 2: Wednesday 12:00-13:00 QB 1.40 Pugsley<br>
+Workshop 2: Thursday 13:00-15:00 QB F101a Bill Brown<br>
+Help desk: Thursday 15:00-16:00 QB 1.06<br>
 <br>
 
 ## Linear Algebra (Weeks 13-17)
 
-For Linear Algebra, there are two topics per week, labelled A and B below. For each topic there is one lecture, one problem sheet and one workshop. There are also course notes, although these may span two topics in some cases. Apart from Week 13, there are two workshops per week (labelled 1 and 2 below) - please see your timetable for times of lectures and workshops. Note that there is a gap between lectures and workshops to allow you to digest the material and prepare for the workshop, ie the topic in a lecture will be covered in the next but one workshop. This means that in Week 13 there is only one workshop and this will be the second one in the timetable for that week.
+For Linear Algebra, there are two topics per week, labelled A and B below. For each topic there is one lecture, one problem sheet and one workshop. There are also course notes, although these may span two topics in some cases. Apart from Week 13, there are two workshops per week (labelled 1 and 2 below) - please see your timetable for times of lectures and workshops. Note that workshops happen on the day after the relevant lecture and you should use that time to digest the material and prepare for the workshop.
 <br>
 
 <!--
@@ -30,11 +30,11 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
 <!--
   * [Video lecture - Stream](https://web.microsoftstream.com/video/7056809a-5e34-40e4-bd79-0a82a140f203)
 -->
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides.pdf)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides_6up.pdf)
-  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_notes.pdf)
-  * [Problem Sheet 1](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet.pdf) - workshop 2, week 13.
-  * [Problem Sheet 1 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet_ans.pdf)
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides.pdf)
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides_6up.pdf)
+  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_notes.pdf)
+  * [Problem Sheet 1](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet.pdf) - workshop 1, week 13.
+  * [Problem Sheet 1 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet_ans.pdf)
 
 <!--
  * [Live problem class week 13 recording - Stream](https://web.microsoftstream.com/video/e5e1d7c9-01e8-413b-845b-1e06cda594aa)
@@ -44,11 +44,11 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
 <!--
   * [Video lecture - Stream](https://web.microsoftstream.com/video/d2f9d829-90eb-4fed-a1ca-01097ac8379a)
 -->
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides.pdf) (updated 24-01-24)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides_6up.pdf) (updated 24-01-24)
-  * [Course notes](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_notes.pdf)
-  * [Problem Sheet 2](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet.pdf) - workshop 1, week 14.
-  * [Problem Sheet 2 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2023-24-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet_ans.pdf)
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides.pdf) 
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides_6up.pdf) 
+  * [Course notes](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_notes.pdf)
+  * [Problem Sheet 2](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet.pdf) - workshop 2, week 13.
+  * [Problem Sheet 2 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet_ans.pdf)
 
 ### Week 14 - A: Vector Spaces, Span and Bases
 
