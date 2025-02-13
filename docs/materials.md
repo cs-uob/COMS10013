@@ -155,6 +155,8 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [2022 - exam solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2022-solutions.pdf?csf=1&web=1&e=yiqMOO)
   * [2023 - exam questions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2023.pdf?csf=1&web=1&e=3lvHT8)
   * [2023 - exam solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2023-solutions.pdf?csf=1&web=1&e=yiqMOO)
+  * [2024 - exam questions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2024.pdf?csf=1&web=1&e=3lvHT8)
+  * [2024 - exam solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2024-solutions.pdf?csf=1&web=1&e=yiqMOO)
 
 ## Reading Week
 
