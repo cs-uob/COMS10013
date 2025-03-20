@@ -1,0 +1,29 @@
+\documentclass{article}
+\usepackage{tikz}
+
+\begin{document}
+
+
+\begin{figure}
+\begin{center}
+\begin{tikzpicture}
+\coordinate (x1) at (0,0); 
+\coordinate (x2) at (5,2); 
+\coordinate (x3) at (0,7); 
+\coordinate (xo) at (2.5,1);
+\coordinate (xr) at (5,-5);
+\node[draw=red](x1n) at (x1) {$x_1$};
+\node[draw=red](x2n) at (x2) {$x_3$}; 
+\node[draw=red](x3n) at (x3) {$x_{old}$}; 
+%\node[draw=red](xon) at (xo) {$x_o$}; 
+\node[draw=red](xrn) at (xr) {$x_2$}; 
+\draw (x1n) -- (x2n); 
+\draw[dashed] (x2n) -- (x3n); 
+\draw[dashed] (x3n) -- (x1n);
+\draw (x1n) -- (xrn);
+\draw (x2n) -- (xrn);
+\end{tikzpicture}
+
+\end{center}
+\end{figure}
+\end{document}
