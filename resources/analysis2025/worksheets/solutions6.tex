@@ -1,0 +1,122 @@
+\documentclass[11pt,a4paper]{scrartcl}
+\typearea{12}
+%\usepackage{graphicx}
+%\usepackage{pstricks}
+\usepackage{listings}
+\usepackage{color, amsfonts}
+\usepackage{fancyhdr}
+\usepackage{url}
+\pagestyle{fancy}
+\lfoot{COMS10013 - 2025 - WS6}
+\begin{document}
+
+\section*{COMS10013 - Analysis - WS6}
+
+\subsection*{Solutions}
+
+\begin{enumerate}
+\item \textbf{Complex numbers}: calculate the following complex numbers in the form $(a+bi)$: 
+	\begin{itemize}
+		\item[(a)] $(2+3i) + (5-2i) = 7 + i$
+		\item[(b)] $(-1+i)(-1-i) = 2$
+		\item[(c)] $(1-i)^3 = -2-2i$
+		\item[(d)] $(1+i)/(1-i) = i$; to see this, multiply by $(1+i)/(1+i)$
+	\end{itemize}
+
+	\item \textbf{More complex numbers}: Compute the real part, imaginary part, norm (i.e. absolute value), and complex conjugate of the following numbers:
+	\begin{itemize}
+		\item[(a)] $i$: the real part is 0, the imaginary part is 1, the norm is 1, the complex conjugate is $-i$.
+		\item[(b)] $3-2i$: the real part is 3, the imaginary part is -2, the norm is $\sqrt{13}$, the complex conjugate is $3+2i$.
+	\end{itemize}
+	
+	
+	\item  \textbf{Polar form}. Convert between rectangular $(a+ib)$ and polar $re^{i\theta}$ form:
+	\begin{itemize}
+		\item[(a)] $i$: gives $e^{i\pi/2}$.
+		\item[(b)] $2-i$: the norm is $\sqrt{5}$ and the angle is some annoying angle whose tan is $1/2$. 
+		\item[(c)] $3e^{i\pi/2}$ is $3i$.
+		\item[(d)] $e^{1+2i}$, this is also annoying, we have
+                  $$e^{1+2i}=e\times e^{2i}=e[\cos{2}+i\sin{2}]$$
+                  which I guess you could work out with a calculator.
+	\end{itemize}
+
+
+	\item  \textbf{More on Polar form}. 
+	\begin{itemize}
+		\item[(a)] The complex conjugate of $re^{i\theta}$: we'll first convert $z = re^{i\theta}$ to $z = r(\cos(\theta) + i\sin(\theta))$. Then the complex conjugate is $z^* = r(\cos(\theta) - i\sin(\theta))$. Using the identities $\sin(-\theta) = i\sin(\theta)$ and $\cos(-\theta) = \cos(\theta)$, we get that 
+        \[
+        z^* = r(\cos(-\theta) + i\sin(-\theta)) = re^{-i\theta}\,.
+        \]
+        
+		\item[(b)] What is the formula for the inverse of a complex number in polar form (e.g. $1/re^{i\theta}$, give the
+		solution in polar form again) and what does this mean geometrically?\\
+        We're looking for a number $z = r'e^{i\theta'}$ so that
+        \[
+        (re^{i\theta})(r'e^{i\theta'}) = 1.
+        \] 
+        Multiplying this out, we're looking for $r', \theta'$ so that
+        \[rr' e^{i(\theta + \theta')}= 1\,.\]
+        Looking at the magnitude (absolute value) of both sides, we see that $rr'=1$, so that $r' = 1/r$. We can write the right-hand side as $e^{0i}$, which makes it clear that $\theta' =-\theta$.
+        So the inverse is $\frac1re^{-i\theta}$.\\
+        Geometrically, we've scaled the complex number (from having distance to the origin of $r$ to now having distance to the origin of $1/r$) and we've reflected in the real axis. 
+	\end{itemize}
+    
+\item \textbf{Second order equations} 	
+$y''(t) = -y(t)$ with initial conditions $y(0) = 1$ and $y'(0) = 0$.\\
+        Let's start with our ansatz $y(t) = Ae^{rt}$ and see what happens. With this ansatz, we get
+        \[
+        Ae^{rt}(r^2+1) = 0 
+        \]
+        which, now that we know about complex numbers, we can solve to give us $r= \pm i$. So our solution is a linear combination of these $r$ values, namely 
+        \[
+        Ae^{it} + Be^{-it}\,.
+        \]
+        Using the initial conditions, we get from $y(0)=1$ that 
+        \[
+        A+B  = 1
+        \]
+        and from $y'(0)=0$, that 
+        \[
+        Ai - Bi = 0 \Rightarrow (A-B) =0 
+        \]
+        so that $A = B = \frac12$ and  
+        \[
+        y(t) = \frac{e^{it}}{2} + \frac{e^{-it}}{2}\,. 
+        \]
+        We can write this in rectangular form using Euler's formula:
+        \[
+        y(t) = \frac12 \left(\cos(t) + i\sin(t) + \cos(-t) +i\sin(-t)\right)\,.
+        \]
+        We'll use the fact that $\cos(-t) = \cos(t)$ and $\sin(-t) = -\sin(t)$ to get
+        \[
+        y(t) = \cos(t)\,.
+        \]
+        So even though the process of finding our solution used complex numbers, the solution itself didn't!
+    
+\end{enumerate}
+
+\subsection*{Extra questions}
+
+\begin{enumerate}
+\item \textbf{Equations with complex solutions}. Solve the following equations over the complex numbers
+  \begin{itemize}
+  \item[(a)] $x^2 - 2x + 5 = 0$: For this we'll use the quadratic formula to get roots
+  \[
+  \frac{2\pm \sqrt{-16}}{2} = 1\pm 2i
+  \]
+  \item[(b)] $x^2-2x + 8 = 0$:
+  This question is pretty much the same. The quadratic formula gives
+  roots \[
+  \frac{2\pm \sqrt{4-32}}{2} = 1\pm i\sqrt{7}
+  \]
+  \item[(c)] $x^2 - ix - 1 = 0$: this is less clear cut. Let's see what the quadratic formula gives:
+  \[
+  \frac{-i \pm \sqrt{(-i)^2 +4} }{2} 
+  =   \frac{-i \pm \sqrt{3} }{2} 
+  =   \pm \frac{\sqrt{3}}{2} -\frac{i}{2}
+  \]
+  \end{itemize}
+
+\end{enumerate}
+
+\end{document}

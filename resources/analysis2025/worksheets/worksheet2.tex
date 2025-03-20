@@ -1,0 +1,92 @@
+%ps1.tex
+%notes for the course Probability and Statistics COMS10011 
+%taught at the University of Bristol
+%2019_20 Conor Houghton conor.houghton@bristol.ac.uk
+
+%To the extent possible under law, the author has dedicated all copyright 
+%and related and neighboring rights to these notes to the public domain 
+%worldwide. These notes are distributed without any warranty. 
+
+\documentclass[11pt,a4paper]{scrartcl}
+\typearea{12}
+\usepackage{graphicx}
+%\usepackage{pstricks}
+\usepackage{listings}
+\usepackage{color}
+\lstset{language=C}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lfoot{COMS10013 - 2025 - WS2}
+\begin{document}
+
+\section*{COMS10013 - Analysis - WS2}
+This worksheet is partly taken from worksheets prepared by Chloe Martindale and Conor Houghton.
+
+\subsection*{Questions}
+
+These are the questions you should make sure you work on in the workshop.
+
+\begin{enumerate}
+
+\item Find $\partial z/\partial x$ and $\partial z/\partial y$ for 
+\begin{enumerate}
+    \item[(a)] $z = f(x) +g(y)$
+    \item[(b)] $z = f(x+y)$
+    \item[(c)] $z = f(xy)$
+\end{enumerate}
+
+\item Find the partial derivatives of $z(x,y)=5x^2y+2x\sin{y}$.
+
+\item Let $f(x,y)$ be a continuous function and let $\mathbf{w} = (w_1,w_2)$. 
+In this question we'll show that 
+\[
+\nabla_\mathbf{w}f(x,y) = w_1 \frac{\partial f}{\partial x}(x,y) + w_2 \frac{\partial f}{\partial y}(x,y)
+\]
+Start by considering the single-variable function $g(h) = f(x_0 + hw_1, y_0 + hw_2)$ where $x_0, y_0$ are fixed, arbitrary values for $x$ and $y$
+\begin{enumerate}
+    \item[(i)]  Find the derivative of $g$ at 0.  What relation does this have to $\nabla_{\mathbf{w}}f$?
+    \item[(ii)]  Let $a = x_0 + hw_1$ and $b = y_0 + hw_2$. Use the chain rule to find the derivative of $g$ in terms of $f_a$ and $f_b$.
+    \item[(iii)] Conclude to find the desired expression for $\nabla_{\mathbf{w}}f$
+\end{enumerate}
+
+\item The temperature $T$ at a location in the Northern Hemisphere depends on the longitude $x$, latitude $y$ and time $t$ so that $T = f(x,y,t)$. We'll measure time in hours from the beginning of January. 
+\begin{enumerate}
+    \item[(a)] What are the meanings of the partial derivatives $\partial T/\partial x$, $\partial T/\partial y$ and $\partial T/\partial t$?
+    \item[(b)] Honolulu has a longitude 158$^\circ$W and latitude 21$^\circ$N. Suppose that at 9am on January 1st, the wind is blowing hot air to the northeast (so that the air to the west and south is warmer, and the air to the north and east is cooler). Would you expect $f_x(158,21,9)$, $f_y(158,21,9)$, $f_t(158,21,9)$ to be positive or negative? Explain your answer. 
+\end{enumerate}
+\item Find the gradient of $z(x,y)=(x+y^2)^2$.
+
+\item Let $z(x,y) = x^2y + 3xy^2 + xy$.
+	\begin{itemize}
+		\item[(a)] Find the gradient of $z(x,y)$.
+		\item[(b)] Find the derivative of $z(x,y)$ along the vector $\left(\begin{array}{c} 3 \\ 1 \end{array}\right).$
+		\item[(c)] Compute $\nabla_{\tiny\left(\begin{array}{c} 3 \\ 1 \end{array}\right)} z \left(\left(\begin{array}{c} 2 \\ 0 \end{array}\right)\right)$.
+                  \item[(d)] What is the Hessian of $z(x,y)$?
+\end{itemize}
+
+	
+	\item \textbf{Extremal points in two dimensions}; this question is pretty hard!
+	\begin{itemize}
+		\item[(a)] Find the local extrema, and determine their types, for
+		\[z(x,y) = x^3 + y^3 - \frac{1}{2}(15x^2 + 9y^2) + 18x + 6y + 1.\]
+		\item[(b)] Find the local extrema, and determine their types, for
+		\[z(x,y) = 3xy^2 - 30y^2 + 30xy - 300y + 2x^3 - 15x^2 + 111x + 7.\]
+	\end{itemize}
+
+
+\end{enumerate}
+
+\subsection*{Extra questions}
+
+These are extra questions you might attempt in the workshop or at a later time.
+
+\begin{enumerate}
+\item The function $z(x, y) = x^2 + y^2 + 2x - 3y$ has a global minimum. Find this by taking
+the gradient and searching for the point where the gradient is zero.
+\item Check that this point you found really is a minimum by computing the Hessian of the
+function at this point, and checking that it is positive definite, that is, all eigenvalues are positive.
+
+
+\end{enumerate}
+
+\end{document}

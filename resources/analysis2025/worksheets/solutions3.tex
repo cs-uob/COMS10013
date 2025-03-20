@@ -1,0 +1,205 @@
+%ps1.tex
+%notes for the course Probability and Statistics COMS10011 
+%taught at the University of Bristol
+%2019_20 Conor Houghton conor.houghton@bristol.ac.uk
+
+%To the extent possible under law, the author has dedicated all copyright 
+%and related and neighboring rights to these notes to the public domain 
+%worldwide. These notes are distributed without any warranty. 
+
+\documentclass[11pt,a4paper]{scrartcl}
+\typearea{12}
+\usepackage{graphicx}
+%\usepackage{pstricks}
+\usepackage{listings}
+\usepackage{color}
+\lstset{language=C}
+\usepackage{fancyhdr}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\pagestyle{fancy}
+\lfoot{COMS10013 - 2025 - WS3}
+\begin{document}
+
+
+\section*{COMS10013 - Analysis - WS3}
+
+This worksheet is taken from worksheets prepared by Chloe Martindale and Conor Houghton.
+
+\subsection*{Questions}
+
+These are the questions you should make sure you work on in the workshop.
+
+\begin{enumerate}
+
+\item \textbf{A linear accelerated motion question}. A train is travelling from Bristol to London Paddington at the maximum speed of 55.9 m/s, 125 mph, when the driver activates the emergency brake. This causes the train to decelerate uniformly at 1.2 m/$s^2$. How far will the train travel until it stops and how long will this take, in seconds. Do this using differential equations, for example:
+  \begin{equation}
+    \frac{dv}{dt}=-1.2
+  \end{equation}
+  not by looking up formulas.
+	\\
+	\textbf{Solution:}
+	\\
+	Let 
+	\begin{itemize}
+		\item $y(t)$ be the position of the train at time $t$,
+		\item $v(t) = \frac{dy}{dt}$ be the velocity of the train at time $t$.
+		\item $a(t) = \frac{dv}{dt} = \frac{d^2y}{dt^2}$ be the acceleration of the train at time $t$.
+	\end{itemize}
+	It is given that $y(0) = 0$, $v(0) = 55.9$, and that for $t\geq 0$ the acceleration $a(t) = -1.2$ is constant.
+	Then 
+	$$v(t) = \int a(t) dt = \int -1.2 \, dt = -1.2t + v(0) = -1.2t + 55.9.$$
+	So the train reaches velocity $v = 0$ at time $t = 55.9/1.2 \approx 46.6$,
+	that is, after 46.6 seconds.
+	Also the position
+	$$y(t) = \int v(t) dt = \int -1.2t + 55.9 \, dt = 
+	-0.6 t^2 + 55.9 t + y(0) = -0.6 t^2 + 55.9 t.$$
+	So the position of $y$ at the moment the velocity $v$ reaches zero,
+	which we just computed occurs at time $t = 55.9/1.2$, is
+	$$y(55.9/1.2) = -0.6 \cdot (55.9/1.2)^2 + 55.9 \cdot (55.9/1.2) \approx 1302.0,$$
+	i.e., 1302 metres further on from the point when the brake was activated.
+
+
+  
+\item \textbf{Types of differential equations}
+  Write down (but don't solve) an example of a differential equation that is:
+  \begin{itemize}
+  \item[(a)] First-order, linear but not homogeneous, with constant coefficients.
+  \item[(b)] First-order, linear, homogeneous but without constant coefficients.
+  \item[(c)] Second-order, linear, homogeneous, with constant coefficients.
+  \item[(d)] Second-order, linear, not homogeneous, without constant coefficients.
+  \end{itemize}
+	\textbf{Solution:}
+	\begin{itemize}
+		\item[(a)] Anything of the form
+		\[ay'(x) + by(x) = c,\]
+		where $a,b,c$ are independent of $x$ and $y$, and $a$ and $c$ are non-zero.
+		\item[(b)] Anything of the form
+		\[a(x)y'(x) + b(x)y(x) = 0,\]
+		where at least one of $a(x)$ and $b(x)$ is non-constant, and $a$ is non-zero.
+		\item[(c)] Anything of the form
+		\[ay''(x) + by'(x) + cy(x) = 0,\]
+		where $a,b,c$ are independent of $x$ and $y$ and $a$ is non-zero.
+		\item[(d)] Anything of the form
+		\[a(x)y''(x) + b(x)y'(x) + c(x)y(x) = d(x),\]
+		where at least one of $a(x), b(x), c(x), d(x)$ is non-constant, and
+		$a(x)$ and $d(x)$ are non-zero.
+	\end{itemize}
+
+
+  
+\item \textbf{Differential equations} Solve the following, linear,
+  homogeneous, first-order, constant coefficients, differential
+  equations once using direct integration and once with the
+  \emph{ansatz}.
+	\begin{itemize}
+		\item[(a)] $y'(t) - y(t) = 0$ with initial condition $y(0) = 2$: this is the classic: $y=Ae^{t}$ and the initial condition gives $A=2$.
+		\item[(b)] $y'(t) + 3y(t) = 0$ with initial condition $y(3) = 3$: this one isn't much different, $y=Ae^{-3t}$ and the initial condition isn't an initial condition, but a \emph{boundary condition}, which is sneaky, but $Ae^{-9}=3$ so $A=3e^{9}$.
+		\item[(C)] $y'(t) - 6t^2y(t) = 0$ with initial condition $y(0) = 3$: now trying an Ansatz of the form $Ae^{rt}$ won't work, because of the $t^2$ involved. So we're looking for an Ansatz that, when differentiated, somehow invokes the chain rule to make a $t^2$ term appear. We'll try $y = Ae^{rt^3}$ so that 
+        \[
+        y'(t) - 6t^2 y(t) = Ae^{rt^3}3rt^2 - 6t^2Ae^{rt^3} = At^2e^{rt^3}(3r - 6)
+        \]
+        and setting this to zero gives that $r=2$. So our solution is $y(t) = Ae^{2t^3}$. We'll now invoke the initial condition to get $A=3$.
+	\end{itemize}
+    
+\item \textbf{First order inhomogeneous equations}.
+	\begin{itemize}
+	\item[(a)] $f'(t) + 5f(t) = 1$ with initial condition $f(0) = 2$: well staring it at a bit $f(t)=1/5$ is a particular solution. We still need to find the complementary function, that comes from solving $f'(t) + 5f(t) =0$. Luckily, Q3 has us well-equipped to solve this one, so we could either try direct integration or an Ansatz (of $Ae^{rt}$) to find the complementary function is $Ae^{-5t}$.
+    So
+          $$y(t)=Ae^{-5t}+\frac{1}{5}$$
+          is the general solution. Putting $f(0)=2$ gives $A=9/5$.
+          
+	\item[(b)] $f'(t) = t - f(t)$ with initial condition $f(1) = 3e^{-1}$: 
+    we'll start out with the complementary function, solving $f'(t) + f(t) =0$; an Ansatz of $Ae^{rt}$ yields $A^{-t}$.
+    
+    Now we need to find a particular solution. Luckily, it's easy enough to just stare it and `guess' a solution, but that's not particularly helpful if you can't see it. We want a function that has something to do with $t$, and when we differentiate it, it's not becoming more complicated. This makes $f(t)=at+b$ a good guess: let's try it. $f'(t)=a$ and hence $a=t-at-b$ so $a=1$ and $b=-a$ or $f(t)=t-1$ is a particular solution. The general solution is
+          $$f(t)=Ae^{-t}+t-1$$
+          The so called initial condition gives
+          $$3e^{-1}=Ae^{-1}$$
+          so $A=3$.
+          
+	\item[(c)] $f'(t) +2f(t) = \sin(t)$ with initial condition $f(0) = 9/5$: 
+    let's start with finding the complementary function, by looking at $f'(t)+2f(t)$. With an Ansatz of $Ae^{rt}$, we'll swiftly find that $r = -2$. 
+
+    Finding the particular solution here is less straightforward due to the confounding $\sin(t)$ term. We're looking for something that involves a $\sin(t)$ term, and when we differentiate it, other terms magically disappear.  We'll try
+          $$f(t)=a\sin{t}+b\cos{t}\,.$$
+    Plugging this in gives 
+          $$a\cos{t}-b\sin{t}+2a\sin{t}+2b\cos{t}=\sin{t}$$
+          so the cosine coefficients give $a+2b=0$ and the sine coefficients give $-b+2a=1$, or $-b-4b=1$ so $b=-1/5$ and $a=2/5$. Our particular solution is:
+          $$f(t)=\frac{2}{5}\sin{t}-\frac{1}{5}\cos{t}$$
+          and general solution
+          $$f(t)=\frac{2}{5}\sin{t}-\frac{1}{5}\cos{t}+Ae^{-2t}$$
+          If we put in $t=0$ we get
+          $$\frac{9}{5}=-\frac{1}{5}+A$$
+          or $A=2$.          
+	\item[(d)] $f'(t) - 2f(t) + t^2 = 0$ with initial condition $f(2) = 13/4 + 6e^4$. 
+    Let's find the complementary function first, from solving $f'(t)-2f(t) = 0$. Hopefully this is familiar now, so we'll use an Ansatz of $Ae^{rt}$ and find that $r = 2$.
+    
+    Now we'll look for the particular solution: this is quite similar to (b), but this time, we're looking for a function that has something to do with $t^2$ (and that doesn't become more complicated when differentiating). Let's use an ansatz $f=at^2+bt+c$ to get
+          $$2at+b-2at^2-2bt-2c+t^2=0$$
+          or $a=1/2$, $b=a$ and $b-2c=0$ so $b=1/2$ and $c=1/4$. The general solution is therefore
+          $$f(t)=Ae^{2t}+\frac{t^2}{2}+\frac{t}{2}+\frac{1}{4}$$
+          and substituting gives
+          $$\frac{13}{4}+6e^4=Ae^4+\frac{13}{4}$$
+          and hence $A=6$.
+	\end{itemize}
+
+\item \textbf{Second order equations} Solve the following equations for the given initial conditions:
+	\begin{itemize}
+		\item[(a)] ${y}''(t) = 4y(t)$ with initial conditions $y(0) = 1$ and $y'(0) = 0$: 
+        we'll try our standard Ansatz of $Ae^{rt}$; this gives $Ae^{rt}(r^2-4)=0$ which gives two solutions $r=\pm 2$. So our solution is $Ae^{2t}+Be^{-2t}$. Now let's use the initial conditions to find $A=B=\frac12$.
+        
+		\item[(b)] ${y''}(t) + 4y'(t) + 3y(t) = 0$ with initial conditions $y(0) = 0$ and $y'(0) = -2$: now $y=e^{rt}$ gives
+                  $$r^2+4r+3=0$$
+                  or $(r+1)(r+3)=0$ hence
+                  $$y=Ae^{-t}+Be^{-3t}\,.$$
+                  Let's now apply the initial conditions: $y(0)=0$ tells us that $A+B=0$. The second initial condition tells us that $-A-3B=-2$, so $A=-B$ or $B=1$ and $A=-1$.
+                  
+                \item[(c)] ${y}''(t) + 2y'(t) + y(t) = 0$ with initial conditions $y(0) = 2$ and $y(1) = 3/e$:
+                we'll try our standard Ansatz and find that $r^2+2r+1=0$, or $(r+1)^2=0$ so $r=-1$. 
+                Before, our Ansatz gave us two linearly independent solutions, which is what we need for a second order differential equation. However, because of the repeated root, we only get one.
+                So somehow we need to `wiggle' with the solution to get two. $Ae^{-t} + Bte^{-t}$ gets us there -- by multiplying the second guess by $t$, we've created enough independence in our solution to be able to satisfy the initial conditions. Solving these conditions gives 
+                \[
+                2e^{-t} + te^{-t}\,,
+                \]
+                and we can check that this works.
+	\end{itemize}
+
+
+\end{enumerate}
+
+\section*{Extra questions}
+\begin{enumerate}
+	\item \textbf{Solutions as a vector space}	
+	The aim of this exercise is to prove most of the following theorem:
+	the solutions to the second-order linear homogeneous differential equation
+	$a\ddot{y}(t) + b\dot{y}(t) + cy(t) = 0$ form a vector space. Note that this also follows from a theorem stated in the lecture notes. Prove:
+	\begin{itemize}
+		\item[(a)] If $f(t)$ and $g(t)$ are two solutions to this differential equation, then $h(t) = f(t) + g(t)$ is also a solution to this differential equation: this is easy since $d(f+g)/dt=\dot{f}+\dot{g}$ and so on.
+		\item[(b)] If $f(t)$ is a solution to this differential equation,
+		and $s$ is any integer, then $k(t) = s \cdot f(t)$ is also a solution to this differential equation: again, follow from linearity of differentiation $d(sf)/dt=s\dot{f}$.
+		\item[(c)] The function $f_0(t) = 0$ (the function that is zero for all $t$) is a solution to the differential equation: easy to see from substituting zero into the equation.
+	\end{itemize}
+	Technically we would also have to show that addition of
+        solutions is commutative and associative, but this is tedious
+        and doesn't have anything to do with differential equations -
+        the way to prove this would just be to show it for all
+        functions. So you don't have to prove that here.
+	
+	Note that this theorem holds even if $a,b,c$ are functions of
+        $t$, same proof, you never had to differentiate these
+        constants, and for any order of linear differential equation,
+        not just second order. The theorem doesn't hold for
+        inhomogeneous equations however: for a challenge, can
+        you see which parts of the proof don't work for $a\ddot{y}(t) +
+        b\dot{y}(t) + cy(t) = d$ and for which $d$? \textbf{Solution}: so if $f$ and $g$ are solutions and you substitute in $\lambda f+\mu g$ you end up with $(\lambda +\mu)d=d$ so, basically, the linearity holds for $\mu=1-\lambda$; the third property, zero is a solution, doesn't hold unless $d$ is zero. 
+	
+
+
+
+
+          
+        
+\end{enumerate}
+\end{document}

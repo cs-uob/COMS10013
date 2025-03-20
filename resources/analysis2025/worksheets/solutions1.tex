@@ -1,0 +1,130 @@
+\documentclass[11pt,a4paper]{scrartcl}
+\typearea{12}
+%\usepackage{graphicx}
+%\usepackage{pstricks}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{fancyhdr}
+\usepackage{url}
+\pagestyle{fancy}
+\lfoot{COMS10013 - 2025 - WS1}
+\begin{document}
+
+\section*{COMS10013 - Analysis - WS1}
+
+\subsection*{Solutions}
+
+\begin{enumerate}
+\item We'll prove the sum rule for differentiation:
+As the hint suggests, we'll apply the derivative definition to the expression on the left:
+\[
+\frac{d}{dx}\left[f(x) + g(x)\right] = \lim_{h\to 0}\frac{f(x+h)+g(x+h)-f(x)-g(x)}{h}\,.
+\]
+Then we'll move the terms of the denominator and split the fraction into a sum of two fractions: the sum rule then falls out:
+\[
+\lim_{h\to 0}\frac{f(x+h)+g(x+h)-f(x)-g(x)}{h} = \lim_{h\to 0}\frac{f(x+h)-f(x)}{h}+ \lim_{h\to 0}\frac{g(x+h)--g(x)}{h}\,.
+\]
+
+\item 
+\begin{enumerate}
+    \item[(a)] A horizontal tangent implies that $df/dx=0$. 
+    To find the gradient of $f$ we can take the derivative: $f'(x) = 6x^2 -6$. When the gradient is zero, the tangent is horizontal. $f'(x) =0$ at $x = \pm 1$.
+    \item[(b)] A horizontal tangent represents a point where the function does not change.  
+    \item[(c)] If the rate of change is zero, this means that the rate of change has stopped increasing or decreasing in the area near to point with zero rate of change. This means that if the rate of change is zero, we're at a local maximum or minimum. Let $x_0$ be the $x$-value with rate of change zero. To see if we've got a local maximum, we'll pick a point a bit before but still very close to $x_0$, say $x_0 -h$; if the gradient between $(x_0-h, f(x_0-h))$ and $(x_0, f(x_0))$ is positive, then the function was increasing just before reaching $x_0$ so we have a local maximum; if it was negative, then it's a local minimum. Similarly, we can look at a point just after $x_0$, say $x_0 + h$ and calculate the gradient of this slope. If it's decreasing, then $x_0$ represents a local maximum, and if it's increasing then $x_0$ represents a local minimum. 
+\end{enumerate}
+
+\item In this question we're going to look at the quotient rule for differentiation. Let 
+\[
+F(x) = \frac{f(x)}{g(x)}\,.
+\]
+We'll show that 
+\[
+\frac{d}{dx}F(x) = \frac{g(x)\frac{d}{dx}f(x) - f(x) \frac{d}{dx}g(x)}{g(x)^2}\,.
+\]
+\begin{enumerate}
+    \item[(a)] We need $g(x)\neq 0$.
+    \item[(b)] We'll use the product rule to calculate $df/dx$:
+    \[f'(x) = F'(x)g(x) + F(x)g'(x) = F'(x) g(x) + \frac{f(x)g'(x)}{g(x)}\,.
+    \]
+    Rearranging gives 
+    \[
+    F'(x)g(x) = \frac{f'(x)g(x) - f(x)g'(x)}{g(x)}
+    \]
+    and dividing by $g(x)$ gives the quotient rule.  
+\end{enumerate}
+
+
+
+\item Differentiate the following functions with respect to $x$, stating when you're using the sum/product/quotient/chain rules:
+\begin{enumerate}
+\item $6x$; we're using the constant multiplication rule 
+\item $2(x+2)$; using either the product rule of the chain rule
+\item $ace^{cx}$; using the chain rule
+\item $2x\exp{x^2}$; using the chain rule
+\item $-x^{-2}\exp{1/x}$; using the chain rule
+\item $\frac{23}{(2-3x)^2}$;using the quotient rule
+\end{enumerate}
+
+\item In 1965, Moore's law came about: Moore\footnote{Here's a link to Moore's original paper: \url{http://cva.stanford.edu/classes/cs99s/papers/moore-crammingmorecomponents.pdf}. And here's an interesting distraction about the relevance of Moore's law today, by Intel's Ann Kelleher: \url{https://download.intel.com/newsroom/2022/new-technologies/ann-kelleher-iedm-2022.pdf} } predicted that 
+\begin{quote}
+    The complexity for minimum component costs has increased at a rate of roughly a factor of two per year. Certainly over the short term this rate
+can be expected to continue, if not to increase.
+\end{quote}  
+We're going write this as a differential equation. 
+\begin{enumerate}
+    \item[(a)] The variable that is changing is time (in years). Let's call this $t$.
+    \item[(b)] Our function is describing the complexity for minimum component costs after $t$ years. Let's call the function $N(t)$.
+    \item[(c)] The rate changes at a rate of a factor of two. So we have 
+    \[
+    \frac{d}{dt}N(t) = 2N(t-1)\,.
+    \]
+    The \emph{factor} 2 means that the function itself doubles. The term $N(t-1)$ is because we're comparing the current year's increase with the value from the previous year. 
+\end{enumerate}
+\end{enumerate}
+
+\subsection*{Extra questions}
+
+These are extra questions you might attempt in the workshop or at a later time.
+
+\begin{enumerate}
+\item Here we're going to use the chain rule: let $f(x) = e^{\log(x)} = x$.
+On the one hand, $f'(x)=1$. But, using the chain rule, we also have $f'(x) = e^{\log(x)}\frac{d}{dx}\log(x)= x \frac{d}{dx}\log(x)$.
+These two expressions are equal, so that 
+\[
+\frac1x = \frac{d}{dx}\log(x)\,.
+\]
+
+\item This is hard unless you know or spot the trick, which is to know that $\log a^b=b\log a$, and that $\exp{\log{a}}=a$. In this case we do
+\begin{equation}
+  x^x=\exp{\log{x^x}}=\exp{\left(x\log{x}\right)}
+\end{equation}
+and now we have something we can differentiate, in this case using the chain rule and
+\begin{equation}
+  \frac{d}{dx}x\log{x}=\log{x}+1
+\end{equation}
+This means
+\begin{equation}
+  \frac{dx^x}{dx}=(1+\log{x})x^x
+\end{equation}
+
+\item Use Python (or your programming language of choice) to differentiate
+\[
+f(x) = \sqrt{\frac{x^4-x+1}{x^4+x+1}}
+\]
+\end{enumerate}
+
+Here is one solution:
+\begin{verbatim}
+from sympy import *
+
+x = Symbol('x')
+f = sqrt((x**4 - x + 1)/(x**4+x+1))
+
+fprime = f.diff(x)
+print(simplify(fprime))
+
+# sqrt((x**4 - x + 1)/(x**4 + x + 1))*(3*x**4 - 1)/(x**8 + 2*x**4 - x**2 + 1)
+    
+\end{verbatim}
+
+\end{document}

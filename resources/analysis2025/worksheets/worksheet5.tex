@@ -1,0 +1,68 @@
+\documentclass[11pt,a4paper]{scrartcl}
+\typearea{12}
+%\usepackage{graphicx}
+%\usepackage{pstricks}
+\usepackage{listings}
+\usepackage{color, amsfonts}
+\usepackage{fancyhdr}
+\usepackage{url}
+\pagestyle{fancy}
+\lfoot{COMS10013 - 2025 - WS5}
+\begin{document}
+
+\section*{COMS10013 - Analysis - WS5}
+
+\subsection*{Questions}
+
+These questions are partially taken from worksheets created by Conor Houghton and Chloe Martindale. \\
+
+These are the questions you should make sure you work on in the workshop.
+
+\begin{enumerate}
+\item {\textbf{Linear Approximation}}
+The value of the function $\sin(x)$ is typically difficult to calculate. But let's suppose you urgently need to find the value of $\sin(0.1)$ but - catastrophe! - you've forgotten your calculator. \\
+Use the method of linear approximation of $\sin(x)$ at $0$ to estimate $\sin(0.1)$. \\
+Assume that you're seeking $\sin(0.1)$ in radians. 
+
+
+\item {\textbf{Root finding I: }}
+\begin{enumerate}
+    \item[(a)] Pick an initial value and use the Newton root finding method to find the root of the equation 
+    \[
+    f(x) = x^3 - 5\,,
+    \]
+    using say five iterations of the algorithm.
+    \item[(b)] Compare your solution with $\sqrt[3]{5}$.
+\end{enumerate}
+
+\item {\textbf{Root finding II: }}
+\begin{enumerate}
+    \item[(a)] Pick an initial value and use the Newton root finding method to find the root of the equation 
+    \[
+    f(x) = \sin(x)x^3 + \cos(x)\,,
+    \]
+    using say five iterations of the algorithm.
+    \item[(b)] Evaluate $f$ at your root guess. Was your initial value good?\end{enumerate}
+
+	\item \textbf{Taylor series}
+	\begin{itemize}
+		\item[(a)] Compute the Taylor series of $1/(1-x)^2$ at $x=0$.
+		\item[(b)] Compute the Taylor series of $1/x$ at $x=2$. 
+	\end{itemize}
+
+	\item \textbf{Computing with Taylor series}.\\
+	This exercise is to approximate $\sin(\pi/4)$ without 
+	using any trigonometric functions on your calculator.
+    Compute, without a calculator, 
+ 	the Taylor series of
+		$\sin (x)$ at $x=0$.
+		Compute the approximations $T_1(x)$, $T_3(x)$, $T_5(x)$, $T_7(x)$ from your
+		series at $x = \pi/4$ to eight decimal places (you can use a calculator).
+		(You can check how accurate your approximations are by plugging in 
+		$\sin(\pi/4)$ to your calculator and comparing your answer.)
+	
+\end{enumerate}
+
+
+
+\end{document}

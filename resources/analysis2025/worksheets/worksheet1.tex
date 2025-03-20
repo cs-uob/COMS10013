@@ -1,0 +1,94 @@
+\documentclass[11pt,a4paper]{scrartcl}
+\typearea{12}
+%\usepackage{graphicx}
+%\usepackage{pstricks}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{fancyhdr}
+\usepackage{url}
+\pagestyle{fancy}
+\lfoot{COMS10013 - 2025 - WS1}
+\begin{document}
+
+\section*{COMS10013 - Analysis - WS1}
+This worksheet is partly taken from worksheets prepared by Chloe Martindale and Conor Houghton.
+
+\subsection*{Questions}
+
+These are the questions you should make sure you work on in the workshop.
+
+\begin{enumerate}
+\item Apply the derivative definition to prove the sum rule for differentiation:
+\[
+\frac{d}{dx}\left[f(x) + g(x)\right] = \frac{d}{dx}f(x) + \frac{d}{dx}g(x)\,.
+\]
+Hint: Start by applying the derivative definition (with $\lim_{h\to 0}$) to the expression on the left. 
+
+\item 
+\begin{enumerate}
+    \item[(a)] For what values of $x$ does the graph
+    \[
+        f(x) = 2x^3-6x+3
+    \]
+    have a  horizontal tangent?
+    \item[(b)] Describe what a horizontal tangent represents in terms of the rate of change of the function. 
+    \item[(c)] How would you classify the $x$ values that you found in part (a) into (local) maxima and minima? Aim your explanation at a high school student who hasn't seen second order derivatives. 
+\end{enumerate}
+
+\item In this question we're going to look at the quotient rule for differentiation. Let 
+\[
+F(x) = \frac{f(x)}{g(x)}\,.
+\]
+We'll show that 
+\[
+\frac{d}{dx}F(x) = \frac{g(x)\frac{d}{dx}f(x) - f(x) \frac{d}{dx}g(x)}{g(x)^2}\,.
+\]
+\begin{enumerate}
+    \item[(a)] What properties of $g$ do we need for $F$ to be well-defined?
+    \item[(b)] There's a nice trick in the proof of the quotient rule: consider the (equivalent) equation $f(x) = F(x)g(x)$. Use the product rule to calculate $\frac{d}{dx}f(x)$ and then use what you have found to extract the quotient rule. 
+\end{enumerate}
+
+
+
+
+
+\item Differentiate the following functions with respect to $x$, stating when you're using the sum/product/quotient/chain rules:
+\begin{enumerate}
+\item $3x^2$
+\item $(x+2)^2$
+\item $ae^{cx}$ where $a$ and $c$ are constants.
+\item $\exp{x^2}$
+\item $\exp{1/x}$
+\item $\frac{4x+5}{2-3x}$
+\end{enumerate}
+
+\item In 1965, Moore's law came about: Moore\footnote{Here's a link to Moore's original paper: \url{http://cva.stanford.edu/classes/cs99s/papers/moore-crammingmorecomponents.pdf}. And here's an interesting distraction about the relevance of Moore's law today, by Intel's Ann Kelleher: \url{https://download.intel.com/newsroom/2022/new-technologies/ann-kelleher-iedm-2022.pdf} } predicted that 
+\begin{quote}
+    The complexity for minimum component costs has increased at a rate of roughly a factor of two per year. Certainly over the short term this rate
+can be expected to continue, if not to increase.
+\end{quote}  
+We're going write this as a differential equation. 
+\begin{enumerate}
+    \item[(a)] Identify the variable that is changing.
+    \item[(b)] In words, what is your function describing? 
+    \item[(c)] What differential equation captures Moore's law? You're looking to write something of the form $\frac{d}{dx}f(x) = g(x)$ (with your choice of variable names, and with $g(x)$ capturing Moore's law).
+\end{enumerate}
+\end{enumerate}
+
+\subsection*{Extra questions}
+
+These are extra questions you might attempt in the workshop or at a later time.
+
+\begin{enumerate}
+\item Use your knowledge of the fact that $\frac{d}{dx}e^x = e^x$ to show that 
+\[
+\frac{d}{dx}\log(x) = \frac1x\,.
+\]
+\item Differentiate $x^x$ with respect to $x$.
+\item Use Python (or your programming language of choice) to differentiate
+\[
+f(x) = \sqrt{\frac{x^4-x+1}{x^4+x+1}}
+\]
+\end{enumerate}
+
+\end{document}

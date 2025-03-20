@@ -1,0 +1,152 @@
+\documentclass[11pt,a4paper]{scrartcl}
+\typearea{12}
+%\usepackage{graphicx}
+%\usepackage{pstricks}
+\usepackage{listings}
+\usepackage{color, amsfonts, amsmath}
+\usepackage{fancyhdr}
+\usepackage{url}
+\pagestyle{fancy}
+\lfoot{COMS10013 - 2025 - WS5}
+\begin{document}
+
+\section*{COMS10013 - Analysis - WS5}
+
+\subsection*{Solutions}
+\begin{enumerate}
+\item {\textbf{Linear Approximation}}
+The value of the function $\sin(x)$ is typically difficult to calculate. But let's suppose you urgently need to find the value of $\sin(0.1)$ but - catastrophe! - you've forgotten your calculator. \\
+Use the method of linear approximation of $\sin(x)$ at $0$ to estimate $\sin(0.1)$. \\
+Using your calculator, how good is this approximation? \\
+Assume that you're seeking $\sin(0.1)$ in radians. 
+
+\textbf{Solution:} We'll begin by using the linear approximation formula from the lectures, using $a=0$: 
+\[
+L(x) = \sin(0) + \cos(0)(x-0)\,.
+\]
+Hopefully you remember $\sin(0) = 0$ and $\cos(0)=1$ so that the linear approximation is just $L(x) = x$.
+Thus the approximation of $\sin(0.1)$ is 0.1.
+
+This is actually an instance of a special approximation phenomenon: when $x$ is small, $\sin(x) \approx x$. 
+
+How good is the approximation: $|\sin(0.1) - 0.1| =  0.000165....$ For most purposes, we can conclude that this approximation is pretty good. 
+
+\item {\textbf{Root finding I: }}
+\begin{enumerate}
+    \item[(a)] Pick an initial value and use the Newton root finding method to find the root of the equation 
+    \[
+    f(x) = x^3 - 5\,,
+    \]
+    using say five iterations of the algorithm.\\
+\textbf{Solution: }    The concrete solution to this problem obviously depends on your initial value: the technique is the same. Suppose $g_0$ is your initial guess (and hopefully you didn't cheat and use $g_0=\sqrt[3]{5}$, otherwise this whole thing is moot).
+
+    For the Newton root finding method, we'll put this into the iterative formula:
+    \[
+    g_{n+1} = g_n - \frac{g_n^3-5}{3g_n^2}\,. 
+    \]
+
+    For example, if our initial guess is 2.5, then:
+    \[
+    g_1 = 2.5 - \frac{10.625}{18.75} = 1.933\dots
+    \]
+    Continuing, we find that $g_2 = 1.735$, $g_3 = 1.710$, $g_4 = 1.710$ and $g_5 = 1.710$ (where I've rounded the guesses to 3 decimal places),
+        
+    \item[(b)] Compare your solution with $\sqrt[3]{5}$.\\
+    \textbf{Solution: } For the guess of 2.5, we estimate the (rounded) root to be $1.710$. If we use the unrounded value, we find that this differs from $\sqrt[3]{5}$ by about $3.3\times 10^{-15}$. 
+\end{enumerate}
+
+\item {\textbf{Root finding II: }}
+\begin{enumerate}
+    \item[(a)] Pick an initial value and use the Newton root finding method to find the root of the equation 
+    \[
+    f(x) = \sin(x)x^3 + \cos(x)\,,
+    \]
+    using say five iterations of the algorithm.
+    \item[(b)] Evaluate $f$ at your root guess. Was your initial value good?
+\end{enumerate}
+\textbf{Solution: } This is essentially the same as the previous question, but now the differentiation is a bit harder and it's not obvious what the root actually is. 
+
+We'll use the iterative formula
+    \[
+    g_{n+1} = g_n - \frac{\sin(g_n)g_n^3+\cos(g_n)}{\cos(g_n)g_n^3+3g_n^2\sin(g_n) -\sin(g_n) }\,. 
+    \]
+
+So for instance, trying the same guess of $g_0=2.5$ as in the previous question, we get: 
+\begin{align*}
+g_1 &= 7.012\\
+g_2 &= 6.363\\
+g_3 &= 6.282\\
+g_4 &= 6.279\\
+g_5 &= 6.279\\
+\end{align*}
+Already we can see that after five iterations, we're converging on a root (at least, if we round liberally to 3 decimal places). \\
+We find that $f(g_5) = 2.14\times 10^{-9}$, which helpfully is, as desired, pretty close to zero. 
+
+	\item \textbf{Taylor series}
+	\begin{itemize}
+		\item[(a)] Compute the Taylor series of $1/(1-x)^2$ at $x=0$.\\
+        \textbf{Solution: } So this one is cool,
+          \begin{equation}
+            \frac{d}{dx}\frac{1}{(1-x)^2}=\frac{2}{(1-x)^3}
+          \end{equation}
+          and
+          \begin{equation}
+            \frac{d^2}{dx^2}\frac{1}{(1-x)^2}=\frac{6}{(1-x)^4}
+          \end{equation}
+          if you do a few more you might guess
+          \begin{equation}
+            \frac{d^n}{dx^n}\frac{1}{(1-x)^2}=\frac{(n+1)!}{(1-x)^{n+2}}
+          \end{equation}
+          and you can prove this is true by induction. Now
+          \begin{equation}
+            \left.\frac{d^n}{dx^n}\frac{1}{(1-x)^2}\right|_{x=0}=(n+1)!
+          \end{equation}
+          so
+          \begin{equation}
+            \frac{1}{(1-x)^2}=\sum_{n=0}^{\infty} (n+1)x^n.
+          \end{equation}
+       
+		\item[(b)] Compute the Taylor series of $1/x$ at $x=2$. \\
+        \textbf{Solution: } Again if you differentiate a few times you'll see
+            \begin{equation}
+              \frac{d^n}{dx^n}\frac{1}{x}=\frac{(-1)^nn!}{x^{n+1}}
+            \end{equation}
+            and substituting that in to the Taylor series gives
+            \begin{equation}
+            \sum_{n=0}^{\infty} (-1)^n \frac{(x-2)^n}{2^{n+1}}\,.
+            \end{equation}
+
+	\end{itemize}
+
+
+	\item \textbf{Computing with Taylor series}.\\
+	This exercise is to approximate $\sin(\pi/4)$ without 
+	using any trigonometric functions on your calculator.\\
+    Compute, without a calculator, 
+ 	the Taylor series of
+		$\sin (x)$ at $x=0$.
+\\
+		Compute the approximations $T_1(x)$, $T_3(x)$, $T_5(x)$, $T_7(x)$ from your
+		series at $x = \pi/4$ to eight decimal places (you can use a calculator).\\
+    \textbf{Solution: }
+    The main goal of this is to compute the Taylor series at $\sin(x)$: it's
+    \[
+    \sum_{n=0}^{\infty}\frac{(-1)^n}{(2n+1)!}x^{2n+1}
+    \]
+    so that the first few terms look like:
+    \[
+    x-\frac{x^3}{3!}+ \frac{x^5}{5!} - \dots
+    \]
+    i.e. the sign of the terms oscillates between $\pm1$, and we're only seeing odd powers of $x$. 
+
+    Then 
+    \begin{align*}
+        T_1(\pi/4) &= 0.78539816\\
+        T_3(\pi/4) &= 0.70465265\\
+        T_5(\pi/4) &= 0.707143046\\
+        T_7(\pi/4) & =0.707106470    
+    \end{align*}
+    and we're aiming for the true value: $\sin(\pi/4) =    0.7071067811865476\dots$.
+\end{enumerate}
+
+\end{document}

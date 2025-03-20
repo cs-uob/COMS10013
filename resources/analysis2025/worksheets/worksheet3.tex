@@ -1,0 +1,126 @@
+%ps1.tex
+%notes for the course Probability and Statistics COMS10011 
+%taught at the University of Bristol
+%2019_20 Conor Houghton conor.houghton@bristol.ac.uk
+
+%To the extent possible under law, the author has dedicated all copyright 
+%and related and neighboring rights to these notes to the public domain 
+%worldwide. These notes are distributed without any warranty. 
+
+\documentclass[11pt,a4paper]{scrartcl}
+\typearea{12}
+\usepackage{graphicx}
+%\usepackage{pstricks}
+\usepackage{listings}
+\usepackage{color}
+\lstset{language=C}
+\usepackage{fancyhdr}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\pagestyle{fancy}
+\lfoot{COMS10013 - 2025 - WS3}
+\begin{document}
+
+
+\section*{COMS10013 - Analysis - WS3}
+
+This worksheet is taken from worksheets prepared by Chloe Martindale and Conor Houghton.
+
+\subsection*{Questions}
+
+These are the questions you should make sure you work on in the workshop.
+
+\begin{enumerate}
+
+\item \textbf{A linear accelerated motion question}. A train is travelling from Bristol to London Paddington at the maximum speed of 55.9 m/s, 125 mph, when the driver activates the emergency brake. This causes the train to decelerate uniformly at 1.2 m/$s^2$. How far will the train travel until it stops and how long will this take, in seconds. Do this using differential equations, for example:
+  \begin{equation}
+    \frac{dv}{dt}=-1.2
+  \end{equation}
+  not by looking up formulas.
+
+\item \textbf{Types of differential equations}
+  Write down (but don't solve) an example of a differential equation that is:
+  \begin{itemize}
+  \item[(a)] First-order, linear but not homogeneous, with constant coefficients.
+  \item[(b)] First-order, linear, homogeneous but without constant coefficients.
+  \item[(c)] Second-order, linear, homogeneous, with constant coefficients.
+  \item[(d)] Second-order, linear, not homogeneous, without constant coefficients.
+  \end{itemize}
+	
+\item \textbf{Differential equations} Solve the following, linear,
+  homogeneous, first-order, constant coefficients, differential
+  equations once using direct integration and once with the
+  \emph{ansatz}.
+	\begin{itemize}
+		\item[(a)] $y'(t) - y(t) = 0$ with initial condition $y(0) = 2$.
+		\item[(b)] $y'(t) + 3y(t) = 0$ with initial condition $y(3) = 3$.
+		\item[(c)] $y'(t) - 6t^2y(t) = 0$ with initial condition $y(0) = 3$.
+	\end{itemize}
+
+
+\item \textbf{First order inhomogeneous equations}.
+	\begin{itemize}
+		\item[(a)] $f'(t) + 5f(t) = 1$ with initial condition $f(0) = 2$.
+		\item[(b)] $f'(t) = t - f(t)$ with initial condition $f(1) = 3e^{-1}$.
+		\item[(c)] $f'(t) +2f(t) = \sin(t)$ with initial condition $f(0) = 9/5$.
+		\item[(d)] $f'(t) - 2f(t) + t^2 = 0$ with initial condition $f(2) = 13/4 + 6e^4$.
+	\end{itemize}
+
+
+\item \textbf{Second order equations} Solve the following equations for the given initial conditions:
+	\begin{itemize}
+		\item[(a)] ${y}''(t) = 4y(t)$ with initial conditions $y(0) = 1$ and ${y}'(0) = 0$.
+		\item[(b)] ${y}''(t) + 4{y}'(t) + 3y(t) = 0$ with initial conditions $y(0) = 0$ and ${y}'(0) = -2$.
+		\item[(c*)] ${y}''(t) + 2{y}'(t) + y(t) = 0$ with initial conditions $y(0) = 2$ and $y(1) = 3/e$.\\
+        (Note that this question is \textbf{hard} as the obvious initial Ansatz is close to being the solution, but not quite. You'll have to play about to adjust the Ansatz to find the solution.)  
+        \end{itemize}
+
+\end{enumerate}
+        
+\subsection*{Extra questions}
+
+These are extra questions you might attempt in the workshop or at a
+later time; in fact these questions are tricky so you might want to
+come back to them later when you've had some more lectures.
+
+\begin{enumerate}
+
+	
+	\item (**) \textbf{Solutions as a vector space}	
+	The aim of this exercise is to prove most of the following theorem:
+	the solutions to the second-order linear homogeneous differential equation
+	$a\ddot{y}(t) + b\dot{y}(t) + cy(t) = 0$ form a vector space. Note that this also follows from a theorem stated in the lecture notes. Prove:
+	\begin{itemize}
+		\item[(a)] If $f(t)$ and $g(t)$ are two solutions to this differential equation, then $h(t) = f(t) + g(t)$ is also a solution to this differential equation.
+		\item[(b)] If $f(t)$ is a solution to this differential equation,
+		and $s$ is any integer, then $k(t) = s \cdot f(t)$ is also a solution to this differential equation.
+		\item[(c)] The function $f_0(t) = 0$ (the function that is zero for all $t$) is a solution to the differential equation.
+	\end{itemize}
+	
+         
+        
+\end{enumerate}
+
+
+
+\end{document}
+
+
+\item \textbf{The particular and general solutions} If the equation is inhomogenous, the ansatz will often work then as well, but will give a value for $A$, this is called the \textbf{particular solution}; to get the general solution you will need to also solve the corresponding homogenous equation, the one you get by dropping the inhomogenous part, if you add this solution to the particular solution you still get a solution to the inhomogenous equation, the \textbf{general solution}. Here is an example
+  \begin{equation}
+    \dot{y}=-y+\exp{3t}
+  \end{equation}
+  Substitute $y=A\exp{\lambda t}$ to get
+  \begin{equation}
+    \lambda Ae^{\lambda t}=-Ae^{\lambda t}+e^{3t}
+  \end{equation}
+  so the ansatz solves the equation if $\lambda=3$ and $A=1/4$. Now solve
+  \begin{equation}
+    \dot{y}=-y
+  \end{equation}
+  The ansatz says $y=A\exp{-t}$ solves this and so
+  \begin{equation}
+    y=Ae^{-t}+\frac{1}{4}e^{3t}
+  \end{equation}
+  is the general solution to the original equation; you can check this. $A$ is usually fixed by the inital condition so if $y(0)=1$ for example then $A=3/4$.

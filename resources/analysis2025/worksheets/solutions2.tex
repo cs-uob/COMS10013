@@ -1,0 +1,240 @@
+%ps1.tex
+%notes for the course Probability and Statistics COMS10011 
+%taught at the University of Bristol
+%2019_20 Conor Houghton conor.houghton@bristol.ac.uk
+
+%To the extent possible under law, the author has dedicated all copyright 
+%and related and neighboring rights to these notes to the public domain 
+%worldwide. These notes are distributed without any warranty. 
+
+\documentclass[11pt,a4paper]{scrartcl}
+\typearea{12}
+\usepackage{graphicx}
+%\usepackage{pstricks}
+\usepackage{listings}
+\usepackage{amsmath}
+\usepackage{color}
+\lstset{language=C}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lfoot{COMS10013 - 2025 - WS2}
+\begin{document}
+
+\section*{COMS10013 - Analysis - WS2}
+This worksheet is partly taken from worksheets prepared by Chloe Martindale and Conor Houghton.
+
+\subsection*{Solutions}
+
+\begin{enumerate}
+
+\item Find $\partial z/\partial x$ and $\partial z/\partial y$ for 
+\begin{enumerate}
+    \item[(a)] $z = f(x) +g(y)$: $\partial z/\partial x = f'(x)$ and $\partial z/\partial y=g'(y)$
+    
+    \item[(b)] $z = f(x+y)$: from first principles, 
+    \[
+    f_x = \lim_{h\to 0} \frac{f(x+y+h) - f(x+y)}{h} = f'(x+y)
+    \]
+    Similarly, $f_y = f'(x+y)$. Notice here that $f$ takes only one argument, so that $f'$ is well-defined. We could also use the chain rule here (formally, writing $z= x+y$), and notice that $\partial/\partial x (x+y) = 1$.
+    \item[(c)] $z = f(xy)$: for this we really should use the chain rule: let $z = xy$. Then 
+    \[
+        f_x =  \frac{d}{dz}f(z) \frac{d}{dx}x = f'(xy)y\,.
+    \]
+    Similarly, $f_y = f'(xy)y$.
+\end{enumerate}
+
+\item Find the partial derivatives of $z(x,y)=5x^2y+2x\sin{y}$.\\
+This is easier than you'd think, for $x$ derivative think of $y$ as constant and vice versa:
+  \begin{equation}
+    \frac{\partial z}{\partial x}=10xy+2\sin{y}
+  \end{equation}
+  and
+  \begin{equation}
+    \frac{\partial z}{\partial y}=5x^2+2x\cos{y}
+  \end{equation}
+
+\item Let $f(x,y)$ be a continuous function and let $\mathbf{w} = (w_1,w_2)$. 
+Show that 
+\[
+\nabla_\mathbf{w} f(x,y)= w_1 \frac{\partial f}{\partial x}(x,y) + w_2 \frac{\partial f}{\partial y}(x,y)
+\]
+For this we'll follow the hint and find the derivative of $g$ from first principles:
+\[
+g'(0) = \lim_{z\to 0} \frac{f(x_0 + zw_1, y_0 + zw_2)- f(x_0 , y_0)}{z} = \nabla_{\mathbf{w}}f(x_0,y_0)\,.
+\]
+
+Now we'd like to find another expression for $g'(0)$, using the chain rule\footnote{Note that I've cruelly not actually told you about this chain rule before. It is used only for this question in the course, and I don't expect you to know if for the exam.}: let $a = x_0 + hw_1$ and $b = y_0 + hw_2$
+\[
+    g'(h) = \frac{\partial f}{\partial a}(a,b) \frac{da}{dh}
+    + \frac{\partial f}{\partial b} \frac{db}{dh}
+\]
+Finally, looking at $g'(0)$, we can compare the two expressions:
+\begin{align*}
+\nabla_{\mathbf{w}}f(x_0,y_0) &=  \frac{\partial f}{\partial a}(a,b) \frac{da}{dh}
+    + \frac{\partial f}{\partial b} \frac{db}{dh}\\
+    &=  f_x(x_0,y_0) w_1
+    + f_y(x_0,y_0) w_2\,.
+\end{align*}
+Renaming the variables finishes the problem. 
+
+\item 
+The temperature $T$ at a location in the Northern Hemisphere depends on the longitude $x$, latitude $y$ and time $t$ so that $T = f(x,y,t)$. We'll measure time in hours from the beginning of January. 
+\begin{enumerate}
+    \item[(a)] What are the meanings of the partial derivatives $\partial T/\partial x$, $\partial T/\partial y$ and $\partial T/\partial t$?
+    These reflect how the temperature changes as longitude, latititude, and time, respectively, change. 
+    \item[(b)] Honolulu has a longitude 158$^\circ$W and latitude 21$^\circ$N. Suppose that at 9am on January 1st, the wind is blowing hot air to the northeast (so that the air to the west and south is warmer, and the air to the north and east is cooler). Would you expect $f_x(158,21,9)$, $f_y(158,21,9)$, $f_t(158,21,9)$ to be positive or negative? Explain your answer. 
+   \\
+   $T_x$: Positive --  Because the longitude is defined to the west, increasing the longitude means travelling westwardly, so we're getting warmer.\\
+   $T_y$: Negative-- The further north we go, the cooler it gets.\\
+   $T_t$: Positive -- the temperature is increasing with time.
+
+\end{enumerate}
+
+\item Find the gradient of $z(x,y)=(x+y^2)^2$. So first, using the chain rule
+  \begin{equation}
+    z_x=2(x+y^2)
+  \end{equation}
+  and
+  \begin{equation}
+    z_y=4y(x+y^2)
+  \end{equation}
+  Putting them together gives
+  \begin{equation}
+    \nabla(z)=[2(x+y^2),4y(x+y^2)]
+  \end{equation}
+
+\item Let $z(x,y) = x^2y + 3xy^2 + xy$.
+\begin{itemize}
+	\item[(a)] Find the gradient of $z(x,y)$.
+          \begin{equation}
+            \nabla(z)=
+          \left(\begin{array}{c} \partial z/\partial x \\
+		                    \partial z/\partial y\end{array}\right)
+		                    =
+		              \left(\begin{array}{c}
+		              2xy + 3y^2 + y \\
+		              x^2 + 6xy + x
+		              \end{array}\right).\end{equation}
+	\item[(b)] Find the derivative\footnote{Typically when calculating the directional derivative, we take our direction to be a unit vector. That's because we care about the direction of the vector, not its magnitude (because we're asking what happens when we `step' in this direction an infinitessimally small amount. This means that technically, we should normalise the vector (so that its magnitude is 1. This gives us a unique answer of (7) multiplied by $1/\sqrt{10}$.} of $z(x,y)$ along the vector $\left(\begin{array}{c} 3 \\ 1 \end{array}\right).$
+          \begin{equation}
+          \nabla z \cdot \left(\begin{array}{c}
+		3 \\ 1
+		\end{array}\right) 
+		= 
+		\left(\begin{array}{c}
+		              2xy + 3y^2 + y \\
+		              x^2 + 6xy + x
+		              \end{array}\right)
+		              \cdot 
+		              \left(\begin{array}{c}
+		3 \\ 1
+		\end{array}\right) 
+		= x^2 + 9y^2 + 12xy + x + 3y.
+\end{equation}
+        \item[(c)] Compute $\nabla_{\tiny\left(\begin{array}{c} 3 \\ 1 \end{array}\right)} z \left(\left(\begin{array}{c} 2 \\ 0 \end{array}\right)\right)$: plug in $(x,y)=(2,0)$ to get $2^2 + 0 + 0 + 2 + 0 = 6$.
+        \item[(d)] What is the Hessian of $z(x,y)$? So we have $z_x=2xy+3y^2+y$ and $z_y=x^2+6xy+x$, differentiating again gives $z_{xx}=2y$ and $z_{xy}=2x+6y+1$ and $z_{yy}=6x$ and $z_{yx}=2x+6y+1$ and we note that $z_{xy}=z_{yx}$ as it will be for any normal function. Hence, the Hessian is
+          \begin{equation}
+            H=\left(\begin{array}{cc}2y&2x+6y+1\\2x+6y+1&6x\end{array}\right)
+          \end{equation}
+\end{itemize}
+
+	\item \textbf{Extremal points in two dimensions}; this question is pretty hard!
+	\begin{itemize}
+		\item[(a)] Find the local extrema, and determine their types, for
+		  \[z(x,y) = x^3 + y^3 - \frac{1}{2}(15x^2 + 9y^2) + 18x + 6y + 1.\]
+		\item[(b)] Find the local extrema, and determine their types, for
+		\[z(x,y) = 3xy^2 - 30y^2 + 30xy - 300y + 2x^3 - 15x^2 + 111x + 7.\]
+	\end{itemize}
+	Solutions:
+	\begin{itemize}
+		\item[(a)] Compute the gradient first:
+		\[\nabla z = \left(\begin{array}{c}
+			3x^2 - 15x + 18 \\
+			3y^2 - 9y + 6
+		\end{array}\right).\]
+		The top entry is zero if and only if $x = 2$ or 3 and the bottom entry is 
+		zero if and only if $y = 1$ or 2.
+		So there are 4 possible extremal points:
+		\[(2,1),\, (2,2),\, (3,1),\, (3,2).\]
+		To determine their types, we compute the Hessian
+		\[H = \left(\begin{array}{cc}
+		6x - 15 & 0 \\
+		0 & 6y - 9
+		\end{array}\right),\]
+		which has determinant $\det(H) = (6x-15)(6y-9) = 9(2x-5)(2y-3)$.
+		At
+		\begin{itemize}
+			\item $(2,1)$, $\det(H) = 9\cdot -1 \cdot -1 > 0$ and $6x - 15 = -3 < 0$, so
+			$(2,1)$ is a local maximum.
+			\item $(2,2)$, $\det(H) = 9\cdot -1 \cdot 1 < 0$ so $(2,2)$ is a saddle point.
+			\item $(3,1)$, $\det(H) = 9\cdot 1 \cdot -1 < 0$ so $(3,1)$ is a saddle point.
+			\item $(3,2)$, $\det(H) = 9\cdot 1 \cdot 1 > 0$ and $6x - 15 = 3 > 0$, so
+			$(3,2)$ is a local minimum.
+		\end{itemize}
+		\item[(b)] The gradient is
+		\[\nabla z = \left(\begin{array}{c}
+		3y^2 + 30y + 6x^2 - 30x + 111 \\
+		6xy - 60y + 30x - 300
+		\end{array}\right).\]
+		Look first at the second entry
+		$6(xy-10y+5x-50)$.
+		We want to understand when this is $=0$, 
+		which then gives us an equation we can rearrange and solve:
+		\[y(x-10) + 5x - 50 = 0 \Rightarrow y = 5\frac{10-x}{x-10} = -5,\]
+		for $x \neq 10$. When $x = 10$,
+		the second entry gives us
+		$60y-60y + 300 - 300 = 0$,
+		so the second entry is 0 when $x = 10$ or $y = -5$.
+		Plugging in $y = -5$ to the first entry and setting it to 
+		zero gives us an
+		equation for $x$:
+		\[0 = 6x^2 - 30x + 36 = 6(x^2 - 5x +6),\]
+		which has roots at $x = 2$ and 3.
+		Plugging in $x = 10$ to the first entry and setting it to zero
+		gives us an equation for $y$:
+		\[0 = 3y^2 + 30y + 411 = 3(y^2 + 10y + 137),\]
+		which has no real solutions.
+		So the only possible extrema are
+		\[(2,-5) \text{ and } (3,-5).\]
+		To check their types, we look at the Hessian
+		\[H = \left(\begin{array}{cc}
+		12x - 30 & 6y+30 \\
+		6y +30 & 6x - 60
+		\end{array}\right)
+		=6\left(\begin{array}{cc}
+		2x-5 & y + 5 \\
+		y + 5 & x-10
+		\end{array}\right),\]
+		which has determinant 
+		$$\det(H) = 36\cdot ((2x-5)(x-10)-(y+5)^2).$$
+		Then, at
+		\begin{itemize}
+			\item $(x,y) = (2,-5)$ we get $\det(H) = 36\cdot ((-1\cdot-8) - 0) > 0$ and $2x-5 = -1 < 0$ so $(2,-5)$ is a local maximum.
+			\item $(x,y) = (3,-5)$ we get $\det(H) = 36\cdot ((1\cdot -7) - 0) < 0$ so $(3,-5)$ is a saddle point.
+		\end{itemize}
+\end{itemize}
+
+
+
+\end{enumerate}
+
+\subsection*{Extra questions}
+
+These are extra questions you might attempt in the workshop or at a later time.
+
+\begin{enumerate}
+\item The function $z(x, y) = x^2 + y^2 + 2x - 3y$ has a global minimum. Find this by taking
+  the gradient and searching for the point where the gradient is zero. \textbf{Solution}: well the gradient is
+  \begin{equation}
+    \text{grad}(z)=(2x+2,2y-3)
+  \end{equation}
+  so that's equal to $(0,0)$ when $x=-1$ and $y=3/2$. 
+\item Check that this point you found really is a minimum by computing the Hessian of the
+  function at this point, and checking that it is positive definite, that is, all eigenvalues are positive. \textbf{Solution}: so the Hessian is
+  \begin{equation}
+    H=\left(\begin{array}{cc}2&0\\0&2\end{array}\right)
+  \end{equation}
+  so, trivially, the eigenvalues are both two and this is a positive definite Hessian.
+\end{enumerate}
+
+\end{document}
