@@ -1,0 +1,178 @@
+% README:
+%
+% This file is most easily compiled by typing "make", which executes
+% the provided Makefile. Both exam and answer script are generated.
+% By default the Makefile takes exam.tex and produces exam-answers.pdf
+% and exam.pdf.
+%
+% Typing make clean will remove auxiliary generated files.
+%
+% This file can be used as a template for exams. Here is a checklist
+% of things that must be modified:
+
+% TODO:
+% [x] Set \Coms to the course number,      e.g. COMS-12345
+% [x] Set \Name to the course title,       e.g. Imperative Programming
+% [x] Set \Degrees to the degree award,    e.g. Bachelor and Master of Engineering and Bachelor of Science
+% [x] Set \Year to the year of the cohort, e.g. First Year
+% [x] Set \When to the exam period,        e.g. January 2018
+% [x] Set \Time to the exam length,        e.g. 2 Hours
+
+
+\documentclass{uob-cs-exam}
+\newcommand{\Coms}{COMS10013}
+\newcommand{\Name}{Mathematics B}
+\newcommand{\Degrees}{Bachelor of Science and Master of Engineering}
+\newcommand{\Year}{First Year}
+\newcommand{\When}{Summer Exam Period 2023}
+\newcommand{\Time}{3 Hours}
+
+\newcommand{\MCInstruct}{
+\vspace*{1ex}
+\centerline{ADDITIONAL INSTRUCTIONS}
+\vspace*{1ex}
+\begin{enumerate} 
+\item This exam consists of three parts: Part 1; Part 2; and Part 3.
+\item For Part 1 only:
+\begin{enumerate}
+\item Use the Part 1 Answer Sheet provided for your answers;
+\item Only the answer sheet will be marked. You can use the empty pages at the back of the exam for your calculations.
+\end{enumerate}
+\item For Parts 2 and 3 only:
+\begin{enumerate}
+\item Write your answers in the answer book(s) provided.
+\end{enumerate}
+\item Make sure you read the instructions on the answer sheet and answer book(s).
+\end{enumerate}
+}
+
+%% Instruct: Standard exam instructions: these will be output only in
+%% the generated exam script.
+%\newcommand{\Instruct}{
+%1. Calculators must have the Faculty of Engineering Seal of Approval.\\
+%2. Students are allowed 1 A4 single side of printed or hand written notes.
+%}
+%% ILO: Intended learning outcomes: these will be output only in the
+%% generated answers.
+\newcommand{\ILO}{}
+%
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{graphicx}
+
+\let\imp=\Rightarrow
+\let\iff=\Leftrightarrow
+\let\xor=\oplus
+
+\newcommand*\firstblankpage{\newpage\thispagestyle{empty} \begin{center}{\sc The following empty pages are provided for you to write on.}\end{center} \addtocounter{page}{-1}}
+
+\newcommand*\blankpage{\newpage\null\thispagestyle{empty}\newpage\addtocounter{page}{-1}}
+
+\usepackage{sansmath}
+
+
+\newcommand{\uu}{{\bf u}}
+\newcommand{\vv}{{\bf v}}
+\newcommand{\ww}{{\bf w}} 
+\newcommand{\xx}{{\bf x}} 
+\newcommand{\zz}{{\bf z}} 
+\newcommand{\bb}{{\bf b}} 
+\newcommand{\nn}{{\bf n}} 
+\newcommand{\pp}{{\bf p}} 
+\newcommand{\dd}{{\bf d}} 
+\newcommand{\yy}{{\bf y}} 
+
+\setlength{\parindent}{0em}
+
+\begin{document}
+%\maketitle
+
+
+\begin{center}
+    \underline{Part 2: Analysis}
+\end{center}
+
+
+\vspace*{2ex}
+\begin{questions}
+
+\question[5]
+This question is about differentiation. 
+\begin{itemize}
+\item[(i)] In one sentence explain the infinitesimal approach to differentiation and use it to
+show that $\frac{d(x^3)}{dx}=3x^2$
+\item[(ii)] Using the chain rule, product rule and $d\sin{x}/dx=\cos{x}$, differentiate: $f(x)=x\sin{x^2}$
+  \end{itemize}
+  
+\droppoints
+\begin{solution}
+In the infinitesimal approach you work out $[f(x+dx)-f(x)]/dx$ and, when it is safe to do so, you set $dx$ to zero[2 points]. For $x^3$ you expand $(x+dx)^3$ using the binomial theorem[1 point]. Finally[2 points]
+  $$
+  f'(x)=\sin{x^2}+2x^2\cos{x^2}
+  $$
+\end{solution}
+
+\question[5]
+This question is about partial derivatives. 
+\begin{itemize}
+\item[(i)] Write down the definition of $\partial f(x,y)/\partial x$ and of $\nabla f$. 
+\item[(ii)] If $f(x,y)=x\sin{xy}+y^2$, what is $\nabla f$ and what is the derivative along a unit vector in the $(1,1)$ direction?
+\end{itemize}
+
+\droppoints
+\begin{solution}
+    So[1 point]
+    $$
+    \frac{\partial f}{\partial x}=\lim_{h\rightarrow 0}\frac{f(x+h,y)-f(x,y)}{h}
+    $$
+    and[1 point]
+    $$
+    \nabla f= (f_x,f_y)
+    $$
+    or in the particular example[1 point]
+$$
+      \nabla f=(\sin{xy}+xy\cos{xy},x^2\cos{xy}+2y)
+      $$
+      and the directional derivative is given by the sum of both terms divided by $\sqrt{2}$[2 points] (half marks for correct answer without the normalization).
+\end{solution}
+    
+\question[5]
+ This question is about complex numbers.  
+  \begin{itemize}
+ \item[(i)] Write $z=\frac{1+2i}{2+i}$ in the form $x+iy$. 
+ \item[(ii)] Write $z=1+\sqrt{3}i$ in the polar form. 
+\item[(iii)] The quaternions are a type of generalization of complex numbers. Instead of just $i$ there are three imaginary numbers $i$, $j$ and $k$, and these all square to minus one: $i^2=j^2=k^2=-1$. In addition $ijk=-1$ and the numbers are \textsl{anti-commutative}: $ij=-ji$, $jk=-kj$ and so on. Lots of other relationships can be derived from these rules, for example if you multiply $ijk=-1$ you get $jk=i$, or if you switch it $jik=1$ and multiply by $j$ you get $ik=1$. If $z=1+3i+2j$, what are $zi$ and $iz$?
+ \end{itemize}
+ 
+\droppoints
+\begin{solution}
+      (i) Division gives $z=(4+3i)/5$[1 point], (ii) the polar form has length two and angle $\pi/3$[ 2 points] and (iii) $zi=i-3+2k$ [1 point]whereas $iz=i-3-2k$[1 point].
+\end{solution}
+
+ \question[5]
+ This question is about differential equations. 
+ \begin{itemize}
+ \item[(i)]  In one sentence explain the difference between a homogeneous and an inhomogeneous differential equation.
+ \item[(ii)] Solve $\frac{df}{dt}=3f$ with $f(0)=4$.
+ \item[(iii)] Solve $\frac{df}{dt}=3f+t$ with $f(0)=1$.
+\end{itemize}
+
+\droppoints
+\begin{solution}
+So a homogenous equation only has $f$ and its derivative[1 point]. As for the examples, the first one is $f=4\exp{(3t)}$[2 points]; the second one $f(t) = 10/9 \exp{(3t)} - t/3 - 1/9$[2 points]
+\end{solution}
+
+\question[5]
+This question is about optimization. Briefly describe gradient flow.
+
+\droppoints
+\begin{solution}
+In gradient flow you minimize a function by moving a small distance in the direction opposite the gradient.[5 points]
+\end{solution}
+
+
+\end{questions}
+
+
+
+\end{document}

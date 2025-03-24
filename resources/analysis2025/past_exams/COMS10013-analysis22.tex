@@ -1,0 +1,284 @@
+\documentclass[a4paper, 11pt]{exam}
+
+%% See preamble.sty
+%\usepackage{preamble}
+
+\qformat{\bfseries\large Pool \thequestion{} — \thequestiontitle \hfill [3]\stepcounter{section}}
+\renewcommand{\thepartno}{\arabic{partno}}
+
+% Switch implementation
+\usepackage{xifthen}
+\newcommand{\ifequals}[3]{\ifthenelse{\equal{#1}{#2}}{#3}{}}
+\newcommand{\case}[2]{#1 #2} % Dummy, so \renewcommand has something to overwrite...
+\newenvironment{switch}[1]{\renewcommand{\case}{\ifequals{#1}}}{}
+
+%% Title
+\title{COMS10013 - Exam Questions}
+\author{Ross Bowden}
+\date{Summer 2022}
+
+% \printanswers
+
+\begin{document}
+\maketitle
+
+\section*{Preface}
+NOTE(2025): This exam was done via Blackboard due to Covid, so the `pool' system of questions is different to an in-person exam. The types of exam question are representative. 
+
+One question should be selected randomly from each of the following pools of questions. 
+
+\begin{questions}
+
+    %%%%%%%% Question 1 %%%%%%%%
+
+    \titledquestion{Hessians \& Fixed Points}\label{q:hessian}
+    \newcommand{\qonequestion}{
+        Consider the function $z(x,y) = ax^3y + by^2 - 3axy$, where $a$ and $b$ are real, positive constants. Which of the following statements is true.
+    }
+    \newcommand{\qonepoint}{
+        \begin{switch}{\thepartno}
+            \case{1}{(1, \frac{a}{b})}
+            \case{2}{(-1, -\frac{a}{b})}
+            \case{3}{(\sqrt{3}, 0)}
+            \case{4}{(-\sqrt{3}, 0)}
+        \end{switch}
+    }
+    \newcommand{\qonechoices}{
+        \begin{choices}
+            \choice The point $(x,y) = \qonepoint$ is a local maxima of $z$.
+            \choice The point $(x,y) = \qonepoint$ is a local minima of $z$.
+            \choice The point $(x,y) = \qonepoint$ is a saddle point of $z$.
+            \choice None of the above.
+        \end{choices}
+    }
+    \begin{parts}
+        \part \qonequestion\qonechoices
+        \part \qonequestion\qonechoices
+        \part \qonequestion\qonechoices
+        \part \qonequestion\qonechoices
+    \end{parts}
+    \begin{solution}
+        The gradient of $z$ can be computed as $\nabla z = 
+        \begin{pmatrix}
+            3ay(x^2 - 1) \\
+            ax(x^2-3) +2by \\      
+        \end{pmatrix}$
+        which gives the zero vector for all four possible points. The Hessian of $z$ is $H = 
+        \begin{pmatrix}
+            6axy & 3a(x^2 - 1) \\
+            3a(x^2 - 1) & 2b \\
+        \end{pmatrix}$. Note $H(x,y) = H(-x, -y)$, so answers for (1) and (2) (resp. (3) and (4)) are the same. For $(x, y) = (1, \frac{a}{b})$, we have $\det(H) = 12a^2 > 0$ and $H_{11} = \frac{6a^2}{b} > 0$, so we have a local minima. For $y = 0$, we have $\det(H) = -9a^2(x^2-1)^2 < 0$ irrespective of $x$, so we have a saddle point (note $a$ is non-zero).
+    \end{solution}
+
+    %%%%%%%% Question 2 %%%%%%%%
+%    \newpage
+    
+%    \titledquestion{Integrating Factor}\label{q:int-factor}
+%    \newcommand{\qtwob}{%%
+%    \begin{switch}{\thepartno}
+%        \case{1}{2\cos(t)e^{\sin(t)}}
+%        \case{2}{-2\sin(t)e^{\cos(t)}}
+%        \case{3}{-2\cos(t)e^{-\sin(t)}}
+%        \case{4}{2\sin(t)e^{-\cos(t)}}
+%    \end{switch}}
+%    \newcommand{\qtwoa}{%%
+%    \begin{switch}{\thepartno}
+%        \case{1}{+\cos(t)}
+%        \case{2}{-\sin(t)}
+%        \case{3}{-\cos(t)}
+%        \case{4}{+\sin(t)}
+%    \end{switch}}
+%    \newcommand{\qtwotone}{%%
+%    \begin{switch}{\thepartno}
+%        \case{1}{\frac{\pi}{2}}
+%        \case{2}{0}
+%        \case{3}{\frac{\pi}{2}}
+%        \case{4}{0}
+%    \end{switch}}
+%    \newcommand{\qtwottwo}{%%
+%    \begin{switch}{\thepartno}
+%        \case{1}{-\frac{\pi}{2}}
+%        \case{2}{\pi}
+%        \case{3}{-\frac{\pi}{2}}
+%        \case{4}{\pi}
+%    \end{switch}}
+%    \newcommand{\qtwoquestion}{
+%    The function $y(t)$ satisfies the differential equation $y'(t) \qtwoa y(t) = \qtwob$ subject to the initial condition $y(\qtwotone) = e + \frac{c}{e}$, where $c$ is a real constant. Given that $y(\qtwottwo) = y(\qtwotone)$, find the value $c$. Please write your answer as a number, with no full stop at the end.
+%    }    
+%    \begin{parts}
+%        \part\qtwoquestion
+%        \part\qtwoquestion
+%        \part\qtwoquestion
+%        \part\qtwoquestion
+%    \end{parts}
+%    \begin{solution}
+%        Let $f, g$ denote trigonometric functions with $f' = g$, so each equation is of the form $y'(t) + g(t)y(t) = 2g(t)e^{f(t)}$. Multiplying through by the integrating factor gives \\ $e^{f(t)}y'(t) + g(t)e^{f(t)}y(t) = 2g(t)e^{2f(t)}$. The RHS is the derivative of $e^{2f(t)}$, so we obtain \\ $e^{f(t)}y(t) = e^{2f(t)} + A$, which gives $y(t) = e^{f(t)} + Ae^{-f(t)}$. The initial conditions then give $A=c=1$.
+%    \end{solution}
+    
+    %%%%%%%% Question 3 %%%%%%%%
+    \newpage
+    
+    \titledquestion{2nd Order Diff Eq}\label{q:2nd-diffeq}
+    
+    \newcommand{\qthreeb}{%%
+    \begin{switch}{\thepartno}
+        \case{1}{-4}
+        \case{2}{+2}
+        \case{3}{-8}
+        \case{4}{+6}
+    \end{switch}}
+    \newcommand{\qthreec}{%%
+    \begin{switch}{\thepartno}
+        \case{1}{13}
+        \case{2}{26}
+        \case{3}{17}
+        \case{4}{13}
+    \end{switch}}
+    \newcommand{\qthreerealroots}{%%
+    \begin{switch}{\thepartno}
+        \case{1}{2}
+        \case{2}{-1}
+        \case{3}{4}
+        \case{4}{-3}
+    \end{switch}}
+    % \newcommand{\qthreeimroots}{%%
+    % \begin{switch}{\thepartno}
+    %     \case{1}{3}
+    %     \case{2}{5}
+    %     \case{3}{}
+    %     \case{4}{2}
+    % \end{switch}}
+    \newcommand{\qthreeIC}{%%
+    \begin{switch}{\thepartno}
+        \case{1}{y(0) = 1 \text{ and } y(\frac{\pi}{6}) = e^{\frac{\pi}{3}}}
+        \case{2}{y(0) = 1 \text{ and } y(\frac{\pi}{10}) = e^{- \frac{\pi}{10}}}
+        \case{3}{y(0) = 1 \text{ and } y(\frac{\pi}{2}) = e^{2\pi}}
+        \case{4}{y(0) = 1 \text{ and } y(\frac{\pi}{4}) = e^{-\frac{3\pi}{4}}}        
+    \end{switch}}
+    \newcommand{\qthreeEQ}{%%
+    \begin{switch}{\thepartno}
+        \case{1}{(y(\frac{\pi}{12}))^2 = 2e^{\frac{c\pi}{6}}}
+        \case{2}{(y(\frac{\pi}{20}))^2 = 2e^{\frac{c\pi}{10}}}
+        \case{3}{(y(\frac{\pi}{4}))^2 = 2e^{\frac{c\pi}{2}}}
+        \case{4}{(y(\frac{\pi}{8}))^2 = 2e^{\frac{c\pi}{4}}}
+    \end{switch}}
+    \newcommand{\qthreequestion}{
+        The function $y(t)$ satisfies $\frac{d^2y}{dt^2}\qthreeb\frac{dy}{dt}+\qthreec y = 0, \qthreeIC$. \newline Given that $\qthreeEQ$, find the value $c$. Please write your answer as a number, with no full stop at the end.
+    }
+    \begin{parts}
+        \part \qthreequestion
+        \part \qthreequestion
+        \part \qthreequestion
+        \part \qthreequestion
+    \end{parts}
+    \begin{solution}
+        Solving the characteristic polynomial gives $\lambda = \alpha\pm\beta i$, giving the general solution $y(t) = e^{\alpha t}(A\cos(\beta t) + B\sin(\beta t))$. The first IC gives $A = 1$. The second IC is of the form $y(\frac{\pi}{2\beta}) = e^{\frac{\alpha\pi}{2\beta}}$ which gives $B = 1$. The relation is of the form $(y(\frac{\pi}{4\beta}))^2 = 2e^{\frac{c\pi}{2\beta}}$. Evaluating the LHS gives $(\sqrt{2}e^{\frac{\alpha\pi}{4\beta}})^2 = 2e^{\frac{\alpha\pi}{2\beta}}$, so $c = \alpha$.
+        \begin{parts}
+            \part \qthreerealroots
+            \part \qthreerealroots
+            \part \qthreerealroots
+            \part \qthreerealroots
+        \end{parts}
+    \end{solution}
+    
+    %%%%%%%% Question 4 %%%%%%%%
+    \newpage
+            
+    \titledquestion{Polar Form}\label{q:complex}
+    
+    \newcommand{\qfoura}{%%
+    \begin{switch}{\thepartno}
+        \case{1}{3}
+        \case{2}{-1}
+        \case{3}{2}
+        \case{4}{1}
+    \end{switch}}
+    \newcommand{\qfourb}{%%
+    \begin{switch}{\thepartno}
+        \case{1}{}
+        \case{2}{2}
+        \case{3}{}
+        \case{4}{3}
+    \end{switch}}
+    \newcommand{\qfourquestion}{
+        Let $z = (\qfoura + \qfourb i)^3 + (\qfoura - \qfourb i)^3$. By considering the polar form of $\qfoura + \qfourb i$ or otherwise, compute the modulus of $z$. Please write your answer as an integer, with no full stop at the end.
+    }
+    \begin{parts}
+        \part \qfourquestion
+        \part \qfourquestion
+        \part \qfourquestion
+        \part \qfourquestion
+    \end{parts}
+    \newcommand{\qfouranswer}{%%
+    \begin{switch}{\thepartno}
+        \case{1}{36}
+        \case{2}{22}
+        \case{3}{4}
+        \case{4}{52}
+    \end{switch}}
+    \begin{solution}
+        By construction the expression is real, (and an integer). In general we have $z = (a+bi)^3 + (a-bi)^3 = 2a^3 - 6ab^2$ which can be derived in multiple ways algebraically (eg. by the polar form substitution suggested). The modulus is then just the absolute value of this expression. Alternatively, a numerical approach will suffice coupled with the stipulation that the result is an integer.
+        \begin{parts}
+            \part\qfouranswer
+            \part\qfouranswer
+            \part\qfouranswer
+            \part\qfouranswer
+        \end{parts}
+    \end{solution}
+    
+    %%%%%%%% Question 5 %%%%%%%%
+    \newpage
+    
+    \titledquestion{Taylor Series}\label{q:taylor}
+    
+    \newcommand{\qfivea}{%%
+    \begin{switch}{\thepartno}
+        \case{1}{\frac{3}{4}}
+        \case{2}{\frac{4}{5}}
+        \case{3}{\frac{5}{6}}
+        \case{4}{\frac{6}{7}}
+    \end{switch}}
+    \newcommand{\qfivequestion}{
+        You will need a calculator for this question. Let $f(x) = e^{\frac{x^2}{2} + \qfivea}$, and let $T_n(x)$ denote the $n$'th Taylor polynomial approximation to $f$ around the point $x_0 = 0$. Find the \emph{minimum} value $n$ such that the approximation $T_n(1)$ is within 0.1 of $f(1)$.
+    }
+    \begin{parts}
+        \part\qfivequestion
+        \part\qfivequestion
+        \part\qfivequestion
+        \part\qfivequestion
+    \end{parts}
+    \begin{solution}
+        Write $f(x) = Ae^{\frac{x^2}{2}}$ for convenience. By computing $f^{(n)}(0)$ for succssive $n$, we find $f^{(0)}(0) = f^{(2)}(0) = A, f^{(1)}(0) = f^{(3)}(0) = 0$, and $f^{(4)}(0) = 3A$ etc. and so $T_0(x) = T_1(x) = A$, $T_2(x) = T_3(x) = A(1 + \frac{x^2}{2})$, and $T_4(x) = A(1 + \frac{x^2}{2} + \frac{x^4}{8})$. Evaluating each $T_n$ at $x=1$, we find that $T_4(1)$ is within the required range.
+    \end{solution}
+
+    %%%%%%%% Question 6 %%%%%%%%
+    \newpage
+
+    \titledquestion{Abstract Differential Equation}\label{q:todo}
+    \newcommand{\qsixc}{%%
+    \begin{switch}{\thepartno}
+        \case{1}{2}
+        \case{2}{3}
+        \case{3}{4}
+        \case{4}{5}
+    \end{switch}}
+    \newcommand{\qsixquestion}{    
+        Suppose the function $y(t)$ satisfies the differential equation $y'(t) + a(t)y(t) = b(t)$ where the functions $a(t)$ and $b(t)$ are not constant. Define the function $z(t) = y(\qsixc t)$. Which of the following differential equations is $z(t)$ a solution to?
+        \begin{choices}
+            \choice $z'(t) + \qsixc a(t)z(t) = \qsixc b(t)$
+            \correctchoice $z'(t) + \qsixc a(\qsixc t)z(t) = \qsixc b(\qsixc t)$
+            \choice $z'(t) + a(t)z(t) = b(t)$
+            \choice $z'(t) + a(\qsixc t)z(t) = b(\qsixc t)$
+        \end{choices}
+    }
+    \begin{parts}
+        \part\qsixquestion
+        \part\qsixquestion
+        \part\qsixquestion
+        \part\qsixquestion
+    \end{parts}
+    \begin{solution}
+        By making the substitution $s = ct$, where $c$ is the relevant constant, and using the chain rule, we obtain $z'(t) = cy'(s)$. Substituting this into each candidate answer, \textbf{B} returns our original equation, so this is the correct answer.
+    \end{solution}
+\end{questions}
+\end{document}

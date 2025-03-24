@@ -1,0 +1,212 @@
+\documentclass[a4paper, 11pt]{exam}
+
+% Formatting
+\usepackage[english]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fourier}
+
+%% Maths Stuff
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+
+%% Title
+\title{COMS10013 - Resit Exam Questions}
+\author{Ross Bowden}
+\date{Summer 2025}
+
+% \printanswers
+
+\begin{document}
+\maketitle
+
+\section*{Preface}
+NOTE(2025): This exam was done via Blackboard due to Covid, so the `pool' system of questions is different to an in-person exam. The types of exam question are representative. 
+
+One question should be selected randomly from each of the following pools of questions.
+
+\begin{questions}
+
+    %%%%%%%% Question 1 %%%%%%%%
+    \titledquestion{Hessians \& Fixed Points}\label{q:hessian}
+
+    \begin{parts}
+        \part
+        Consider the function $z(x,y) = \sin(x)\cos(e^{-y^2})$. Which of the following statements is true?
+        \begin{choices}
+            \choice $z$ has infinitely many local maxima.
+            \choice $z$ has infinitely many local minima.
+            \correctchoice $z$ has infinitely many saddle points.
+            \choice All of the above.
+        \end{choices}
+        \part
+        Consider the function $z(x,y) = \cos(x)\cos(e^{-y^2})$. Which of the following statements is true?
+        \begin{choices}
+            \choice $z$ has infinitely many local maxima.
+            \choice $z$ has infinitely many local minima.
+            \correctchoice $z$ has infinitely many saddle points.
+            \choice All of the above.
+        \end{choices}
+        \part
+        Consider the function $z(x,y) = \sin(y)\cos(e^{-x^2})$. Which of the following statements is true?
+        \begin{choices}
+            \choice $z$ has infinitely many local maxima.
+            \choice $z$ has infinitely many local minima.
+            \correctchoice $z$ has infinitely many saddle points.
+            \choice All of the above.
+        \end{choices}
+        \part
+        Consider the function $z(x,y) = \cos(y)\cos(e^{-x^2})$. Which of the following statements is true?
+        \begin{choices}
+            \choice $z$ has infinitely many local maxima.
+            \choice $z$ has infinitely many local minima.
+            \correctchoice $z$ has infinitely many saddle points.
+            \choice All of the above.
+        \end{choices}
+    \end{parts}
+    \begin{solution}
+        Let $z(x,y) = \cos(x)\cos(e^{-y^2})$, the analysis is virtually the same for all variants. Solving $\nabla z(x,y) = 0$ gives $(x,y) = (n\pi, 0)$, so we have infinitely many stationary points. The Hessian at $y = 0$ gives $H = 
+        \begin{pmatrix}
+            -\cos(x) & 0 \\
+            0 & 2\cos(x)\sin(1) \\
+        \end{pmatrix}$
+        which has negative determinant irrespective of $x$, hence all stationary points are saddle points.
+    \end{solution}
+
+    %%%%%%%% Question 2 %%%%%%%%
+%    \newpage
+%    \titledquestion{Integrating Factor}\label{q:int-factor}
+
+%    \begin{parts}
+%        \part
+%        The function $y(t)$ satisfies the differential equation $y'(t) + \cos(t)y(t) = \cos(t)e^{-\sin(t)}$ subject to the initial condition $y(0) = 0$. Given $y(\frac{\pi}{6}) = \frac{1}{c\sqrt{e}}$ where $c$ is a real constant, find the value $c$. Please write your answer as an integer, with no full stop at the end.
+%        \part
+%        The function $y(t)$ satisfies the differential equation $y'(t) - \sin(t)y(t) = -\sin(t)e^{-\cos(t)}$ subject to the initial condition $y(\frac{\pi}{2}) = 0$. Given $y(0) = \frac{c}{e}$ where $c$ is a real constant, find the value $c$. Please write your answer as an integer, with no full stop at the end.
+%        \part
+%        The function $y(t)$ satisfies the differential equation $y'(t) - \cos(t)y(t) = - \cos(t)e^{\sin(t)}$ subject to the initial condition $y(0) = 0$. Given $y(\frac{\pi}{6}) = \frac{\sqrt{e}}{c}$ where $c$ is a real constant, find the value $c$. Please write your answer as an integer, with no full stop at the end.
+%        \part
+%        The function $y(t)$ satisfies the differential equation $y'(t) + \sin(t)y(t) = \sin(t)e^{\cos(t)}$ subject to the initial condition $y(\frac{\pi}{2}) = 0$. Given $y(0) = ce$ where $c$ is a real constant, find the value $c$. Please write your answer as an integer, with no full stop at the end.
+%    \end{parts}
+%    \begin{solution}
+%        Let $f, g$ denote trigonometric functions with $f' = g$, so each equation is of the form $y'(t) + g(t)y(t) = g(t)e^{-f(t)}$. Multiplying through by the integrating factor gives \\ $e^{f(t)}y'(t) + g(t)e^{f(t)}y(t) = g(t)$. The RHS is the derivative of $f(t)$, so we obtain \\ $e^{f(t)}y(t) = f(t) + A$, which gives $y(t) = e^{-f(t)}(f(t) + A)$. The IC gives $A = 0$, and the final step is simply to evaluate $y$ at the given $t$.
+%        \begin{parts}
+%            \part 2
+%            \part 1
+%            \part -2
+%            \part -1
+%        \end{parts}
+%    \end{solution}
+    
+    %%%%%%%% Question 3 %%%%%%%%
+    \newpage    
+    \titledquestion{2nd Order Diff Eq}\label{q:2nd-diffeq}
+    
+    \begin{parts}
+        \part 
+        The function $y(t)$ satisfies $\frac{d^2y}{dt^2}-3\frac{dy}{dt}+2y = 0, y(0) = 0, y(\ln(2)) = -2$. \newline Compute $y(\ln(3))$. Please write your answer as an integer, with no full stop at the end.
+        \part 
+        The function $y(t)$ satisfies $\frac{d^2y}{dt^2}-6\frac{dy}{dt}+8y = 0, y(0) = 0, y(\ln(2)) = -12$. \newline Compute $y(\ln(3))$. Please write your answer as an integer, with no full stop at the end.
+        \part 
+        The function $y(t)$ satisfies $\frac{d^2y}{dt^2}-9\frac{dy}{dt}+18y = 0, y(0) = 0, y(\ln(2)) = -56$. \newline Compute $y(\ln(3))$. Please write your answer as an integer, with no full stop at the end.
+        \part 
+        The function $y(t)$ satisfies $\frac{d^2y}{dt^2}-12\frac{dy}{dt}+32y = 0, y(0) = 0, y(\ln(2)) = -240$. \newline Compute $y(\ln(3))$. Please write your answer as an integer, with no full stop at the end.
+    \end{parts}
+    \begin{solution}
+        The characteristic polynomial has the form $\lambda^2 - 3\lambda\alpha + 2\alpha^2 = (\lambda - \alpha)(\lambda - 2\alpha)$, so the general solution has the form $y(t) = e^{\alpha t}(A + Be^{\alpha t})$. The first IC gives $A = -B$. The second IC gives $A = - B = 1$, so $y(t) = e^{\alpha t}(1 + e^{\alpha t})$. The answer is then of the form $3^\alpha(1 - 3^\alpha)$.
+        \begin{parts}
+            \part $-6$
+            \part $-72$
+            \part $-702$
+            \part $-6480$
+        \end{parts}
+    \end{solution}
+    
+    %%%%%%%% Question 4 %%%%%%%%
+    \newpage
+    \titledquestion{Complex Numbers}\label{q:complex}
+    
+    \begin{parts}
+        \part
+        How many solutions are there to the equation $\bar{z} = z^2$ in the complex numbers? Please write your answer as an integer, with no full stop at the end.
+        \part
+        How many solutions are there to the equation $\bar{z} = z^3$ in the complex numbers? Please write your answer as an integer, with no full stop at the end.
+        \part
+        How many solutions are there to the equation $\bar{z} = z^4$ in the complex numbers? Please write your answer as an integer, with no full stop at the end.
+        \part
+        How many solutions are there to the equation $\bar{z} = z^5$ in the complex numbers? Please write your answer as an integer, with no full stop at the end.
+    \end{parts}
+    \begin{solution}
+        We can take the modulus to obtain $|z| = z^n$, so $|z| = 1$ or $z = 0$. Multiplying the original equation by $z$, we then obtain $z^{n+1} = 1$, which has $n+1$ solutions. Hence, we have $n+2$ total.  
+        \begin{parts}
+            \part 4
+            \part 5
+            \part 6
+            \part 7
+        \end{parts}
+    \end{solution}
+    
+    %%%%%%%% Question 5 %%%%%%%%
+    \newpage
+    \titledquestion{Taylor Series}\label{q:taylor}
+
+    \begin{parts}
+        \part
+        Let $f(x) = \frac{2}{(1-x)^2}$. The Taylor series for $f(x)$ around $x_0 = 0$ is of the form $\sum_{n=0}^\infty a_n x^n$ for some sequence $a_n$. By computing a formula for $a_n$ in terms of $n$, or otherwise, compute $a_{10}$. Please write your answer as an integer, with no full stop at the end.
+        \part
+        Let $f(x) = \frac{3}{(1-x)^2}$. The Taylor series for $f(x)$ around $x_0 = 0$ is of the form $\sum_{n=0}^\infty a_n x^n$ for some sequence $a_n$. Compute a formula for $a_n$, in terms of $n$ and hence compute $a_{10}$. Please write your answer as an integer, with no full stop at the end.
+        \part
+        Let $f(x) = \frac{4}{(1-x)^2}$. The Taylor series for $f(x)$ around $x_0 = 0$ is of the form $\sum_{n=0}^\infty a_n x^n$ for some sequence $a_n$. Compute a formula for $a_n$, in terms of $n$ and hence compute $a_{10}$. Please write your answer as an integer, with no full stop at the end.
+        \part
+        Let $f(x) = \frac{5}{(1-x)^2}$. The Taylor series for $f(x)$ around $x_0 = 0$ is of the form $\sum_{n=0}^\infty a_n x^n$ for some sequence $a_n$. Compute a formula for $a_n$, in terms of $n$ and hence compute $a_{10}$. Please write your answer as an integer, with no full stop at the end.
+    \end{parts}
+    \begin{solution}
+        In the case $f(x) = \frac{c}{(1-x)^2}$, we have $a_n = c(n+1)$.
+        \begin{parts}
+            \part 22
+            \part 33
+            \part 44
+            \part 55
+        \end{parts}
+    \end{solution}
+
+    %%%%%%%% Question 6 %%%%%%%%
+    \newpage
+    \titledquestion{Differential Equation Properties}\label{q:diffeq-props}
+    
+    \begin{parts}
+        \part
+        Consider the differential equation $\frac{dy}{dx} + 10y^2 = e^x$. Which of the following correctly describes this differential equation?
+        \begin{choices}
+            \choice First-order, linear, inhomogeneous, with constant coefficients
+            \correctchoice First-order, non-linear, inhomogeneous, with constant coefficients
+            \choice First-order, non-linear, homogeneous, with constant coefficients
+            \choice First-order, non-linear, inhomogeneous, with non-constant coefficients
+        \end{choices}
+        \part
+        Consider the differential equation $\left(\frac{dy}{dx}\right)^2 + 10y = e^x$. Which of the following correctly describes this differential equation?
+        \begin{choices}
+            \choice First-order, linear, inhomogeneous, with constant coefficients
+            \correctchoice First-order, non-linear, inhomogeneous, with constant coefficients
+            \choice First-order, non-linear, homogeneous, with constant coefficients
+            \choice First-order, non-linear, inhomogeneous, with non-constant coefficients
+        \end{choices}
+        \part
+        Consider the differential equation $\frac{dy}{dx} + 10xy = e^x$. Which of the following correctly describes this differential equation?
+        \begin{choices}
+            \choice First-order, non-linear, inhomogeneous, with non-constant coefficients
+            \correctchoice First-order, linear, inhomogeneous, with non-constant coefficients
+            \choice First-order, linear, homogeneous, with non-constant coefficients
+            \choice First-order, linear, inhomogeneous, with constant coefficients
+        \end{choices}
+        \part
+        Consider the differential equation $x\frac{dy}{dx} + 10y = e^x$. Which of the following correctly describes this differential equation?
+        \begin{choices}
+            \choice First-order, non-linear, inhomogeneous, with non-constant coefficients
+            \correctchoice First-order, linear, inhomogeneous, with non-constant coefficients
+            \choice First-order, linear, homogeneous, with non-constant coefficients
+            \choice First-order, linear, inhomogeneous, with constant coefficients
+        \end{choices}
+    \end{parts}
+\end{questions}
+\end{document}

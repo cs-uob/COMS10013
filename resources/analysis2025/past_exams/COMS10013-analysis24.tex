@@ -1,0 +1,271 @@
+% README:
+%
+% This file is most easily compiled by typing "make", which executes
+% the provided Makefile. Both exam and answer script are generated.
+% By default the Makefile takes exam.tex and produces exam-answers.pdf
+% and exam.pdf.
+%
+% Typing make clean will remove auxiliary generated files.
+%
+% This file can be used as a template for exams. Here is a checklist
+% of things that must be modified:
+
+% TODO:
+% [x] Set \Coms to the course number,      e.g. COMS-12345
+% [x] Set \Name to the course title,       e.g. Imperative Programming
+% [x] Set \Degrees to the degree award,    e.g. Bachelor and Master of Engineering and Bachelor of Science
+% [x] Set \Year to the year of the cohort, e.g. First Year
+% [x] Set \When to the exam period,        e.g. January 2018
+% [x] Set \Time to the exam length,        e.g. 2 Hours
+
+
+\documentclass{uob-cs-exam}
+\newcommand{\Coms}{COMS10013}
+\newcommand{\Name}{Mathematics B}
+\newcommand{\Degrees}{Bachelor of Science and Master of Engineering}
+\newcommand{\Year}{First Year}
+\newcommand{\When}{Summer Exam Period 2024}
+%\newcommand{\Time}{3 Hours}
+
+
+%% Instruct: Standard exam instructions: these will be output only in
+%% the generated exam script.
+%\newcommand{\Instruct}{
+%1. Calculators must have the Faculty of Engineering Seal of Approval.\\
+%2. Students are allowed 1 A4 single side of printed or hand written notes.
+%}
+%% ILO: Intended learning outcomes: these will be output only in the
+%% generated answers.
+\newcommand{\ILO}{}
+%
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{graphicx}
+
+\let\imp=\Rightarrow
+\let\iff=\Leftrightarrow
+\let\xor=\oplus
+
+\newcommand*\firstblankpage{\newpage\thispagestyle{empty} \begin{center}{\sc The following empty pages are provided for you to write on.}\end{center} \addtocounter{page}{-1}}
+
+\newcommand*\blankpage{\newpage\null\thispagestyle{empty}\newpage\addtocounter{page}{-1}}
+
+\usepackage{sansmath}
+
+
+\newcommand{\uu}{{\bf u}}
+\newcommand{\vv}{{\bf v}}
+\newcommand{\ww}{{\bf w}} 
+\newcommand{\xx}{{\bf x}} 
+\newcommand{\zz}{{\bf z}} 
+\newcommand{\bb}{{\bf b}} 
+\newcommand{\nn}{{\bf n}} 
+\newcommand{\pp}{{\bf p}} 
+\newcommand{\dd}{{\bf d}} 
+\newcommand{\yy}{{\bf y}} 
+
+\setlength{\parindent}{0em}
+
+\begin{document}
+%\maketitle
+
+
+\clearpage
+
+
+
+% Analysis
+
+\noindent
+\begin{center}
+    \underline{Section 2: Analysis}
+\end{center}
+
+In this section on Analysis, use the Section 2 Answer Sheet for your answers. There are 8 questions. 
+For multiple choice questions there is only one correct answer.
+\begin{questions}
+\vspace*{2ex}
+
+\vspace*{2ex}
+
+\question[3] Determine which of the following is the derivative of $\frac{\sin x + x}{2 + \cos x}$. Enter your answer by crossing exactly one of the boxes on your answer sheet.
+\begin{itemize}
+\item[a.] $\frac{\cos x + 1}{(2-\sin x)^2}$ 
+\item[b.] $\frac{(\cos x + 1)(2 + \cos x) - (\sin x+x)\sin x}{(2-\sin x)^2}$ 
+\item[c.] $\frac{\cos x + 1}{-\sin x}$ 
+\item[d.] $\frac{\sin x+x}{-\sin x}$ 
+\item[e.] $\frac{(\cos x + 1)(2 + \cos x) + (\sin x+x)\sin x}{(2+\cos x)^2}$ 
+\end{itemize}
+
+\droppoints
+
+\begin{solution}
+Using the product rule and the chain rule
+\begin{align*}
+\frac{d}{dx} \left( \frac{\sin x + x}{2 + \cos x} \right) &= \left( \frac{d}{dx} \left( \sin x + x \right)\right)*(2+\cos x)^{-1} \\
+&+ \left( \frac{d}{dx} (2+\cos x)^{-1}\right)* \left( \sin x + x \right)\\
+&= (\cos x + 1)*(2+\cos x)^{-1} \\
+&+ \sin x (2+\cos x)^{-2} \left( \sin x + x \right)
+\end{align*}
+Hence E is correct.
+\end{solution}
+
+\question[2]
+If $f'(2)=5$, $g(4)=2$, $g(2)=1$, $f(2)=-1$ and $g'(4)=3$, determine the value of $\frac{d}{dx} \left( f(g(x)) \right)$ at the point $x=4$. The answer is an integer between -99 and 99. Enter your answer according to the instructions.
+
+\droppoints
+
+\begin{solution}
+$\frac{d}{dx} \left( f(g(x)) \right) = g'f'(g(x))=g'(4)f'(2)=15$
+\end{solution}
+
+\question[2]
+If $f(x,y)=cos\left( \frac{x}{y} \right)$ determine which of the following is $\nabla f$. Enter your answer by crossing exactly one of the boxes on your answer sheet.
+\begin{itemize}
+\item[a.] $\left( -\frac{1}{y}\sin \frac{x}{y} , \frac{x}{y^2} \sin \frac{x}{y}\right)$
+\item[b.] $\left( -\sin \frac{x}{y} , \frac{1}{y^2} \sin \frac{x}{y}\right)$
+\item[c.] $\left( \sin \frac{x}{y} , -\frac{1}{y^2} \sin \frac{x}{y}\right)$
+\item[d.] $\left( -\frac{x}{y}\sin \frac{x}{y} , \frac{x}{y^2} \sin \frac{x}{y}\right)$
+\item[e.] $\left( \frac{1}{y}\sin \frac{x}{y} , -\frac{x}{y^2} \sin \frac{x}{y}\right)$
+\end{itemize}
+
+\droppoints
+
+\begin{solution}
+a is correct
+\end{solution}
+
+\question[3] 
+Determine the derivative of $f(x,y)$ in the $\left( 3,-4\right)$ direction at the point $\left(\pi, 2 \right)$, rounded to three decimal places. The answer is a real number between $-1$ and $1$. Enter your answer according to the instructions.
+
+\droppoints
+
+\begin{solution}
+\begin{align*}
+  \left\Vert \vec{v} \right\Vert &= \sqrt{3^2+(-4)^2} = 5\\
+  \vec{u} &= \frac{\vec{v}}{\left\Vert \vec{v} \right\Vert} = \left( \frac{3}{5}, -\frac{4}{5}\right)\\
+  \nabla f \cdot \vec{u} &= - \frac{1}{5} \left( \frac{3}{y} + \frac{4x}{y^2}\right) \sin \frac{x}{y}\\
+    \nabla f \cdot \vec{u} \left( \pi, 2 \right) &= - \frac{1}{5} \left( \frac{3}{2} + \frac{4 \pi}{4}\right) \sin \frac{\pi}{2}\\
+    &= -0.92831853071 = 0.928 \textsf{ to three dp}
+\end{align*}
+\end{solution}
+
+\question[5]
+Consider the pair of complex numbers $z_1=10+8i$ and $z_2=\frac{3-(62/3)i}{1-(4/3)i}$.  Determine the answers to the following questions. Enter your answer for each question by crossing exactly one box, labelled $z_1$ or $z_2$, on the answer sheet. The allocation of marks per question is indicated in brackets.
+\begin{itemize}
+\item[A.] Which is closest to the origin? (1 mark)
+\item[B.] Which has rotated by the least amount in absolute terms? (2 marks)
+\item[C.] Which is closest to $z_3 = 1+i$? (2 marks)
+\end{itemize}
+
+\droppoints
+
+\begin{solution}
+Answers: a.$z_2$, b.$z_1$, c.$z_1$ 
+
+\begin{align*}
+  \frac{3-(62/3)i}{1-(4/3)i} * \frac{1+(4/3)i}{1+(4/3)i} = 11-6i\\
+  |z_1|=\sqrt{10^2 + 8^2}=12.81\\
+  |z_2|=\sqrt{11^2 + 6^2}=12.53\\
+  \textsf{Hence } z_2 \textsf{ is closer to the origin.}\\
+  arg(z_1) = \tan^{-1} \left(\frac{8}{10}\right) = 0.675\\
+  arg(z_2) = \tan^{-1} \left(\frac{11}{-6}\right) = -1.071\\
+  \textsf{Hence } z_1 \textsf{ has rotated the least.}\\
+  |z_1 - z_3|=\sqrt{9^2+7^2}=\sqrt{130}\\
+  |z_2 - z_3|=\sqrt{10^2+(-6)^2}=\sqrt{136}\\
+  \textsf{Hence } z_1 \textsf{ is closest to } z_3.\\
+\end{align*}
+
+\end{solution}
+
+\question[2]
+For the 1st order ordinary differential equations (ODE) 1-5 below, classify them according to the following terms: 
+\begin{itemize}
+\item[A.] Order, a natural number.
+\item[B.] Linear or non-linear.
+\item[C.] Homogeneous or non-homogeneous. 
+\item[D.] Has constant coefficients or does not have constant coefficients.
+\end{itemize}
+\begin{enumerate}
+\item $y' - e^xy+7=0$
+\item $y' - e^xy =0$
+\item $3y'' - 2y' =3$
+\item $2 \frac{d^3y}{dx^3} + \cos x \frac{dy}{dx} = 0$
+\item $2 \frac{d^5y}{dx^5} + \cos y \frac{d^3y}{dx^3} = 0$
+\end{enumerate}
+Enter your answers as follows. For each of the 5 equations, cross exactly one of the boxes in the first table, in the column representing the order of the equation. Then, cross all that apply in the second table, where L stands for linear, H stands for homogeneous, and C stands for constant coefficients.
+
+\droppoints
+
+\begin{solution}
+Answers:
+\begin{enumerate}
+\item 1,1,2,2
+\item  1,1,1,2
+\item  2,1,2,1
+\item  3,1,1,2
+\item  3,2,1,2
+\end{enumerate}
+\end{solution}
+
+
+%\question[3]
+%Using the integrating factor method, or otherwise, solve the following 1st order ODE:
+%
+%\begin{align*}
+%  \frac{dy}{dt} + \frac{y}{t+2} = 1 ,
+%\end{align*}
+%subject to the initial condition, $y(2)=2$. Determine the value of $y(10)$. The answer is an integer between -99 and 99. Enter your answer according to the instructions.
+
+%\droppoints
+
+%\begin{solution}
+%Answer: $y(10)=6$\\
+%Solution:\\
+%\begin{align*}
+%  IF=e^{\int \frac{1}{t+2}} &= e^{\log{(t+2)}=t+2} ,\\
+%  \frac{d}{dx} \left(y(t+2)\right) &= (t+2)\\
+%  \left(y(t+2)\right) &= \int (t+2) dt\\
+%  &= \frac{t^2}{2} + 2t + c
+%  y &= \frac{t^2}{2(t+2)} + \frac{2t}{(t+2)} + \frac{c}{(t+2)}\\
+%  y(2) &=2 \implies c=2 \\
+%  y &= \frac{t+2}{2}  \\
+%  y(10)=\frac{12}{2}=6
+%\end{align*}
+%\end{solution}
+
+%\vspace{2ex}
+
+
+\question[5]
+The function $y(t)$ satisfies the 2nd order ODE $\frac{d^2y}{dt^2} -2\frac{dy}{dt} +2=0$ with $y(0)=1$ and $y\left( \frac{\pi}{4} \right) = \frac{1}{\sqrt{2}}e^{\frac{\pi}{4}}$.
+Given that $\left( y \left( \frac{\pi}{3} \right)\right)^3 = \frac{1}{A}e^{B \pi}$, determine the values of $A$ and $B$. The answers are integers between -99 and 99. Enter your answers according to the instructions.
+
+\droppoints
+
+\begin{solution}
+Answer: $A=8$, $B=1$\\
+Solution:\\
+\begin{align*}
+  r^2-2r+2 &= 0, \\
+  \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} &= 1 \pm i, \\
+  y(t) &= e^t \left(M \cos t + N \sin t \right), \\
+  y(0) &= 1 = M, \\
+  y(\pi / 4) &= e^{\pi / 4} \left( \frac{1}{\sqrt{2}} + N \frac{1}{\sqrt{2}}\right) = \frac{1}{\sqrt{2}}e^{\frac{\pi}{4}} \implies N=0 \\
+  y(t) &= e^t \cos t \\
+  y(\pi / 3) &= e^{\pi / 3} / 2 \\
+  \left( y(\pi / 3) \right)^3 &= e^\pi / 8
+\end{align*}
+\end{solution}
+
+\vspace{5ex}
+% Statistics
+
+
+
+\end{questions}
+
+\begin{center}END OF QUESTIONS\end{center}
+
+
+\end{document}
