@@ -4,7 +4,7 @@ Your main learning on this unit will happen in twice-weekly workshops where you 
 
 We expect you to prepare for each workshop by attending the lectures and reading the lecture notes (in any order you prefer). In the workshop itself, you will work on a problem sheet, and sample solutions will usually be provided a few days later.
 
-  - The workshops are **mandatory** and we will take attendance with card readers in each one, so you must bring your UCard along and sign in at the start of each workshop. We expect all students to attend **19 out of 20 workshops**, we do not mind if you miss one in total across the entire unit. 
+  - The workshops are **mandatory** and we expect all students to attend **19 out of 20 workshops**, we do not mind if you miss one in total across the entire unit. 
 
   - Although lectures are "highly recommended", we do not enforce attendance there, and you cannot use attendance at lectures to compensate for missed workshops.
 
@@ -17,28 +17,13 @@ This is the official wording of the attendance hurdles, as agreed with the schoo
 > Attending at least 75% of the labs/workshops and engaging with the lab work is a "must pass" hurdle for this unit.  
 >
 > The details are: 
->   - There are 20 mandatory lab/workshops, two each in weeks 1-5 and 7-11.
+>   - There are 20 mandatory lab/workshops, two each in weeks 13-17 and 19-23.
 >   - If you are unwell, you can self-certify your absence using the following form: [Notication of absence form COMS1012, COMS10013 and COMS10014](https://forms.office.com/e/vu0sJdZPCkor) or by emailing coms-student-enquiries@bristol.ac.uk, then the lab/workshop counts as attended.
 >  - The hurdle is set at 75% which is 15 out of 20 workshops.
 > 
 > If for any reason we need to cancel a workshop, then we will give attendance for everyone involved.  A workshop is only cancelled if we announce that officially on the unit page and on Teams.
 > 
-> We will take attendance in Maths A using UCard sign-ins, but we may use other means if necessary.
-
-
-## Attendance Hurdle
-
-This unit has an attendance hurdle, as specified in the unit catalogue, that **you must attend at least 75% of all workshops (15 out of 20) otherwise you automatically fail the unit**. Since the hurdle is lower than the 19 workshops we expect you to attend, you will get no sympathy if you attend only 14 and argue that you almost met the hurdle, as you did not come close to the expected 19.
-
-You get attendance for a workshop by signing in with your UCard. This implies that you must bring your card with you - but _you should have your card with you at all times on campus_ anyway, so this is not a problem.
-
-Some workshops are in-class tests. For these, you get attendance by 
-  - signing in with your UCard at the start of the test, and
-  - completing the test and handing in your answer sheet.
-  
-It does not matter how well or badly you do on the test - you do not need to pass the test to get attendance - as long as you have made a reasonable attempt.
-
-The card sign-ins for workshops (both normal and class test ones) are a separate system from any other sign-ins you might do using phone apps, PIN codes or swiping your card on the entrance door of the building; those all have their function (such as visa monitoring for overseas students) but for the purpose of the attendance hurdle, only card sign-ins done in the workshops count.
+> Attendance will be recorded using one of several different methods - you will be informed at the start of the unit.
 
 ## Authorised Absences
 
@@ -58,3 +43,4 @@ If you miss more than one workshop without self-certifying, your tutor will be i
 In past years, there have been cases where missing attendance hurdles was one of several factors that led to students being required to withdraw from the university without a degree. These were extreme cases (and the students involved also failed other units), but they do show that we take the hurdle seriously.
 
 _If you are struggling with the unit or the course for any reason, you must inform your personal tutor as soon as possible. On no account should you think "I've fallen behind - so I'll stop going to the workshops"; that leads to falling further behind and usually to failing the year._
+
