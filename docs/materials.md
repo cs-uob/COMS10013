@@ -2,24 +2,24 @@
 
 The unit runs in the same way as Maths A. It consists of in-person lectures, in-person workshops and problem sheets, supplemented by lecture slides and in some cases, lecture notes. Taking the unit involves attending the in-person lectures and reading the associated lecture notes (if available) before coming to the workshops to work on problem sheets. Attendance at the workshops is mandatory and will be recorded (see [Workshops and Attendance Hurdles](https://cs-uob.github.io/COMS10013/workshops.html)). You can also prepare by looking at the problem sheets before coming to the workshop. After the workshops, you can check your solutions against the sample solutions made available on this web page.
 
-The aim of the workshops is for you to gain a better understanding on the material covered in lectures by using it to tackle problems. During each workshop you will work on a problem sheet relevant to the previous lecture. Your objective should be to either complete the problem sheet or gain sufficient understanding to complete it in your won time, working with your peers and with help from the Lecturer and Teaching Assistants. You will gain a lot by discussing problems, explaining solutions to others and asking questions when you don't understand something. The more proactive you are in workshops, the more you are likely to gain. Some of the workshops will begin with a summary of the material relevant to the workshop, highlighting the key concepts and techniques. You will get the most out of this and the workshop as a whole if you have first prepared by studying lecture slides and notes if available.
+The aim of the workshops is for you to gain a better understanding on the material covered in lectures by using it to tackle problems. During each workshop you will work on a problem sheet relevant to the previous lecture. Your objective should be to either complete the problem sheet or gain sufficient understanding to complete it in your own time, working with your peers and with help from the Lecturer and Teaching Assistants. You will gain a lot by discussing problems, explaining solutions to others and asking questions when you don't understand something. The more proactive you are in workshops, the more you are likely to gain. Some of the workshops will begin with a summary of the material relevant to the workshop, highlighting the key concepts and techniques. You will get the most out of this and the workshop as a whole if you have first prepared by studying lecture slides and notes if available.
 
 Please try to come to the workshops prepared - having good access to lecture slides and notes is essential, either on a laptop or printed out. Viewing on phones tends not to be particularly effective given the size of the screen. Also, don't forget a pencil/pen and paper.
 
 There is also a help desk available each week - see your timetable for times - and please make good use of this if you are struggling with understanding the material and/or completing the problem sheets.
 
-For AY 2024/25, the lectures, workshops and help desk are as follows:
+For AY 2025/26, the lectures, workshops and help desk are as follows:
 
-Lecture 1: Monday 12:00-13:00 QB 1.40 Pugsley<br>
+Lecture 1: Monday 14:00-15:00 QB 1.40 Pugsley<br>
 Workshop 1: Tuesday 13:00-15:00 QB F101a Bill Brown<br>
-Lecture 2: Wednesday 12:00-13:00 QB 1.40 Pugsley<br>
+Lecture 2: Wednesday 09:00-10:00 QB 1.40 Pugsley<br>
 Workshop 2: Thursday 13:00-15:00 QB F101a Bill Brown<br>
-Help desk: Thursday 15:00-16:00 QB 1.06<br>
+Help desk: Friday 10:00-11:00 QB 1.07<br>
 <br>
 
 ## Linear Algebra (Weeks 13-17)
 
-For Linear Algebra, there are two topics per week, labelled A and B below. For each topic there is one lecture, one problem sheet and one workshop. There are also course notes, although these may span two topics in some cases. Apart from Week 13, there are two workshops per week (labelled 1 and 2 below) - please see your timetable for times of lectures and workshops. Note that workshops happen on the day after the relevant lecture and you should use that time to digest the material and prepare for the workshop.
+For Linear Algebra, there are two topics per week, labelled A and B below. For each topic there is one lecture, one problem sheet and one workshop. There are also course notes, although these may span two topics in some cases. There are two workshops per week (labelled 1 and 2 below) - please see above and your timetable for times of lectures and workshops. Note that workshops happen on the day after the relevant lecture and you should use that time to digest the material and prepare for the workshop. Materials will be released at the end of the week prior to the associated lectures and workshops.
 <br>
 
 <!--
@@ -30,11 +30,11 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
 <!--
   * [Video lecture - Stream](https://web.microsoftstream.com/video/7056809a-5e34-40e4-bd79-0a82a140f203)
 -->
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides.pdf)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides_6up.pdf)
-  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_notes.pdf)
-  * [Problem Sheet 1](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet.pdf) - workshop 1, week 13.
-  * [Problem Sheet 1 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet_ans.pdf)
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides.pdf)
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides_6up.pdf)
+  * [Course notes](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_notes.pdf)
+  * [Problem Sheet 1](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet.pdf) - workshop 1, week 13.
+  * [Problem Sheet 1 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet_ans.pdf)
 
 <!--
  * [Live problem class week 13 recording - Stream](https://web.microsoftstream.com/video/e5e1d7c9-01e8-413b-845b-1e06cda594aa)
@@ -50,103 +50,114 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [Problem Sheet 2](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet.pdf) - workshop 2, week 13.
   * [Problem Sheet 2 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet_ans.pdf)
 
+<!--
 ### Week 14 - A: Vector Spaces, Span and Bases
-
+-->
 <!--
   * [Video lecture - Stream](https://web.microsoftstream.com/video/8d926032-b718-48e1-bb8c-d98a70dd75d5)
 -->
+<!--
   * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec1_slides.pdf)
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec1_slides_6up.pdf)
   * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_notes.pdf)
   * [Problem Sheet 3](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet1.pdf) - workshop 2, week 14
   * [Problem Sheet 3 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet1_ans.pdf)
-
+-->
 <!--
   * [Live problem class week 14 recording - Stream](https://web.microsoftstream.com/video/e63f27ce-4acb-4dae-8709-f60bf877c480)
 -->
-
+<!--
 ### Week 14 - B: Orthonormal Bases and Subspace Projections
+-->
 <!--
   * [Video lecture - Stream](https://web.microsoftstream.com/video/fc3440c2-e4c2-43cb-87be-38054fae176b)
 -->
+<!--
   * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec2_slides.pdf)
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec2_slides_6up.pdf)
   * Course notes - see notes for previous topic.
   * [Problem Sheet 4](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet2.pdf) - workshop 1, week 15
   * [Problem Sheet 4 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet2_ans.pdf)
-
+-->
+<!--
 ### Week 15 - A: Matrices
+-->
 <!--
   * [Video lecture - Stream](https://web.microsoftstream.com/video/2d091ab9-8c61-41c3-ae52-0d63a0145251)
-  * [Video lecture - Stream](https://web.microsoftstream.com/video/2d091ab9-8c61-41c3-ae52-0d63a0145251)
 -->
-
+<!--
   * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_lec_slides.pdf)
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_lec_slides_6up.pdf)
   * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_notes.pdf)
   * [Problem Sheet 5](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_probsheet.pdf) - workshop 2, week 15
   * [Problem Sheet 5 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_probsheet_ans.pdf)
-
+-->
 <!--
  * [Live problem class week 15 recording - Stream](https://web.microsoftstream.com/video/e4dad0bc-46cb-4040-b85c-94ae17d20478)
 -->
 
+<!--
 ### Week 15 - B: Linear Systems and Matrices
-
+-->
 <!--
   * [Video lecture - Stream](https://web.microsoftstream.com/video/70aa5141-7aab-43f9-bec1-3f7e88119606
 -->
-
+<!--
   * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_lec_slides.pdf)
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_lec_slides_6up.pdf)
   * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_notes.pdf)
   * [Problem Sheet 6](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_probsheet.pdf) - workshop 1, week 16
   * [Problem Sheet 6 with Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_probsheet_ans.pdf)
+-->
 
+<!--
 ### Week 16 - A: Solving Linear Systems and Inverting Matrices
-
+-->
 <!--
   * [Video lecture - Stream](https://web.microsoftstream.com/video/4a53e611-dc1e-4c11-a8b6-1ec0146f48e3)
 -->
-
+<!--
   * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_lec_slides.pdf)
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_lec_slides_6up.pdf)
   * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_notes.pdf)
   * [Problem Sheet 7](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_probsheet.pdf) - workshop 2, week 16
   * [Problem Sheet 7 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_invm_probsheet_ans.pdf)
-
+-->
 <!--
   * [Live problem class week 16 recording - Stream](https://web.microsoftstream.com/video/310a048d-5f43-4e20-b91f-ee9f796dcbc2)
 -->
-
+<!--
 ### Week 16 - B: Eigenvalues and Eigenvectors I
-
+-->
 <!--
   * [Video lecture - Stream](https://web.microsoftstream.com/video/9d2710ec-3c75-4d76-9cf1-11100e20e6b7)
 -->
-
+<!--
   * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec1_slides.pdf)
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec1_slides_6up.pdf)
   * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_notes.pdf)
   * [Problem Sheet 8](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_1.pdf) - workshop 1, week 17
   * [Problem Sheet 8 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_1_ans.pdf)
+-->
 
-
+<!--
 ### Week 17 - A: Eigenvalues and Eigenvectors II
-
+-->
 <!--
   * [Video lecture - Stream](https://web.microsoftstream.com/video/8669c553-bb9e-4a11-9c14-de28adf2d8e2)
 -->
+<!--
   * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec2_slides.pdf)
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec2_slides_6up.pdf)
   * Course notes - see above notes for Eigenvalues and Eigenvectors I.
   * [Problem Sheet 9](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_2.pdf) - workshop 2, week 17
   * [Problem Sheet 9 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_2_ans.pdf)
-
+-->
 <!--
   * [Live problem class week 17 recording - Stream](https://web.microsoftstream.com/video/4aad87d7-8ed7-49c1-8aa9-c119a1d13707)
 -->
 
+<!--
 ### Past exam questions and solutions for Linear Algebra
 
   * [2021 - exam questions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2021.pdf?csf=1&web=1&e=EfhnZd)
@@ -157,6 +168,7 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [2023 - exam solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2023-solutions.pdf?csf=1&web=1&e=yiqMOO)
   * [2024 - exam questions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2024.pdf?csf=1&web=1&e=3lvHT8)
   * [2024 - exam solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2024-solutions.pdf?csf=1&web=1&e=yiqMOO)
+-->
 
 ## Reading Week
 
@@ -372,3 +384,4 @@ If you take units in areas that use statistics directly - particularly Machine L
 If you run your own research and report statistics (e.g. in the evaluation section of your thesis), then you have an ethical responsibility to apply a certain amount of critical thinking to your own results too, as well as using best practice in your research area (such as publishing your code and datasets for other researchers to study and replicate, and not misinterpreting your own p-values). Your thesis markers are likely to be looking for this too.
 
 -->
+
