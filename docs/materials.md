@@ -44,11 +44,11 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
 <!--
   * [Video lecture - Stream](https://web.microsoftstream.com/video/d2f9d829-90eb-4fed-a1ca-01097ac8379a)
 -->
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides.pdf) 
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides_6up.pdf) 
-  * [Course notes](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_notes.pdf)
-  * [Problem Sheet 2](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet.pdf) - workshop 2, week 13.
-  * [Problem Sheet 2 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet_ans.pdf)
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides.pdf) 
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides_6up.pdf) 
+  * [Course notes](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_notes.pdf)
+  * [Problem Sheet 2](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet.pdf) - workshop 2, week 13.
+  * [Problem Sheet 2 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_probsheet_ans.pdf)
 
 <!--
 ### Week 14 - A: Vector Spaces, Span and Bases
@@ -384,4 +384,5 @@ If you take units in areas that use statistics directly - particularly Machine L
 If you run your own research and report statistics (e.g. in the evaluation section of your thesis), then you have an ethical responsibility to apply a certain amount of critical thinking to your own results too, as well as using best practice in your research area (such as publishing your code and datasets for other researchers to study and replicate, and not misinterpreting your own p-values). Your thesis markers are likely to be looking for this too.
 
 -->
+
 
