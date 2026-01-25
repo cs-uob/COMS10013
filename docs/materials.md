@@ -27,9 +27,7 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
 -->
 
 ### Week 13 - A: Vectors and the Dot Product
-<!--
-  * [Video lecture - Stream](https://web.microsoftstream.com/video/7056809a-5e34-40e4-bd79-0a82a140f203)
--->
+
   * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides.pdf)
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides_6up.pdf)
   * [Course notes](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_notes.pdf)
@@ -41,9 +39,7 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
 -->
 
 ### Week 13 - B: Geometry and Vectors
-<!--
-  * [Video lecture - Stream](https://web.microsoftstream.com/video/d2f9d829-90eb-4fed-a1ca-01097ac8379a)
--->
+
   * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides.pdf) 
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_slides_6up.pdf) 
   * [Course notes](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_geometry_notes.pdf)
@@ -54,35 +50,24 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [MCQ Test](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/wk_mcq_wk1_vec_geom.pdf)
   * [MCQ Test with solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/wk_mcq_wk1_vec_geom-answers.pdf)
 
-<!--
+
 ### Week 14 - A: Vector Spaces, Span and Bases
--->
-<!--
-  * [Video lecture - Stream](https://web.microsoftstream.com/video/8d926032-b718-48e1-bb8c-d98a70dd75d5)
--->
-<!--
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec1_slides.pdf)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec1_slides_6up.pdf)
-  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_notes.pdf)
-  * [Problem Sheet 3](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet1.pdf) - workshop 2, week 14
-  * [Problem Sheet 3 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet1_ans.pdf)
--->
-<!--
-  * [Live problem class week 14 recording - Stream](https://web.microsoftstream.com/video/e63f27ce-4acb-4dae-8709-f60bf877c480)
--->
-<!--
+
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec1_slides.pdf)
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec1_slides_6up.pdf)
+  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_notes.pdf)
+  * [Problem Sheet 3](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet1.pdf) - workshop 2, week 14
+  * [Problem Sheet 3 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet1_ans.pdf)
+
+
 ### Week 14 - B: Orthonormal Bases and Subspace Projections
--->
-<!--
-  * [Video lecture - Stream](https://web.microsoftstream.com/video/fc3440c2-e4c2-43cb-87be-38054fae176b)
--->
-<!--
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec2_slides.pdf)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec2_slides_6up.pdf)
+
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec2_slides.pdf)
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_lec2_slides_6up.pdf)
   * Course notes - see notes for previous topic.
-  * [Problem Sheet 4](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet2.pdf) - workshop 1, week 15
-  * [Problem Sheet 4 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet2_ans.pdf)
--->
+  * [Problem Sheet 4](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet2.pdf) - workshop 1, week 15
+  * [Problem Sheet 4 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet2_ans.pdf)
+
 <!--
 ### Week 15 - A: Matrices
 -->
@@ -388,6 +373,7 @@ If you take units in areas that use statistics directly - particularly Machine L
 If you run your own research and report statistics (e.g. in the evaluation section of your thesis), then you have an ethical responsibility to apply a certain amount of critical thinking to your own results too, as well as using best practice in your research area (such as publishing your code and datasets for other researchers to study and replicate, and not misinterpreting your own p-values). Your thesis markers are likely to be looking for this too.
 
 -->
+
 
 
 
