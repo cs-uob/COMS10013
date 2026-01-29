@@ -68,6 +68,11 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [Problem Sheet 4](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet2.pdf) - workshop 1, week 15
   * [Problem Sheet 4 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_vecspaces_probsheet2_ans.pdf)
 
+### Week 14 - Weekly MCQ test
+  * [MCQ Test](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/wk_mcq_wk2_vecspaces_bases.pdf)
+  * [MCQ Test with solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/wk_mcq_wk2_vecspaces_bases-answers.pdf)
+
+
 <!--
 ### Week 15 - A: Matrices
 -->
@@ -373,6 +378,7 @@ If you take units in areas that use statistics directly - particularly Machine L
 If you run your own research and report statistics (e.g. in the evaluation section of your thesis), then you have an ethical responsibility to apply a certain amount of critical thinking to your own results too, as well as using best practice in your research area (such as publishing your code and datasets for other researchers to study and replicate, and not misinterpreting your own p-values). Your thesis markers are likely to be looking for this too.
 
 -->
+
 
 
 
