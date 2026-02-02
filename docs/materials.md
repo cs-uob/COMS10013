@@ -73,36 +73,22 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [MCQ Test with solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/wk_mcq_wk2_vecspaces_bases-answers.pdf)
 
 
-<!--
 ### Week 15 - A: Matrices
--->
-<!--
-  * [Video lecture - Stream](https://web.microsoftstream.com/video/2d091ab9-8c61-41c3-ae52-0d63a0145251)
--->
-<!--
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_lec_slides.pdf)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_lec_slides_6up.pdf)
-  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_notes.pdf)
-  * [Problem Sheet 5](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_probsheet.pdf) - workshop 2, week 15
-  * [Problem Sheet 5 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_probsheet_ans.pdf)
--->
-<!--
- * [Live problem class week 15 recording - Stream](https://web.microsoftstream.com/video/e4dad0bc-46cb-4040-b85c-94ae17d20478)
--->
 
-<!--
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_lec_slides.pdf)
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_lec_slides_6up.pdf)
+  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_notes.pdf)
+  * [Problem Sheet 5](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_probsheet.pdf) - workshop 2, week 15
+  * [Problem Sheet 5 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_mats_probsheet_ans.pdf)
+
 ### Week 15 - B: Linear Systems and Matrices
--->
-<!--
-  * [Video lecture - Stream](https://web.microsoftstream.com/video/70aa5141-7aab-43f9-bec1-3f7e88119606
--->
-<!--
-  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_lec_slides.pdf)
-  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_lec_slides_6up.pdf)
-  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_notes.pdf)
-  * [Problem Sheet 6](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_probsheet.pdf) - workshop 1, week 16
-  * [Problem Sheet 6 with Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_probsheet_ans.pdf)
--->
+
+  * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_lec_slides.pdf)
+  * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_lec_slides_6up.pdf)
+  * [Course notes pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_notes.pdf)
+  * [Problem Sheet 6](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_probsheet.pdf) - workshop 1, week 16
+  * [Problem Sheet 6 with Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_linsys_probsheet_ans.pdf)
+
 
 <!--
 ### Week 16 - A: Solving Linear Systems and Inverting Matrices
@@ -378,6 +364,7 @@ If you take units in areas that use statistics directly - particularly Machine L
 If you run your own research and report statistics (e.g. in the evaluation section of your thesis), then you have an ethical responsibility to apply a certain amount of critical thinking to your own results too, as well as using best practice in your research area (such as publishing your code and datasets for other researchers to study and replicate, and not misinterpreting your own p-values). Your thesis markers are likely to be looking for this too.
 
 -->
+
 
 
 
