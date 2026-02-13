@@ -110,6 +110,10 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [Problem Sheet 8](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_1.pdf) - workshop 1, week 17
   * [Problem Sheet 8 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_1_ans.pdf)
 
+### Week 16 - Weekly MCQ test
+  * [MCQ Test](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/wk_mcq_wk4_invm_eigen1.pdf)
+  * [MCQ Test with solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/wk_mcq_wk4_invm_eigen1-answers.pdf)
+
 
 ### Week 17 - A: Eigenvalues and Eigenvectors II
 
@@ -346,6 +350,7 @@ If you take units in areas that use statistics directly - particularly Machine L
 If you run your own research and report statistics (e.g. in the evaluation section of your thesis), then you have an ethical responsibility to apply a certain amount of critical thinking to your own results too, as well as using best practice in your research area (such as publishing your code and datasets for other researchers to study and replicate, and not misinterpreting your own p-values). Your thesis markers are likely to be looking for this too.
 
 -->
+
 
 
 
