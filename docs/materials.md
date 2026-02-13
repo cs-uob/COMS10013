@@ -111,22 +111,13 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [Problem Sheet 8 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_1_ans.pdf)
 
 
-<!--
 ### Week 17 - A: Eigenvalues and Eigenvectors II
--->
-<!--
-  * [Video lecture - Stream](https://web.microsoftstream.com/video/8669c553-bb9e-4a11-9c14-de28adf2d8e2)
--->
-<!--
+
   * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec2_slides.pdf)
   * [Slides - 6up print out pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_lec2_slides_6up.pdf)
   * Course notes - see above notes for Eigenvalues and Eigenvectors I.
   * [Problem Sheet 9](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_2.pdf) - workshop 2, week 17
   * [Problem Sheet 9 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2024-25-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_2_ans.pdf)
--->
-<!--
-  * [Live problem class week 17 recording - Stream](https://web.microsoftstream.com/video/4aad87d7-8ed7-49c1-8aa9-c119a1d13707)
--->
 
 <!--
 ### Past exam questions and solutions for Linear Algebra
@@ -355,6 +346,7 @@ If you take units in areas that use statistics directly - particularly Machine L
 If you run your own research and report statistics (e.g. in the evaluation section of your thesis), then you have an ethical responsibility to apply a certain amount of critical thinking to your own results too, as well as using best practice in your research area (such as publishing your code and datasets for other researchers to study and replicate, and not misinterpreting your own p-values). Your thesis markers are likely to be looking for this too.
 
 -->
+
 
 
 
