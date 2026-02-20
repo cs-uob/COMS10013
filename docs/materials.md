@@ -123,6 +123,11 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [Problem Sheet 9](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_2.pdf) - workshop 2, week 17
   * [Problem Sheet 9 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_eig_probsheet_2_ans.pdf)
 
+### Week 17 - Mock exam
+  * [Mock exam](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB-LA-mock-202526.pdf)
+  * [Mock exam with solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB-LA-mock-202526-answers.pdf)
+
+
 <!--
 ### Past exam questions and solutions for Linear Algebra
 
@@ -350,6 +355,7 @@ If you take units in areas that use statistics directly - particularly Machine L
 If you run your own research and report statistics (e.g. in the evaluation section of your thesis), then you have an ethical responsibility to apply a certain amount of critical thinking to your own results too, as well as using best practice in your research area (such as publishing your code and datasets for other researchers to study and replicate, and not misinterpreting your own p-values). Your thesis markers are likely to be looking for this too.
 
 -->
+
 
 
 
