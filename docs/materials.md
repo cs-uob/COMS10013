@@ -147,9 +147,12 @@ Week 18 is reading week. There are no workshops and no new materials.
 
 ## Analysis (Weeks 19 - 21)
 
+### Week 19 - A : Differentiation Review
+
+## Statistics (Weeks 22 - 23)
+
 <!--
 
-### Week 19 - Infinitessimals, limits and extrema
 This week we will learn some of the foundations of calculus in one and many dimensions.
 
   * [Video lecture - Stream](https://web.microsoftstream.com/video/7056809a-5e34-40e4-bd79-0a82a140f203)
@@ -163,7 +166,6 @@ This week we will learn some of the foundations of calculus in one and many dime
   * [Worksheet 1 more Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet1/moreSolutions1.pdf)
   * [Worksheet 2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet2/worksheet2.pdf)
   * [Worksheet 2 Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet2/solutions2.pdf)
-
 ### Week 20 - Taylor series, complex numbers and Differential equations
 This week we will learn about Taylor series and solve some differential equations.
 
@@ -202,56 +204,7 @@ A selection of example exam questions with solutions.
 
 -->
 
-## Statistics (Weeks 22 - 23)
-
-
 <!--
-### Week 19, Monday 7 March: Analysis I
-
-* [Video Lecture (a) - Stream](https://web.microsoftstream.com/video/4b38d7fb-6794-406d-b98a-433b9b0d8e37)
-* [Video Lecture (b) - Stream](https://web.microsoftstream.com/video/d4757347-fdb6-42f6-ad4c-cf7eab7a6985)
-* [Course Notes pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EfiTbl4ZO5VAg0cPs5UmuXYB0XOnbUL5-LloH6d-EXt8dw?e=IUThvX)
-* [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EeNOw0iHcc9DmZIksflqFnABf8BMoyaCYV_S7hOzXuQpoQ?e=EuA8c5)
-* [Worksheet solutions pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EZZ5bpOizuxMslvIHV65BU8B0R2JfdMt1HcXGLcE3o7mvw?e=x3bC0I)
-
-### Week 19, Thursday 10 March: Analysis II
-
-* [Video Lecture (a) - Stream](https://web.microsoftstream.com/video/c9a216ee-2ee2-496c-9819-ccd67172b959)
-* [Video Lecture (b) - Stream](https://web.microsoftstream.com/video/68a8a4f9-edcc-411a-b29c-edbec2e54078)
-* [Course Notes (a) pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/Ed3zSPHybzVGk30dAGeLiCQBlff7PLcnKX8BtWGBEZiwlg)
-* [Course Notes (b) pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EWN3qDpD5DBEndpen_vMHrwBaLB9gXUER76ogTZ6XpcJvA)
-* [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EUpJBFKpRXlJqiPem2AjK9EBcBmS8agDh6HfGanTYQkvPw)
-* [Worksheet solutions pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EVd6ERIndfJIjP-eDrrODcUBF1Zs0tJ6B5avJWS35DMJHw)
-
-### Week 20, Monday 14 March: Complex Numbers
-
-* [Video Lecture - Stream](https://web.microsoftstream.com/video/9cf32823-2bbb-4ec9-87af-b9ebaf9157ca)
-* Pictures of the blackboard [1](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EXWR84rme3NIhz_buAsQ9JEBPR-jQQJluAQunJmmZlkgfA), [2](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EYmfZJURpbtBuiVC0D0DiBcBp2YLjf_dRWgqP_LoldfuYA), [3](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/ERggWMX60dFKiXK7-apu5z4BWF9UaMd2YJaN6nP6QMacbA)
-* [Course Notes pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EZIrvoaa_ORNh8pGvOQlg20BBPpIjrZynYTdh7rGnivK-w?e=FhHzkf)
-* [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EeQSKjanfhRChFMaSZOnQ7wB1Ye6KHu2D1RSjpqU7RNxEw)
-* [Worksheet solutions pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EaM1XvSzY_NAqCG2pAfa1MIBHjpIgWKj7KmR2oVPYsytTA)
-
-### Week 20, Thursday 17 March: Differential Equations I
-
-* [Video Lecture - Stream](https://web.microsoftstream.com/video/cb212590-9c93-44a3-9c32-fe0bfec689cc)
-* Pictures of the blackboard [1](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EeJE7DhEu3REicygOE12Q6YBYMMw4ipeNcV07geVbgMbpA), [2](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/Ec92Td24iw5HlVFxzc37ohgBDXzEKLqgwxewOhh6BqvLdQ), [3](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/Edfu2_5mroNJs2nbLA95jBABudDbCdpHFTTJ7pGUkVzFkg).
-* [Course Notes pdf - written by David Bernhard](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/Efq15O-A9kBLvsuLVvWhd6YBVIZ7raW4FYHsCwAE1wSgew) - these notes also cover the content in week 21.
-* [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EXULvvOnAypLrYdYy8BEeccBphaK6lP703OW-yd_hkkAFQ)
-* [Worksheet solutions pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EVXXM5xIUIhBsp_F7rSZre0BUV_xz8bszHGi14J_p7kFhw)
-
-### Week 21, Monday 21 March: Differential Equations II
-
-* [Video Lecture part (a) - Stream](https://web.microsoftstream.com/video/09659896-900c-420d-8567-88baa515458f)
-* [Video Lecture part (b) - Stream](https://web.microsoftstream.com/video/d266e30d-388d-4a32-9a12-65fcf8da8e40)
-* Pictures of the blackboard [1](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EfRXdBtN3WJEt-Gn30bjexIBPcmVRzAUt8VMnAVA-eZ0Fw), [2](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EdCr4_4n7ORIu-7-etFoYGwBE2KVBLeBqCMcgCKCJIoOZA), [3](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EQXasDwGLJRBlu1WG_YiPp8BZT1B29GGmK0_dp_Mso5qMQ), [4](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/ET2mZaqGh5pHkCj8ccj3whUBPav4yOPHeECqRl8sW5YpZw), [5](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EVq-M7uRP29IpgpRzhw45hwBd6lgPP6sb8VDFTu0oJVH5A), [6](https://uob-my.sharepoint.com/:i:/g/personal/ul19594_bristol_ac_uk/EVtwdRQ_9RBPnYfSVBXt61QBx2a6pUyqTTsAg3ziSI_0lw)
-* [Worksheet pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EWdlrktqm7xPjKuXk3TYK7gBaQCBS7W6wL_RsVs3cZGlkg)
-* [Worksheet solutions pdf](https://uob-my.sharepoint.com/:b:/g/personal/ul19594_bristol_ac_uk/EWUgkwrnphRMmth9KJb65kUBFb09xRJf08Pllmqmi88KFA)
-
-
-## Statistics (Week 21-23)
-
-
-
 The Teams folder with slides and worksheets for this part is [here](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/). Videos themselves will be hosted on [Microsoft Streams in a separate channel](https://web.microsoftstream.com/channel/ae255b3b-663f-464a-9397-15a3f59c16b6).
 
 ### Week 21, Thursday 24 March: Introduction and Concepts
