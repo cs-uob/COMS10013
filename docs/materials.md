@@ -148,18 +148,19 @@ Week 18 is reading week. There are no workshops and no new materials.
 ## Analysis (Weeks 19 - 21)
 
 ### Week 19 - A : Differentiation Review
-- [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/lecture11.pdf)
-- [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/worksheet11.pdf)
+- [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/lecture-notes/lecture11.pdf)
+- [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/worksheet11_questions.pdf)
+- [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/worksheet11_solutions.pdf)
 
 ### Week 19 - B : Multivariate Calculus
-- [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/lecture12.pdf)
-- [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/worksheet12.pdf)
+- [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/lecture-notes/lecture12.pdf)
+- [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/worksheet12_questions.pdf)
 
 <!-- ### Week N - A/B : Foo -->
-<!-- - [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/lectureN.pdf) -->
+<!-- - [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/lecture-notes/lectureN.pdf) -->
 <!-- - [Live Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/livenotesN.pdf) -->
-<!-- - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/worksheetN.pdf) -->
-<!-- - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/solutionsN.pdf) -->
+<!-- - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/worksheetN_questions.pdf) -->
+<!-- - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/solutionsN_solutions.pdf) -->
 
 ## Statistics (Weeks 22 - 23)
 
