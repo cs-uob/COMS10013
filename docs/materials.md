@@ -157,6 +157,21 @@ Week 18 is reading week. There are no workshops and no new materials.
 - [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/lecture-notes/lecture12.pdf)
 - [Live Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/live-notes/lecture12.pdf)
 - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/worksheets/worksheet12_questions.pdf)
+- [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/solutions/worksheet12_solutions.pdf)
+
+<!-- ### Week 20 - A : Differential Equations -->
+<!-- - [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/lecture-notes/lecture13.pdf) -->
+<!-- - [Live Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/live-notes/lecture13.pdf) -->
+<!-- - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/worksheets/worksheet13_questions.pdf) -->
+<!-- - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/solutions/worksheet13_solutions.pdf) -->
+
+<!-- ### Week 20 - B : Optimisation -->
+<!-- - [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/lecture-notes/lecture14.pdf) -->
+<!-- - [Live Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/live-notes/lecture14.pdf) -->
+<!-- - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/worksheets/worksheet14_questions.pdf) -->
+<!-- - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/solutions/worksheet14_solutions.pdf) -->
+
+
 
 <!-- ### Week N - A/B : Foo -->
 <!-- - [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/lecture-notes/lectureN.pdf) -->
