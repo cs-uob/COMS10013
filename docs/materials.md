@@ -180,9 +180,9 @@ Week 18 is reading week. There are no workshops and no new materials.
 
 ### Week 21 - B : Complex Numbers
 - [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/lecture-notes/lecture16.pdf)
-<!-- - [Live Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/live-notes/lecture16.pdf) -->
+- [Live Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/live-notes/lecture16.pdf)
 - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/worksheets/worksheet16_questions.pdf)
-<!-- - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/solutions/worksheet16_solutions.pdf) -->
+- [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/solutions/worksheet16_solutions.pdf)
 
 
 <!-- ### Week N - A/B : Foo -->
