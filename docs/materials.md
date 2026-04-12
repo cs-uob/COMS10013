@@ -184,67 +184,51 @@ Week 18 is reading week. There are no workshops and no new materials.
 - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/worksheets/worksheet16_questions.pdf)
 - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/solutions/worksheet16_solutions.pdf)
 
-
-<!-- ### Week N - A/B : Foo -->
-<!-- - [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/lecture-notes/lectureN.pdf) -->
-<!-- - [Live Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/live-notes/lectureN.pdf) -->
-<!-- - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/worksheets/worksheetN_questions.pdf) -->
-<!-- - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/solutions/worksheetN_solutions.pdf) -->
-
 ## Statistics (Weeks 22 - 23)
 
-<!--
+### Week 22 - A : Statistics Introduction and Exploratory Data Analysis
+- [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/lecture-notes/lecture17.pdf)
+<!-- - [Live Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/live-notes/lecture17.pdf) -->
+- [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/worksheets/worksheet17_questions.pdf)
+<!-- - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/solutions/worksheet17_solutions.pdf) -->
 
-This week we will learn some of the foundations of calculus in one and many dimensions.
+### Week 22 - B : Linear Regression
+<!-- - [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/lecture-notes/lecture18.pdf) -->
+<!-- - [Live Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/live-notes/lecture18.pdf) -->
+<!-- - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/worksheets/worksheet18_questions.pdf) -->
+<!-- - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/solutions/worksheet18_solutions.pdf) -->
 
-  * [Video lecture - Stream](https://web.microsoftstream.com/video/7056809a-5e34-40e4-bd79-0a82a140f203)
+### Week 23 - A : Hypothesis Testing I
+<!-- - [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/lecture-notes/lecture19.pdf) -->
+<!-- - [Live Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/live-notes/lecture19.pdf) -->
+<!-- - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/worksheets/worksheet19_questions.pdf) -->
+<!-- - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/solutions/worksheet19_solutions.pdf) -->
 
-  * [Notes 1.1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture1/lecture1.1.pdf)
-  * [Notes 1.2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture1/lecture1.2.pdf)
-  * [Notes 2.1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture2/lecture2.1.pdf)
-  * [Notes 2.2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture2/lecture2.2.pdf)
-  * [Worksheet 1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet1/worksheet1.pdf)
-  * [Worksheet 1 Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet1/solutions1.pdf)
-  * [Worksheet 1 more Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet1/moreSolutions1.pdf)
-  * [Worksheet 2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet2/worksheet2.pdf)
-  * [Worksheet 2 Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet2/solutions2.pdf)
-### Week 20 - Taylor series, complex numbers and Differential equations
-This week we will learn about Taylor series and solve some differential equations.
-
-    * [Video lecture - Stream](https://web.microsoftstream.com/video/7056809a-5e34-40e4-bd79-0a82a140f203)
-
-  * [Notes 3.1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture3/lecture3.1.pdf)
-  * [Notes 3.2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture3/lecture3.2.pdf)
-  * [Notes 4 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture4/lecture4.pdf)
-  * [Worksheet 3 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet3/worksheet3.pdf)
-  * [Worksheet 3 Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet3/solutions3.pdf)
-  * [Worksheet 4 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet4/worksheet4.pdf)
-  * [Worksheet 4 Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet4/solutions4.pdf)
-  * [Worksheet 4 more Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet4/moreSolutions4.pdf)
-
-### Week 21 - More Differential equations and Optimisation
-This week we will learn more about differential equations and look at some optimisation problems
-
-      * [Video lecture - Stream](https://web.microsoftstream.com/video/7056809a-5e34-40e4-bd79-0a82a140f203)
-
-  * [Notes 5.1 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture5/lecture5.1.pdf)
-  * [Notes 5.2 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture5/lecture5.2.pdf)
-  * [Notes 5.3 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture5/lecture5.3.pdf)
-  * [Notes 6 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/lecture6/lecture6.pdf)
-  * [Worksheet 5 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet5/worksheet5.pdf)
-  * [Worksheet 5 Solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet5/solutions5.pdf)
-  * [Worksheet 6 pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/worksheet6/worksheet6.pdf)
-
- * [Live problem class week 13 recording - Stream](https://web.microsoftstream.com/video/e5e1d7c9-01e8-413b-845b-1e06cda594aa)
+### Week 23 - B : Hypothesis Testing II & Review
+<!-- - [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/lecture-notes/lecture20.pdf) -->
+<!-- - [Live Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/live-notes/lecture20.pdf) -->
+<!-- - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/worksheets/worksheet20_questions.pdf) -->
+<!-- - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/solutions/worksheet20_solutions.pdf) -->
 
 
-### Past exam questions and solutions for Analysis
-A selection of example exam questions with solutions.
-* [Mock pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/mock/mock.pdf)
-* [Mock solutions pdf](https://github.com/cs-uob/COMS10013/blob/master/resources/mock/mock_solutions.pdf)
-* [COMS10013 Past analysis paper](https://github.com/cs-uob/COMS10013/blob/master/resources/mock/COMS10013_analysis21.pdf)
 
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 The Teams folder with slides and worksheets for this part is [here](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/statistics/). Videos themselves will be hosted on [Microsoft Streams in a separate channel](https://web.microsoftstream.com/channel/ae255b3b-663f-464a-9397-15a3f59c16b6).
