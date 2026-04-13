@@ -193,7 +193,7 @@ Week 18 is reading week. There are no workshops and no new materials.
 <!-- - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/solutions/worksheet17_solutions.pdf) -->
 
 ### Week 22 - B : Linear Regression
-<!-- - [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/lecture-notes/lecture18.pdf) -->
+- [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/lecture-notes/lecture18.pdf)
 <!-- - [Live Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/live-notes/lecture18.pdf) -->
 <!-- - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/worksheets/worksheet18_questions.pdf) -->
 <!-- - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/solutions/worksheet18_solutions.pdf) -->
