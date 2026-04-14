@@ -184,13 +184,16 @@ Week 18 is reading week. There are no workshops and no new materials.
 - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/worksheets/worksheet16_questions.pdf)
 - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/solutions/worksheet16_solutions.pdf)
 
+### Past Exam Questions
+- 
+
 ## Statistics (Weeks 22 - 23)
 
 ### Week 22 - A : Statistics Introduction and Exploratory Data Analysis
 - [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/lecture-notes/lecture17.pdf)
-<!-- - [Live Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/live-notes/lecture17.pdf) -->
+- [Live Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/live-notes/lecture17.pdf)
 - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/worksheets/worksheet17_questions.pdf)
-<!-- - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/solutions/worksheet17_solutions.pdf) -->
+- [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/solutions/worksheet17_solutions.pdf)
 
 ### Week 22 - B : Linear Regression
 - [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/lecture-notes/lecture18.pdf)
