@@ -184,8 +184,15 @@ Week 18 is reading week. There are no workshops and no new materials.
 - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/worksheets/worksheet16_questions.pdf)
 - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/solutions/worksheet16_solutions.pdf)
 
-<!-- ### Past Exam Questions
--  -->
+### Past Exam Questions
+- [Summer 22](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/past-questions/COMS10013-analysis22.pdf)
+- [Summer 22 Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/past-questions/COMS10013-analysis22-solutions.pdf)
+- [Summer 22 Resit](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/past-questions/COMS10013-analysis22-resit.pdf)
+- [Summer 22 Resit Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/past-questions/COMS10013-analysis22-resit-solutions.pdf)
+- [Summer 23](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/past-questions/COMS10013-analysis23.pdf)
+- [Summer 23 Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/past-questions/COMS10013-analysis23-solutions.pdf)
+- [Summer 24](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/past-questions/COMS10013-analysis24.pdf)
+- [Summer 24 Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/past-questions/COMS10013-analysis24-solutions.pdf)
 
 ## Statistics (Weeks 22 - 23)
 
