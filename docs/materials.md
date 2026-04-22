@@ -209,12 +209,16 @@ Week 18 is reading week. There are no workshops and no new materials.
 
 ### Week 23 - A : Hypothesis Testing I
 - [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/lecture-notes/lecture19.pdf)
-<!-- - [Live Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/live-notes/lecture19.pdf) -->
+- [Live Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/live-notes/lecture19.pdf)
 - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/worksheets/worksheet19_questions.pdf)
 - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/solutions/worksheet19_solutions.pdf)
 
 ### Week 23 - B : Hypothesis Testing II & Review
 - [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/lecture-notes/lecture20.pdf)
-<!-- - [Live Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/live-notes/lecture20.pdf) -->
+- [Live Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/live-notes/lecture20.pdf)
+- [Review Slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/live-notes/slides.pdf)
 <!-- - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/worksheets/worksheet20_questions.pdf) -->
 <!-- - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/solutions/worksheet20_solutions.pdf) -->
+
+### Mock Exam
+- [Mock](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/example-questions/mock.pdf)
