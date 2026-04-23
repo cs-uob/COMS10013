@@ -219,7 +219,8 @@ Week 18 is reading week. There are no workshops and no new materials.
 - [Review Slides](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/live-notes/slides.pdf)
 - [Worksheet](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/worksheets/worksheet20_questions.pdf)
 - [Tables](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/worksheets/tables.pdf)
-<!-- - [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/solutions/worksheet20_solutions.pdf) -->
+- [Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/solutions/worksheet20_solutions.pdf)
 
 ### Mock Exam
 - [Mock](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/example-questions/mock.pdf)
+<!-- - [Mock](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/example-questions/mock_answers.pdf) -->
