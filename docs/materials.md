@@ -223,4 +223,4 @@ Week 18 is reading week. There are no workshops and no new materials.
 
 ### Mock Exam
 - [Mock](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/example-questions/mock.pdf)
-<!-- - [Mock](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/example-questions/mock_answers.pdf) -->
+- [Mock Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/example-questions/mock_answers.pdf)
