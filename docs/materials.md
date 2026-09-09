@@ -10,22 +10,27 @@ There is also a help desk available each week - see your timetable for times - a
 
 For AY 2026/27, the lectures, workshops and help desk are as follows:
 
-Lecture 1: Monday 14:00-15:00 QB 1.40 Pugsley<br>
+Lecture 1: Monday 13:00-14:00 QB 1.40 Pugsley<br>
 Workshop 1: Tuesday 13:00-15:00 QB F101a Bill Brown<br>
 Lecture 2: Wednesday 09:00-10:00 QB 1.40 Pugsley<br>
 Workshop 2: Thursday 13:00-15:00 QB F101a Bill Brown<br>
-Help desk: Friday 10:00-11:00 QB 1.07<br>
+Help desk: Friday 13:00-14:00 QB 1.07<br>
 <br>
 
 ## Linear Algebra (Weeks 13-17)
 
+<!--
+
 For Linear Algebra, there are two topics per week, labelled A and B below. For each topic there is one lecture, one problem sheet and one workshop. There are also course notes, although these may span two topics in some cases. There are two workshops per week (labelled 1 and 2 below) - please see above and your timetable for times of lectures and workshops. Note that workshops happen on the day after the relevant lecture and you should use that time to digest the material and prepare for the workshop. Materials will be released at the end of the week prior to the associated lectures and workshops.
 <br>
+
+-->
 
 <!--
   * [Full set of notes, exercsies and solutions pdf](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2022-23-TB-2-A/Class%20Materials/linearalgebra/mathsB_linalg_full_notes.pdf)
 -->
 
+<!--
 ### Week 13 - A: Vectors and the Dot Product
 
   * [Slides pdf](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_slides.pdf)
@@ -34,9 +39,6 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [Problem Sheet 1](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet.pdf) - workshop 1, week 13.
   * [Problem Sheet 1 with Solutions](https://uob.sharepoint.com/:f:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/mathsB_vectors_probsheet_ans.pdf)
 
-<!--
- * [Live problem class week 13 recording - Stream](https://web.microsoftstream.com/video/e5e1d7c9-01e8-413b-845b-1e06cda594aa)
--->
 
 ### Week 13 - B: Geometry and Vectors
 
@@ -139,12 +141,15 @@ For Linear Algebra, there are two topics per week, labelled A and B below. For e
   * [2024 - exam questions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2024.pdf?csf=1&web=1&e=3lvHT8)
   * [2024 - exam solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/linearalgebra/COMS10013-LA-exam2024-solutions.pdf?csf=1&web=1&e=yiqMOO)
 
+-->
 
 ## Reading Week
 
 Week 18 is reading week. There are no workshops and no new materials.
 
 ## Analysis (Weeks 19 - 21)
+
+<!--
 
 ### Week 19 - A : Differentiation Review
 - [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/lecture-notes/lecture11.pdf)
@@ -193,7 +198,11 @@ Week 18 is reading week. There are no workshops and no new materials.
 - [Summer 24](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/past-questions/COMS10013-analysis24.pdf)
 - [Summer 24 Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/analysis/past-questions/COMS10013-analysis24-solutions.pdf)
 
+-->
+
 ## Statistics (Weeks 22 - 23)
+
+<!--
 
 ### Week 22 - A : Statistics Introduction and Exploratory Data Analysis
 - [Lecture Notes](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/lecture-notes/lecture17.pdf)
@@ -224,3 +233,5 @@ Week 18 is reading week. There are no workshops and no new materials.
 ### Mock Exam
 - [Mock](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/example-questions/mock.pdf)
 - [Mock Solutions](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS10013-2025-26-TB-2-A/Class%20Materials/statistics/example-questions/mock_answers.pdf)
+
+-->
